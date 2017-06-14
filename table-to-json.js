@@ -1,15 +1,24 @@
 var meso = './src/meso_micro_mun.txt';
 
-var tableToJson = function(inputTable) {
+var tableToJson = function(inputTable, columnKey, columnValue) {
   var fs = require('fs');
   var data = fs.readFileSync(inputTable, "latin1");
-  var dataTable = _splitData(data);
+  var dataTable = _splitData(data).filter(function(n){return n[0] !== '';});
+  var tableObj = _makeTableObj(dataTable, columnKey, columnValue);
 
   function _splitData(data) {
     var dataText = data.toString().split(/\r?\n/);
     return dataText.map(function(line) {
       return line.split("\t");
     });
+  }
+
+  function _makeTableObj(matrix, columnKey, columnValue) {
+    return matrix.reduce(function (o, currentArray) {
+        var key = currentArray[columnKey], value = currentArray[columnValue];
+        o[key] = value;
+          return o;
+    }, {});
   }
 };
 
