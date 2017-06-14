@@ -1,0 +1,887 @@
+Abre Campo	17	Auxiliar de Enfermagem
+Acaiaca	2	Auxiliar de Enfermagem
+Açucena	6	Auxiliar de Enfermagem
+Adão Colares	1	Auxiliar de Enfermagem
+Água Boa	1	Auxiliar de Enfermagem
+Água Comprida	1	Auxiliar de Enfermagem
+Aguanil	12	Auxiliar de Enfermagem
+Águas Formosas	26	Auxiliar de Enfermagem
+Águas Vermelhas	6	Auxiliar de Enfermagem
+Aimorés	18	Auxiliar de Enfermagem
+Aiuruoca	8	Auxiliar de Enfermagem
+Alagoa	9	Auxiliar de Enfermagem
+Albertina	3	Auxiliar de Enfermagem
+Aldeia	1	Auxiliar de Enfermagem
+Além Paraíba	102	Auxiliar de Enfermagem
+Alexandrita	2	Auxiliar de Enfermagem
+Alfenas	106	Auxiliar de Enfermagem
+Alfredo Vasconcelos	2	Auxiliar de Enfermagem
+Almeida	1	Auxiliar de Enfermagem
+Almenara	43	Auxiliar de Enfermagem
+Alpinópolis	25	Auxiliar de Enfermagem
+Alterosa	11	Auxiliar de Enfermagem
+Alto Caparaó	3	Auxiliar de Enfermagem
+Alto Jequitibá	22	Auxiliar de Enfermagem
+Alto Rio Doce	9	Auxiliar de Enfermagem
+Alvarenga	4	Auxiliar de Enfermagem
+Alvinópolis	10	Auxiliar de Enfermagem
+Alvorada de Minas	6	Auxiliar de Enfermagem
+Amanda	1	Auxiliar de Enfermagem
+Amarantina	1	Auxiliar de Enfermagem
+Andradas	58	Auxiliar de Enfermagem
+Andrelândia	11	Auxiliar de Enfermagem
+Angelândia	6	Auxiliar de Enfermagem
+Antônio Carlos	8	Auxiliar de Enfermagem
+Antônio Dias	3	Auxiliar de Enfermagem
+Antônio Prado de Minas	3	Auxiliar de Enfermagem
+Araçaí	2	Auxiliar de Enfermagem
+Aracitaba	1	Auxiliar de Enfermagem
+Araçuaí	36	Auxiliar de Enfermagem
+Araguari	52	Auxiliar de Enfermagem
+Arantina	1	Auxiliar de Enfermagem
+Araporã	3	Auxiliar de Enfermagem
+Arapuá	5	Auxiliar de Enfermagem
+Araújos	4	Auxiliar de Enfermagem
+Araxá	128	Auxiliar de Enfermagem
+Arceburgo	19	Auxiliar de Enfermagem
+Arcos	35	Auxiliar de Enfermagem
+Areado	5	Auxiliar de Enfermagem
+Argirita	1	Auxiliar de Enfermagem
+Aricanduva	5	Auxiliar de Enfermagem
+Arinos	13	Auxiliar de Enfermagem
+Astolfo Dutra	12	Auxiliar de Enfermagem
+Ataléia	13	Auxiliar de Enfermagem
+Augusto de Lima	3	Auxiliar de Enfermagem
+Azurita	3	Auxiliar de Enfermagem
+Baependi	17	Auxiliar de Enfermagem
+Baldim	9	Auxiliar de Enfermagem
+Bambuí	44	Auxiliar de Enfermagem
+Bandeira	2	Auxiliar de Enfermagem
+Bandeira do Sul	7	Auxiliar de Enfermagem
+Barão de Cocais	35	Auxiliar de Enfermagem
+Barão de Monte Alto	13	Auxiliar de Enfermagem
+Barbacena	281	Auxiliar de Enfermagem
+Barra Longa	5	Auxiliar de Enfermagem
+Barroso	25	Auxiliar de Enfermagem
+Bela Vista de Minas	9	Auxiliar de Enfermagem
+Belisário	4	Auxiliar de Enfermagem
+Belo Horizonte	5.494	Auxiliar de Enfermagem
+Belo Oriente	14	Auxiliar de Enfermagem
+Belo Oriente	14	Auxiliar de Enfermagem
+Belo Vale	3	Auxiliar de Enfermagem
+Berilo	10	Auxiliar de Enfermagem
+Berizal	1	Auxiliar de Enfermagem
+Bertópolis	4	Auxiliar de Enfermagem
+Betim	595	Auxiliar de Enfermagem
+Bias Fortes	2	Auxiliar de Enfermagem
+Bicas	15	Auxiliar de Enfermagem
+Boa Esperança	53	Auxiliar de Enfermagem
+Boa Esperança	53	Auxiliar de Enfermagem
+Boa Vista de Minas	1	Auxiliar de Enfermagem
+Bocaina de Minas	2	Auxiliar de Enfermagem
+Bocaiúva	63	Auxiliar de Enfermagem
+Bom Despacho	32	Auxiliar de Enfermagem
+Bom Jardim de Minas	1	Auxiliar de Enfermagem
+Bom Jesus da Cachoeira	1	Auxiliar de Enfermagem
+Bom Jesus da Penha	7	Auxiliar de Enfermagem
+Bom Jesus do Amparo	4	Auxiliar de Enfermagem
+Bom Jesus do Galho	11	Auxiliar de Enfermagem
+Bom Repouso	6	Auxiliar de Enfermagem
+Bom Sucesso	12	Auxiliar de Enfermagem
+Bonfim	8	Auxiliar de Enfermagem
+Bonito de Minas	5	Auxiliar de Enfermagem
+Borda da Mata	19	Auxiliar de Enfermagem
+Botelhos	10	Auxiliar de Enfermagem
+Botumirim	12	Auxiliar de Enfermagem
+Brasilândia de Minas	10	Auxiliar de Enfermagem
+Brasília de Minas	17	Auxiliar de Enfermagem
+Brasópolis	11	Auxiliar de Enfermagem
+Brejo Bonito	1	Auxiliar de Enfermagem
+Brumadinho	40	Auxiliar de Enfermagem
+Bueno Brandão	8	Auxiliar de Enfermagem
+Buenópolis	7	Auxiliar de Enfermagem
+Bugre	5	Auxiliar de Enfermagem
+Buritis	7	Auxiliar de Enfermagem
+Buritizeiro	9	Auxiliar de Enfermagem
+Cabo Verde	15	Auxiliar de Enfermagem
+Cachoeira Alegre	1	Auxiliar de Enfermagem
+Cachoeira da Prata	1	Auxiliar de Enfermagem
+Cachoeira de Minas	8	Auxiliar de Enfermagem
+Cachoeira de Pajeú	14	Auxiliar de Enfermagem
+Cachoeira do Campo	3	Auxiliar de Enfermagem
+Caetanópolis	16	Auxiliar de Enfermagem
+Caeté	92	Auxiliar de Enfermagem
+Caeté	92	Auxiliar de Enfermagem
+Caiana	8	Auxiliar de Enfermagem
+Cajuri	3	Auxiliar de Enfermagem
+Caldas	22	Auxiliar de Enfermagem
+Calixto	1	Auxiliar de Enfermagem
+Camacho	5	Auxiliar de Enfermagem
+Camanducaia	23	Auxiliar de Enfermagem
+Cambuí	32	Auxiliar de Enfermagem
+Cambuquira	16	Auxiliar de Enfermagem
+Campanário	4	Auxiliar de Enfermagem
+Campanha	11	Auxiliar de Enfermagem
+Campestre	43	Auxiliar de Enfermagem
+Campina Verde	18	Auxiliar de Enfermagem
+Campo Azul	1	Auxiliar de Enfermagem
+Campo Belo	62	Auxiliar de Enfermagem
+Campo do Meio	17	Auxiliar de Enfermagem
+Campo Florido	4	Auxiliar de Enfermagem
+Campos Altos	13	Auxiliar de Enfermagem
+Campos Gerais	25	Auxiliar de Enfermagem
+Cana Verde	13	Auxiliar de Enfermagem
+Canaã	2	Auxiliar de Enfermagem
+Canápolis	3	Auxiliar de Enfermagem
+Candeias	23	Auxiliar de Enfermagem
+Cantagalo	2	Auxiliar de Enfermagem
+Caparaó	4	Auxiliar de Enfermagem
+Capela Nova	2	Auxiliar de Enfermagem
+Capelinha	54	Auxiliar de Enfermagem
+Capetinga	3	Auxiliar de Enfermagem
+Capim Branco	13	Auxiliar de Enfermagem
+Capinópolis	10	Auxiliar de Enfermagem
+Capitão Enéas	18	Auxiliar de Enfermagem
+Capitólio	13	Auxiliar de Enfermagem
+Caputira	18	Auxiliar de Enfermagem
+Caraí	10	Auxiliar de Enfermagem
+Caranaíba	4	Auxiliar de Enfermagem
+Carandaí	14	Auxiliar de Enfermagem
+Carangola	59	Auxiliar de Enfermagem
+Caratinga	68	Auxiliar de Enfermagem
+Carbonita	10	Auxiliar de Enfermagem
+Careaçu	12	Auxiliar de Enfermagem
+Carlos Alves	1	Auxiliar de Enfermagem
+Carlos Chagas	23	Auxiliar de Enfermagem
+Carmésia	3	Auxiliar de Enfermagem
+Carmo da Cachoeira	8	Auxiliar de Enfermagem
+Carmo da Mata	17	Auxiliar de Enfermagem
+Carmo de Minas	4	Auxiliar de Enfermagem
+Carmo do Cajuru	52	Auxiliar de Enfermagem
+Carmo do Paranaíba	17	Auxiliar de Enfermagem
+Carmo do Rio Claro	27	Auxiliar de Enfermagem
+Carmópolis de Minas	15	Auxiliar de Enfermagem
+Carneirinho	8	Auxiliar de Enfermagem
+Carrancas	7	Auxiliar de Enfermagem
+Carvalhópolis	8	Auxiliar de Enfermagem
+Carvalhos	2	Auxiliar de Enfermagem
+Casa Grande	3	Auxiliar de Enfermagem
+Cascalho Rico	1	Auxiliar de Enfermagem
+Cássia	40	Auxiliar de Enfermagem
+Cataguases	151	Auxiliar de Enfermagem
+Catas Altas	2	Auxiliar de Enfermagem
+Catas Altas da Noruega	1	Auxiliar de Enfermagem
+Catuji	5	Auxiliar de Enfermagem
+Catuni	1	Auxiliar de Enfermagem
+Catuti	1	Auxiliar de Enfermagem
+Caxambu	21	Auxiliar de Enfermagem
+Cedro do Abaeté	3	Auxiliar de Enfermagem
+Central de Minas	5	Auxiliar de Enfermagem
+Centralina	5	Auxiliar de Enfermagem
+Chácara	1	Auxiliar de Enfermagem
+Chalé	10	Auxiliar de Enfermagem
+Chapada de Minas	2	Auxiliar de Enfermagem
+Chapada do Norte	4	Auxiliar de Enfermagem
+Chapada Gaúcha	6	Auxiliar de Enfermagem
+Chaveslândia	3	Auxiliar de Enfermagem
+Chiador	6	Auxiliar de Enfermagem
+Cipotânea	7	Auxiliar de Enfermagem
+Claraval	6	Auxiliar de Enfermagem
+Claro dos Poções	15	Auxiliar de Enfermagem
+Cláudio	21	Auxiliar de Enfermagem
+Coluna	20	Auxiliar de Enfermagem
+Comendador Gomes	3	Auxiliar de Enfermagem
+Comercinho	2	Auxiliar de Enfermagem
+Conceição da Aparecida	4	Auxiliar de Enfermagem
+Conceição da Barra de Minas	6	Auxiliar de Enfermagem
+Conceição das Alagoas	5	Auxiliar de Enfermagem
+Conceição das Pedras	2	Auxiliar de Enfermagem
+Conceição de Ipanema	3	Auxiliar de Enfermagem
+Conceição do Mato Dentro	6	Auxiliar de Enfermagem
+Conceição do Pará	8	Auxiliar de Enfermagem
+Conceição do Rio Verde	4	Auxiliar de Enfermagem
+Conceição dos Ouros	8	Auxiliar de Enfermagem
+Cônego Marinho	6	Auxiliar de Enfermagem
+Confins	7	Auxiliar de Enfermagem
+Congonhal	15	Auxiliar de Enfermagem
+Congonhas	43	Auxiliar de Enfermagem
+Congonhas do Norte	5	Auxiliar de Enfermagem
+Conquista	4	Auxiliar de Enfermagem
+Conselheiro Lafaiete	88	Auxiliar de Enfermagem
+Conselheiro Mata	1	Auxiliar de Enfermagem
+Conselheiro Pena	13	Auxiliar de Enfermagem
+Consolação	2	Auxiliar de Enfermagem
+Contagem	1.096	Auxiliar de Enfermagem
+Contria	1	Auxiliar de Enfermagem
+Coqueiral	22	Auxiliar de Enfermagem
+Coração de Jesus	28	Auxiliar de Enfermagem
+Cordisburgo	14	Auxiliar de Enfermagem
+Cordislândia	4	Auxiliar de Enfermagem
+Corinto	26	Auxiliar de Enfermagem
+Coroaci	5	Auxiliar de Enfermagem
+Coromandel	28	Auxiliar de Enfermagem
+Coronel Fabriciano	95	Auxiliar de Enfermagem
+Coronel Murta	9	Auxiliar de Enfermagem
+Coronel Pacheco	4	Auxiliar de Enfermagem
+Coronel Xavier Chaves	1	Auxiliar de Enfermagem
+Córrego Danta	5	Auxiliar de Enfermagem
+Córrego do Bom Jesus	6	Auxiliar de Enfermagem
+Córrego Fundo	3	Auxiliar de Enfermagem
+Córrego Novo	5	Auxiliar de Enfermagem
+Correia de Almeida	1	Auxiliar de Enfermagem
+Couto de Magalhães de Minas	3	Auxiliar de Enfermagem
+Crisólita	5	Auxiliar de Enfermagem
+Cristais	15	Auxiliar de Enfermagem
+Cristália	9	Auxiliar de Enfermagem
+Cristiano Otoni	4	Auxiliar de Enfermagem
+Cristina	29	Auxiliar de Enfermagem
+Crucilândia	2	Auxiliar de Enfermagem
+Cruzeiro da Fortaleza	3	Auxiliar de Enfermagem
+Cruzília	17	Auxiliar de Enfermagem
+Cuparaque	1	Auxiliar de Enfermagem
+Curral de Dentro	2	Auxiliar de Enfermagem
+Curvelo	90	Auxiliar de Enfermagem
+Datas	10	Auxiliar de Enfermagem
+Delfim Moreira	5	Auxiliar de Enfermagem
+Delfinópolis	3	Auxiliar de Enfermagem
+Delta	1	Auxiliar de Enfermagem
+Descoberto	6	Auxiliar de Enfermagem
+Desembargador Otoni	3	Auxiliar de Enfermagem
+Desterro de Entre Rios	1	Auxiliar de Enfermagem
+Desterro do Melo	2	Auxiliar de Enfermagem
+Diamantina	88	Auxiliar de Enfermagem
+Diogo de Vasconcelos	1	Auxiliar de Enfermagem
+Dionísio	4	Auxiliar de Enfermagem
+Divinésia	5	Auxiliar de Enfermagem
+Divino	8	Auxiliar de Enfermagem
+Divino das Laranjeiras	1	Auxiliar de Enfermagem
+Divinópolis	589	Auxiliar de Enfermagem
+Divisa Alegre	3	Auxiliar de Enfermagem
+Divisa Nova	3	Auxiliar de Enfermagem
+Divisópolis	11	Auxiliar de Enfermagem
+Dom Cavati	3	Auxiliar de Enfermagem
+Dom Joaquim	12	Auxiliar de Enfermagem
+Dom Silvério	1	Auxiliar de Enfermagem
+Dom Viçoso	4	Auxiliar de Enfermagem
+Dona Euzébia	3	Auxiliar de Enfermagem
+Dores do Indaiá	20	Auxiliar de Enfermagem
+Dores do Turvo	5	Auxiliar de Enfermagem
+Doresópolis	6	Auxiliar de Enfermagem
+Douradoquara	4	Auxiliar de Enfermagem
+Durandé	4	Auxiliar de Enfermagem
+Elói Mendes	30	Auxiliar de Enfermagem
+Engenheiro Caldas	5	Auxiliar de Enfermagem
+Engenheiro Navarro	10	Auxiliar de Enfermagem
+Entre Folhas	3	Auxiliar de Enfermagem
+Entre Rios de Minas	16	Auxiliar de Enfermagem
+Ervália	13	Auxiliar de Enfermagem
+Esmeraldas	55	Auxiliar de Enfermagem
+Espera Feliz	30	Auxiliar de Enfermagem
+Espinosa	13	Auxiliar de Enfermagem
+Espírito Santo do Dourado	1	Auxiliar de Enfermagem
+Estiva	7	Auxiliar de Enfermagem
+Estrela Dalva	4	Auxiliar de Enfermagem
+Estrela do Indaiá	3	Auxiliar de Enfermagem
+Estrela do Sul	4	Auxiliar de Enfermagem
+Eugenópolis	11	Auxiliar de Enfermagem
+Extrema	34	Auxiliar de Enfermagem
+Fama	2	Auxiliar de Enfermagem
+Faria Lemos	9	Auxiliar de Enfermagem
+Felício dos Santos	10	Auxiliar de Enfermagem
+Felisburgo	9	Auxiliar de Enfermagem
+Felixlândia	16	Auxiliar de Enfermagem
+Fernandes Tourinho	1	Auxiliar de Enfermagem
+Ferreirópolis	1	Auxiliar de Enfermagem
+Ferros	19	Auxiliar de Enfermagem
+Fervedouro	9	Auxiliar de Enfermagem
+Fidelândia	1	Auxiliar de Enfermagem
+Flor de Minas	1	Auxiliar de Enfermagem
+Florestal	7	Auxiliar de Enfermagem
+Formiga	66	Auxiliar de Enfermagem
+Formoso	3	Auxiliar de Enfermagem
+Fortaleza de Minas	6	Auxiliar de Enfermagem
+Fortuna de Minas	5	Auxiliar de Enfermagem
+Francisco Badaró	8	Auxiliar de Enfermagem
+Francisco Dumont	7	Auxiliar de Enfermagem
+Francisco Sá	14	Auxiliar de Enfermagem
+Franciscópolis	7	Auxiliar de Enfermagem
+Frei Gaspar	4	Auxiliar de Enfermagem
+Frei Inocêncio	2	Auxiliar de Enfermagem
+Frei Lagonegro	2	Auxiliar de Enfermagem
+Frei Orlando	1	Auxiliar de Enfermagem
+Fronteira	9	Auxiliar de Enfermagem
+Fronteira dos Vales	8	Auxiliar de Enfermagem
+Fruta de Leite	4	Auxiliar de Enfermagem
+Frutal	51	Auxiliar de Enfermagem
+Funilândia	3	Auxiliar de Enfermagem
+Furquim	1	Auxiliar de Enfermagem
+Galiléia	1	Auxiliar de Enfermagem
+Gameleiras	2	Auxiliar de Enfermagem
+Glaucilândia	6	Auxiliar de Enfermagem
+Goiabeira	1	Auxiliar de Enfermagem
+Goianá	1	Auxiliar de Enfermagem
+Gonçalves	3	Auxiliar de Enfermagem
+Gonzaga	1	Auxiliar de Enfermagem
+Gouveia	12	Auxiliar de Enfermagem
+Governador Valadares	96	Auxiliar de Enfermagem
+Granada	1	Auxiliar de Enfermagem
+Grão Mogol	18	Auxiliar de Enfermagem
+Grupiara	4	Auxiliar de Enfermagem
+Guanhães	39	Auxiliar de Enfermagem
+Guapé	11	Auxiliar de Enfermagem
+Guaraciaba	6	Auxiliar de Enfermagem
+Guaraciama	7	Auxiliar de Enfermagem
+Guaranésia	21	Auxiliar de Enfermagem
+Guarani	8	Auxiliar de Enfermagem
+Guarará	4	Auxiliar de Enfermagem
+Guarda dos Ferreiros	1	Auxiliar de Enfermagem
+Guarda-Mor	7	Auxiliar de Enfermagem
+Guaxupé	53	Auxiliar de Enfermagem
+Guidoval	6	Auxiliar de Enfermagem
+Guiricema	4	Auxiliar de Enfermagem
+Gurinhatã	7	Auxiliar de Enfermagem
+Heliodora	7	Auxiliar de Enfermagem
+Humaitá	1	Auxiliar de Enfermagem
+Iapu	4	Auxiliar de Enfermagem
+Ibertioga	10	Auxiliar de Enfermagem
+Ibiá	7	Auxiliar de Enfermagem
+Ibiaí	4	Auxiliar de Enfermagem
+Ibiracatu	6	Auxiliar de Enfermagem
+Ibiraci	27	Auxiliar de Enfermagem
+Ibirité	184	Auxiliar de Enfermagem
+Ibitiúra de Minas	3	Auxiliar de Enfermagem
+Ibituruna	8	Auxiliar de Enfermagem
+Icaraí de Minas	5	Auxiliar de Enfermagem
+Igarapé	17	Auxiliar de Enfermagem
+Igaratinga	6	Auxiliar de Enfermagem
+Iguatama	14	Auxiliar de Enfermagem
+Ijaci	8	Auxiliar de Enfermagem
+Ilicínea	6	Auxiliar de Enfermagem
+Inconfidentes	12	Auxiliar de Enfermagem
+Indaiabira	5	Auxiliar de Enfermagem
+Indianópolis	6	Auxiliar de Enfermagem
+Ingaí	8	Auxiliar de Enfermagem
+Inhaí	1	Auxiliar de Enfermagem
+Inhapim	21	Auxiliar de Enfermagem
+Inhaúma	13	Auxiliar de Enfermagem
+Inimutaba	5	Auxiliar de Enfermagem
+Ipaba	27	Auxiliar de Enfermagem
+Ipanema	23	Auxiliar de Enfermagem
+Ipatinga	262	Auxiliar de Enfermagem
+Ipiaçu	6	Auxiliar de Enfermagem
+Ipoema	2	Auxiliar de Enfermagem
+Ipuiúna	13	Auxiliar de Enfermagem
+Iraí de Minas	3	Auxiliar de Enfermagem
+Itabira	125	Auxiliar de Enfermagem
+Itabirinha	13	Auxiliar de Enfermagem
+Itabirito	61	Auxiliar de Enfermagem
+Itacambira	7	Auxiliar de Enfermagem
+Itacarambi	52	Auxiliar de Enfermagem
+Itaguara	13	Auxiliar de Enfermagem
+Itaim	1	Auxiliar de Enfermagem
+Itaipé	10	Auxiliar de Enfermagem
+Itajubá	170	Auxiliar de Enfermagem
+Itamarandiba	17	Auxiliar de Enfermagem
+Itamarati	1	Auxiliar de Enfermagem
+Itamarati de Minas	9	Auxiliar de Enfermagem
+Itambacuri	41	Auxiliar de Enfermagem
+Itamogi	19	Auxiliar de Enfermagem
+Itamonte	5	Auxiliar de Enfermagem
+Itamuri	1	Auxiliar de Enfermagem
+Itanhandu	12	Auxiliar de Enfermagem
+Itanhomi	9	Auxiliar de Enfermagem
+Itaobim	18	Auxiliar de Enfermagem
+Itapagipe	8	Auxiliar de Enfermagem
+Itapecerica	33	Auxiliar de Enfermagem
+Itapeva	6	Auxiliar de Enfermagem
+Itatiaiuçu	11	Auxiliar de Enfermagem
+Itaú de Minas	20	Auxiliar de Enfermagem
+Itaúna	103	Auxiliar de Enfermagem
+Itaverava	5	Auxiliar de Enfermagem
+Itinga	9	Auxiliar de Enfermagem
+Itueta	6	Auxiliar de Enfermagem
+Ituiutaba	46	Auxiliar de Enfermagem
+Itumirim	6	Auxiliar de Enfermagem
+Iturama	16	Auxiliar de Enfermagem
+Itutinga	3	Auxiliar de Enfermagem
+Jaboticatubas	20	Auxiliar de Enfermagem
+Jacinto	10	Auxiliar de Enfermagem
+Jacuí	5	Auxiliar de Enfermagem
+Jacutinga	25	Auxiliar de Enfermagem
+Jaguaraçu	1	Auxiliar de Enfermagem
+Jaíba	26	Auxiliar de Enfermagem
+Jampruca	3	Auxiliar de Enfermagem
+Janaúba	67	Auxiliar de Enfermagem
+Januária	93	Auxiliar de Enfermagem
+Japonvar	4	Auxiliar de Enfermagem
+Jeceaba	7	Auxiliar de Enfermagem
+Jenipapo de Minas	2	Auxiliar de Enfermagem
+Jequeri	8	Auxiliar de Enfermagem
+Jequitaí	12	Auxiliar de Enfermagem
+Jequitibá	4	Auxiliar de Enfermagem
+Jequitinhonha	15	Auxiliar de Enfermagem
+Jesuânia	5	Auxiliar de Enfermagem
+Joaíma	22	Auxiliar de Enfermagem
+João Monlevade	55	Auxiliar de Enfermagem
+João Pinheiro	25	Auxiliar de Enfermagem
+Joaquim Felício	1	Auxiliar de Enfermagem
+Jordânia	5	Auxiliar de Enfermagem
+José Raydan	5	Auxiliar de Enfermagem
+Josenópolis	11	Auxiliar de Enfermagem
+Juatuba	24	Auxiliar de Enfermagem
+Juiz de Fora	619	Auxiliar de Enfermagem
+Juramento	14	Auxiliar de Enfermagem
+Juruaia	10	Auxiliar de Enfermagem
+Jurumirim	1	Auxiliar de Enfermagem
+Justinópolis	2	Auxiliar de Enfermagem
+Juvenília	2	Auxiliar de Enfermagem
+Ladainha	16	Auxiliar de Enfermagem
+Lagamar	14	Auxiliar de Enfermagem
+Lagoa da Prata	34	Auxiliar de Enfermagem
+Lagoa dos Patos	3	Auxiliar de Enfermagem
+Lagoa Dourada	10	Auxiliar de Enfermagem
+Lagoa Formosa	15	Auxiliar de Enfermagem
+Lagoa Grande	2	Auxiliar de Enfermagem
+Lagoa Santa	69	Auxiliar de Enfermagem
+Lajinha	26	Auxiliar de Enfermagem
+Lambari	12	Auxiliar de Enfermagem
+Lamim	4	Auxiliar de Enfermagem
+Laranjal	7	Auxiliar de Enfermagem
+Lassance	5	Auxiliar de Enfermagem
+Lavras	168	Auxiliar de Enfermagem
+Leandro Ferreira	6	Auxiliar de Enfermagem
+Leme do Prado	3	Auxiliar de Enfermagem
+Leopoldina	73	Auxiliar de Enfermagem
+Lima Duarte	17	Auxiliar de Enfermagem
+Limeira do Oeste	14	Auxiliar de Enfermagem
+Lontra	5	Auxiliar de Enfermagem
+Luisburgo	2	Auxiliar de Enfermagem
+Luislândia	4	Auxiliar de Enfermagem
+Luizlândia do Oeste	1	Auxiliar de Enfermagem
+Luminárias	10	Auxiliar de Enfermagem
+Luz	13	Auxiliar de Enfermagem
+Macaia	1	Auxiliar de Enfermagem
+Machacalis	15	Auxiliar de Enfermagem
+Machado	30	Auxiliar de Enfermagem
+Macuco de Minas	1	Auxiliar de Enfermagem
+Madre de Deus de Minas	3	Auxiliar de Enfermagem
+Major Porto	1	Auxiliar de Enfermagem
+Malacacheta	29	Auxiliar de Enfermagem
+Mamonas	6	Auxiliar de Enfermagem
+Manga	15	Auxiliar de Enfermagem
+Manhuaçu	173	Auxiliar de Enfermagem
+Manhumirim	41	Auxiliar de Enfermagem
+Mantena	15	Auxiliar de Enfermagem
+Mar de Espanha	6	Auxiliar de Enfermagem
+Marambainha	1	Auxiliar de Enfermagem
+Maravilhas	3	Auxiliar de Enfermagem
+Maria da Fé	15	Auxiliar de Enfermagem
+Mariana	21	Auxiliar de Enfermagem
+Marilac	1	Auxiliar de Enfermagem
+Mário Campos	17	Auxiliar de Enfermagem
+Maripá de Minas	1	Auxiliar de Enfermagem
+Marliéria	1	Auxiliar de Enfermagem
+Marmelópolis	6	Auxiliar de Enfermagem
+Martinésia	1	Auxiliar de Enfermagem
+Martinho Campos	9	Auxiliar de Enfermagem
+Martins Soares	3	Auxiliar de Enfermagem
+Mata Verde	8	Auxiliar de Enfermagem
+Materlândia	3	Auxiliar de Enfermagem
+Mateus Leme	39	Auxiliar de Enfermagem
+Mathias Lobato	2	Auxiliar de Enfermagem
+Matias Barbosa	14	Auxiliar de Enfermagem
+Matias Cardoso	4	Auxiliar de Enfermagem
+Matipó	25	Auxiliar de Enfermagem
+Mato Verde	4	Auxiliar de Enfermagem
+Matozinhos	57	Auxiliar de Enfermagem
+Matutina	5	Auxiliar de Enfermagem
+Medeiros	1	Auxiliar de Enfermagem
+Medina	20	Auxiliar de Enfermagem
+Mendes Pimentel	4	Auxiliar de Enfermagem
+Mercês de Água Limpa	2	Auxiliar de Enfermagem
+Mesquita	4	Auxiliar de Enfermagem
+Minas Novas	12	Auxiliar de Enfermagem
+Mirabela	4	Auxiliar de Enfermagem
+Miradouro	15	Auxiliar de Enfermagem
+Miraí	18	Auxiliar de Enfermagem
+Mocambeiro	4	Auxiliar de Enfermagem
+Moeda	3	Auxiliar de Enfermagem
+Moema	21	Auxiliar de Enfermagem
+Monjolos	6	Auxiliar de Enfermagem
+Monsenhor Paulo	13	Auxiliar de Enfermagem
+Montalvânia	31	Auxiliar de Enfermagem
+Monte Azul	19	Auxiliar de Enfermagem
+Monte Belo	15	Auxiliar de Enfermagem
+Monte Carmelo	32	Auxiliar de Enfermagem
+Monte Formoso	6	Auxiliar de Enfermagem
+Monte Santo de Minas	60	Auxiliar de Enfermagem
+Monte Sião	17	Auxiliar de Enfermagem
+Monte Verde	2	Auxiliar de Enfermagem
+Montes Claros	618	Auxiliar de Enfermagem
+Montezuma	4	Auxiliar de Enfermagem
+Morada Nova de Minas	9	Auxiliar de Enfermagem
+Morro da Garça	5	Auxiliar de Enfermagem
+Morro do Ferro	1	Auxiliar de Enfermagem
+Morro do Pilar	4	Auxiliar de Enfermagem
+Munhoz	4	Auxiliar de Enfermagem
+Muriaé	206	Auxiliar de Enfermagem
+Mutum	56	Auxiliar de Enfermagem
+Muzambinho	14	Auxiliar de Enfermagem
+Nacip Raydan	1	Auxiliar de Enfermagem
+Nanuque	70	Auxiliar de Enfermagem
+Naque	2	Auxiliar de Enfermagem
+Natalândia	4	Auxiliar de Enfermagem
+Natércia	9	Auxiliar de Enfermagem
+Nazareno	10	Auxiliar de Enfermagem
+Nepomuceno	28	Auxiliar de Enfermagem
+Ninheira	5	Auxiliar de Enfermagem
+Nova Era	4	Auxiliar de Enfermagem
+Nova Esperança	2	Auxiliar de Enfermagem
+Nova Lima	144	Auxiliar de Enfermagem
+Nova Módica	7	Auxiliar de Enfermagem
+Nova Ponte	5	Auxiliar de Enfermagem
+Nova Porteirinha	5	Auxiliar de Enfermagem
+Nova Resende	13	Auxiliar de Enfermagem
+Nova Serrana	53	Auxiliar de Enfermagem
+Nova União	11	Auxiliar de Enfermagem
+Novo Cruzeiro	19	Auxiliar de Enfermagem
+Novo Horizonte	7	Auxiliar de Enfermagem
+Novo Oriente de Minas	4	Auxiliar de Enfermagem
+Novorizonte	2	Auxiliar de Enfermagem
+Olhos D'Água	7	Auxiliar de Enfermagem
+Olímpio Noronha	3	Auxiliar de Enfermagem
+Oliveira	24	Auxiliar de Enfermagem
+Oliveira Fortes	2	Auxiliar de Enfermagem
+Onça de Pitangui	1	Auxiliar de Enfermagem
+Oratórios	3	Auxiliar de Enfermagem
+Orizânia	4	Auxiliar de Enfermagem
+Ouro Branco	48	Auxiliar de Enfermagem
+Ouro Fino	58	Auxiliar de Enfermagem
+Ouro Preto	21	Auxiliar de Enfermagem
+Ouro Verde de Minas	3	Auxiliar de Enfermagem
+Paciência	1	Auxiliar de Enfermagem
+Padre Carvalho	4	Auxiliar de Enfermagem
+Padre Paraíso	23	Auxiliar de Enfermagem
+Pai Pedro	3	Auxiliar de Enfermagem
+Paineiras	7	Auxiliar de Enfermagem
+Pains	19	Auxiliar de Enfermagem
+Paiva	1	Auxiliar de Enfermagem
+Palma	12	Auxiliar de Enfermagem
+Palmeiral	1	Auxiliar de Enfermagem
+Palmópolis	1	Auxiliar de Enfermagem
+Papagaios	7	Auxiliar de Enfermagem
+Pará de Minas	96	Auxiliar de Enfermagem
+Paracatu	36	Auxiliar de Enfermagem
+Paraguaçu	24	Auxiliar de Enfermagem
+Paraisópolis	8	Auxiliar de Enfermagem
+Paraopeba	29	Auxiliar de Enfermagem
+Passa Dez	1	Auxiliar de Enfermagem
+Passa Quatro	13	Auxiliar de Enfermagem
+Passa Tempo	2	Auxiliar de Enfermagem
+Passa Vinte	4	Auxiliar de Enfermagem
+Passabém	5	Auxiliar de Enfermagem
+Passagem de Mariana	2	Auxiliar de Enfermagem
+Passos	141	Auxiliar de Enfermagem
+Patis	5	Auxiliar de Enfermagem
+Patos de Minas	220	Auxiliar de Enfermagem
+Patrocínio	30	Auxiliar de Enfermagem
+Patrocínio do Muriaé	8	Auxiliar de Enfermagem
+Paulistas	3	Auxiliar de Enfermagem
+Pavão	4	Auxiliar de Enfermagem
+Peçanha	24	Auxiliar de Enfermagem
+Pedra Azul	26	Auxiliar de Enfermagem
+Pedra do Anta	3	Auxiliar de Enfermagem
+Pedra do Indaiá	4	Auxiliar de Enfermagem
+Pedra Dourada	9	Auxiliar de Enfermagem
+Pedralva	15	Auxiliar de Enfermagem
+Pedras de Maria da Cruz	4	Auxiliar de Enfermagem
+Pedrinópolis	6	Auxiliar de Enfermagem
+Pedro Leopoldo	93	Auxiliar de Enfermagem
+Penha Longa	1	Auxiliar de Enfermagem
+Pequeri	1	Auxiliar de Enfermagem
+Pequi	11	Auxiliar de Enfermagem
+Perdigão	3	Auxiliar de Enfermagem
+Perdilândia	1	Auxiliar de Enfermagem
+Perdizes	12	Auxiliar de Enfermagem
+Perdões	41	Auxiliar de Enfermagem
+Periquito	1	Auxiliar de Enfermagem
+Perpétuo Socorro	1	Auxiliar de Enfermagem
+Pescador	6	Auxiliar de Enfermagem
+Piau	4	Auxiliar de Enfermagem
+Piedade do Rio Grande	1	Auxiliar de Enfermagem
+Piedade dos Gerais	1	Auxiliar de Enfermagem
+Pimenta	16	Auxiliar de Enfermagem
+Pingo-D'Água	1	Auxiliar de Enfermagem
+Pintópolis	7	Auxiliar de Enfermagem
+Pirajuba	1	Auxiliar de Enfermagem
+Piranga	9	Auxiliar de Enfermagem
+Piranguçu	4	Auxiliar de Enfermagem
+Piranguinho	9	Auxiliar de Enfermagem
+Pirapetinga	30	Auxiliar de Enfermagem
+Pirapora	61	Auxiliar de Enfermagem
+Piraúba	8	Auxiliar de Enfermagem
+Pitangui	26	Auxiliar de Enfermagem
+Piumhi	35	Auxiliar de Enfermagem
+Planalto de Minas	1	Auxiliar de Enfermagem
+Planura	15	Auxiliar de Enfermagem
+Plautino Soares	1	Auxiliar de Enfermagem
+Poço Fundo	20	Auxiliar de Enfermagem
+Poços de Caldas	302	Auxiliar de Enfermagem
+Pocrane	13	Auxiliar de Enfermagem
+Pompéu	19	Auxiliar de Enfermagem
+Ponte do Cosme	1	Auxiliar de Enfermagem
+Ponte Nova	42	Auxiliar de Enfermagem
+Ponto Chique	5	Auxiliar de Enfermagem
+Ponto dos Volantes	2	Auxiliar de Enfermagem
+Porteirinha	43	Auxiliar de Enfermagem
+Porto Firme	1	Auxiliar de Enfermagem
+Poté	29	Auxiliar de Enfermagem
+Pouso Alegre	172	Auxiliar de Enfermagem
+Pouso Alegre	172	Auxiliar de Enfermagem
+Pouso Alto	6	Auxiliar de Enfermagem
+Prados	16	Auxiliar de Enfermagem
+Prata	11	Auxiliar de Enfermagem
+Pratápolis	12	Auxiliar de Enfermagem
+Pratinha	1	Auxiliar de Enfermagem
+Presidente Bernardes	7	Auxiliar de Enfermagem
+Presidente Juscelino	2	Auxiliar de Enfermagem
+Presidente Kubitschek	1	Auxiliar de Enfermagem
+Presidente Olegário	18	Auxiliar de Enfermagem
+Providência	1	Auxiliar de Enfermagem
+Prudente de Morais	22	Auxiliar de Enfermagem
+Quartel Geral	1	Auxiliar de Enfermagem
+Queluzito	2	Auxiliar de Enfermagem
+Raposos	66	Auxiliar de Enfermagem
+Raul Soares	35	Auxiliar de Enfermagem
+Ravena	2	Auxiliar de Enfermagem
+Realeza	4	Auxiliar de Enfermagem
+Recreio	7	Auxiliar de Enfermagem
+Reduto	4	Auxiliar de Enfermagem
+Resende Costa	9	Auxiliar de Enfermagem
+Resplendor	26	Auxiliar de Enfermagem
+Ressaquinha	1	Auxiliar de Enfermagem
+Riachinho	6	Auxiliar de Enfermagem
+Riacho dos Machados	3	Auxiliar de Enfermagem
+Ribeirão das Neves	351	Auxiliar de Enfermagem
+Ribeirão Vermelho	5	Auxiliar de Enfermagem
+Ribeiro Junqueira	1	Auxiliar de Enfermagem
+Rio Acima	16	Auxiliar de Enfermagem
+Rio Casca	4	Auxiliar de Enfermagem
+Rio das Mortes	2	Auxiliar de Enfermagem
+Rio do Prado	5	Auxiliar de Enfermagem
+Rio Espera	2	Auxiliar de Enfermagem
+Rio Manso	6	Auxiliar de Enfermagem
+Rio Novo	11	Auxiliar de Enfermagem
+Rio Paranaíba	5	Auxiliar de Enfermagem
+Rio Pardo de Minas	24	Auxiliar de Enfermagem
+Rio Piracicaba	3	Auxiliar de Enfermagem
+Rio Pomba	21	Auxiliar de Enfermagem
+Rio Preto	6	Auxiliar de Enfermagem
+Rio Vermelho	7	Auxiliar de Enfermagem
+Ritápolis	8	Auxiliar de Enfermagem
+Rochedo de Minas	2	Auxiliar de Enfermagem
+Rodeador	1	Auxiliar de Enfermagem
+Rodeiro	4	Auxiliar de Enfermagem
+Romaria	3	Auxiliar de Enfermagem
+Rosário da Limeira	7	Auxiliar de Enfermagem
+Rubelita	14	Auxiliar de Enfermagem
+Rubim	15	Auxiliar de Enfermagem
+Sabará	243	Auxiliar de Enfermagem
+Sabinópolis	15	Auxiliar de Enfermagem
+Sacramento	20	Auxiliar de Enfermagem
+Salinas	62	Auxiliar de Enfermagem
+Salto da Divisa	13	Auxiliar de Enfermagem
+Santa Bárbara	32	Auxiliar de Enfermagem
+Santa Bárbara do Leste	1	Auxiliar de Enfermagem
+Santa Bárbara do Tugúrio	1	Auxiliar de Enfermagem
+Santa Cruz de Minas	4	Auxiliar de Enfermagem
+Santa Cruz de Salinas	2	Auxiliar de Enfermagem
+Santa Fé de Minas	5	Auxiliar de Enfermagem
+Santa Juliana	6	Auxiliar de Enfermagem
+Santa Luzia	374	Auxiliar de Enfermagem
+Santa Margarida	20	Auxiliar de Enfermagem
+Santa Maria de Itabira	1	Auxiliar de Enfermagem
+Santa Maria do Salto	5	Auxiliar de Enfermagem
+Santa Maria do Suaçuí	8	Auxiliar de Enfermagem
+Santa Rita de Caldas	17	Auxiliar de Enfermagem
+Santa Rita de Jacutinga	1	Auxiliar de Enfermagem
+Santa Rita de Minas	3	Auxiliar de Enfermagem
+Santa Rita do Itueto	2	Auxiliar de Enfermagem
+Santa Rita do Sapucaí	16	Auxiliar de Enfermagem
+Santa Rosa da Serra	7	Auxiliar de Enfermagem
+Santa Vitória	16	Auxiliar de Enfermagem
+Santana da Vargem	2	Auxiliar de Enfermagem
+Santana de Cataguases	1	Auxiliar de Enfermagem
+Santana de Pirapama	7	Auxiliar de Enfermagem
+Santana do Araçuaí	2	Auxiliar de Enfermagem
+Santana do Deserto	6	Auxiliar de Enfermagem
+Santana do Garambéu	6	Auxiliar de Enfermagem
+Santana do Jacaré	11	Auxiliar de Enfermagem
+Santana do Manhuaçu	13	Auxiliar de Enfermagem
+Santana do Paraíso	25	Auxiliar de Enfermagem
+Santana do Riacho	1	Auxiliar de Enfermagem
+Santana do Tabuleiro	1	Auxiliar de Enfermagem
+Santo Antônio do Amparo	1	Auxiliar de Enfermagem
+Santo Antônio do Aventureiro	4	Auxiliar de Enfermagem
+Santo Antônio do Grama	1	Auxiliar de Enfermagem
+Santo Antônio do Itambé	2	Auxiliar de Enfermagem
+Santo Antônio do Jacinto	8	Auxiliar de Enfermagem
+Santo Antônio do Monte	15	Auxiliar de Enfermagem
+Santo Antônio do Retiro	1	Auxiliar de Enfermagem
+Santo Antônio do Rio Abaixo	1	Auxiliar de Enfermagem
+Santo Antônio dos Campos	4	Auxiliar de Enfermagem
+Santo Hipólito	5	Auxiliar de Enfermagem
+Santos Dumont	8	Auxiliar de Enfermagem
+São Brás do Suaçuí	1	Auxiliar de Enfermagem
+São Domingos do Prata	3	Auxiliar de Enfermagem
+São Francisco	78	Auxiliar de Enfermagem
+São Francisco de Paula	1	Auxiliar de Enfermagem
+São Francisco de Sales	2	Auxiliar de Enfermagem
+São Geraldo	3	Auxiliar de Enfermagem
+São Geraldo	3	Auxiliar de Enfermagem
+São Gonçalo do Abaeté	1	Auxiliar de Enfermagem
+São Gonçalo do Pará	17	Auxiliar de Enfermagem
+São Gonçalo do Rio Abaixo	3	Auxiliar de Enfermagem
+São Gonçalo do Rio Preto	4	Auxiliar de Enfermagem
+São Gonçalo do Sapucaí	8	Auxiliar de Enfermagem
+São Gotardo	14	Auxiliar de Enfermagem
+São João Batista do Glória	3	Auxiliar de Enfermagem
+São João da Chapada	2	Auxiliar de Enfermagem
+São João da Lagoa	1	Auxiliar de Enfermagem
+São João da Mata	1	Auxiliar de Enfermagem
+São João da Ponte	11	Auxiliar de Enfermagem
+São João da Serra Negra	1	Auxiliar de Enfermagem
+São João das Missões	7	Auxiliar de Enfermagem
+São João Del Rei	191	Auxiliar de Enfermagem
+São João do Manhuaçu	10	Auxiliar de Enfermagem
+São João do Manteninha	2	Auxiliar de Enfermagem
+São João do Paraíso	21	Auxiliar de Enfermagem
+São João Evangelista	10	Auxiliar de Enfermagem
+São João Nepomuceno	30	Auxiliar de Enfermagem
+São Joaquim de Bicas	15	Auxiliar de Enfermagem
+São José da Barra	7	Auxiliar de Enfermagem
+São José da Lapa	31	Auxiliar de Enfermagem
+São José da Safira	1	Auxiliar de Enfermagem
+São José da Varginha	2	Auxiliar de Enfermagem
+São José do Alegre	4	Auxiliar de Enfermagem
+São José do Divino	3	Auxiliar de Enfermagem
+São José do Goiabal	15	Auxiliar de Enfermagem
+São José do Jacuri	6	Auxiliar de Enfermagem
+São José do Mantimento	2	Auxiliar de Enfermagem
+São José dos Salgados	1	Auxiliar de Enfermagem
+São Lourenço	36	Auxiliar de Enfermagem
+São Miguel do Anta	5	Auxiliar de Enfermagem
+São Pedro da União	4	Auxiliar de Enfermagem
+São Pedro de Caldas	1	Auxiliar de Enfermagem
+São Pedro do Avaí	4	Auxiliar de Enfermagem
+São Pedro do Suaçuí	2	Auxiliar de Enfermagem
+São Pedro dos Ferros	11	Auxiliar de Enfermagem
+São Romão	16	Auxiliar de Enfermagem
+São Roque de Minas	11	Auxiliar de Enfermagem
+São Sebastião da Bela Vista	3	Auxiliar de Enfermagem
+São Sebastião da Vargem Alegre	2	Auxiliar de Enfermagem
+São Sebastião da Vitória	1	Auxiliar de Enfermagem
+São Sebastião do Maranhão	5	Auxiliar de Enfermagem
+São Sebastião do Oeste	1	Auxiliar de Enfermagem
+São Sebastião do Paraíso	71	Auxiliar de Enfermagem
+São Sebastião do Rio Preto	2	Auxiliar de Enfermagem
+São Sebastião do Rio Verde	1	Auxiliar de Enfermagem
+São Sebastião do Sacramento	1	Auxiliar de Enfermagem
+São Thomé das Letras	6	Auxiliar de Enfermagem
+São Tiago	11	Auxiliar de Enfermagem
+São Tomás de Aquino	9	Auxiliar de Enfermagem
+São Vicente de Minas	16	Auxiliar de Enfermagem
+Sardoá	1	Auxiliar de Enfermagem
+Sarzedo	48	Auxiliar de Enfermagem
+Sem Peixe	2	Auxiliar de Enfermagem
+Senador Amaral	6	Auxiliar de Enfermagem
+Senador Cortes	3	Auxiliar de Enfermagem
+Senador Firmino	12	Auxiliar de Enfermagem
+Senador José Bento	4	Auxiliar de Enfermagem
+Senador Modestino Gonçalves	5	Auxiliar de Enfermagem
+Senador Mourão	1	Auxiliar de Enfermagem
+Senhora das Dores	2	Auxiliar de Enfermagem
+Senhora do Porto	2	Auxiliar de Enfermagem
+Senhora dos Remédios	3	Auxiliar de Enfermagem
+Sereno	1	Auxiliar de Enfermagem
+Sericita	2	Auxiliar de Enfermagem
+Seritinga	2	Auxiliar de Enfermagem
+Serra Azul de Minas	8	Auxiliar de Enfermagem
+Serra da Canastra	1	Auxiliar de Enfermagem
+Serra da Saudade	1	Auxiliar de Enfermagem
+Serra do Salitre	15	Auxiliar de Enfermagem
+Serra dos Aimorés	11	Auxiliar de Enfermagem
+Serrania	2	Auxiliar de Enfermagem
+Serranópolis de Minas	2	Auxiliar de Enfermagem
+Serranos	4	Auxiliar de Enfermagem
+Serro	22	Auxiliar de Enfermagem
+Sete Lagoas	196	Auxiliar de Enfermagem
+Setubinha	5	Auxiliar de Enfermagem
+Silvano	1	Auxiliar de Enfermagem
+Silveirânia	7	Auxiliar de Enfermagem
+Silvianópolis	7	Auxiliar de Enfermagem
+Simão Pereira	1	Auxiliar de Enfermagem
+Simonésia	17	Auxiliar de Enfermagem
+Sobrália	1	Auxiliar de Enfermagem
+Soledade de Minas	4	Auxiliar de Enfermagem
+Tabuleiro	5	Auxiliar de Enfermagem
+Taiobeiras	74	Auxiliar de Enfermagem
+Taparuba	8	Auxiliar de Enfermagem
+Tapira	4	Auxiliar de Enfermagem
+Tapiraí	2	Auxiliar de Enfermagem
+Taquaraçu de Minas	2	Auxiliar de Enfermagem
+Tarumirim	1	Auxiliar de Enfermagem
+Tebas	2	Auxiliar de Enfermagem
+Teixeiras	3	Auxiliar de Enfermagem
+Teófilo Otoni	110	Auxiliar de Enfermagem
+Timóteo	69	Auxiliar de Enfermagem
+Tiradentes	3	Auxiliar de Enfermagem
+Tiros	2	Auxiliar de Enfermagem
+Tocantins	12	Auxiliar de Enfermagem
+Tocos do Moji	5	Auxiliar de Enfermagem
+Toledo	1	Auxiliar de Enfermagem
+Tombos	13	Auxiliar de Enfermagem
+Três Corações	45	Auxiliar de Enfermagem
+Três Marias	25	Auxiliar de Enfermagem
+Três Pontas	52	Auxiliar de Enfermagem
+Tumiritinga	3	Auxiliar de Enfermagem
+Tupaciguara	6	Auxiliar de Enfermagem
+Tuparecê	1	Auxiliar de Enfermagem
+Turmalina	10	Auxiliar de Enfermagem
+Ubá	79	Auxiliar de Enfermagem
+Ubaí	9	Auxiliar de Enfermagem
+Ubaporanga	5	Auxiliar de Enfermagem
+Uberaba	273	Auxiliar de Enfermagem
+Uberlândia	536	Auxiliar de Enfermagem
+Umburatiba	7	Auxiliar de Enfermagem
+Unaí	22	Auxiliar de Enfermagem
+União de Minas	6	Auxiliar de Enfermagem
+Uruana de Minas	1	Auxiliar de Enfermagem
+Urucânia	1	Auxiliar de Enfermagem
+Urucuia	32	Auxiliar de Enfermagem
+Valadares	1	Auxiliar de Enfermagem
+Valão	1	Auxiliar de Enfermagem
+Vargem Alegre	4	Auxiliar de Enfermagem
+Vargem Bonita	5	Auxiliar de Enfermagem
+Vargem Grande do Rio Pardo	1	Auxiliar de Enfermagem
+Varginha	146	Auxiliar de Enfermagem
+Varjão de Minas	4	Auxiliar de Enfermagem
+Várzea da Palma	28	Auxiliar de Enfermagem
+Varzelândia	17	Auxiliar de Enfermagem
+Vau-Açu	1	Auxiliar de Enfermagem
+Vazante	18	Auxiliar de Enfermagem
+Verdelândia	6	Auxiliar de Enfermagem
+Veredinha	1	Auxiliar de Enfermagem
+Vermelho	1	Auxiliar de Enfermagem
+Vermelho Novo	5	Auxiliar de Enfermagem
+Vespasiano	203	Auxiliar de Enfermagem
+Viçosa	32	Auxiliar de Enfermagem
+Vieiras	6	Auxiliar de Enfermagem
+Virgem da Lapa	10	Auxiliar de Enfermagem
+Virgínia	9	Auxiliar de Enfermagem
+Virginópolis	2	Auxiliar de Enfermagem
+Virgolândia	5	Auxiliar de Enfermagem
+Visconde do Rio Branco	8	Auxiliar de Enfermagem
+Vista Alegre	2	Auxiliar de Enfermagem
+Volta Grande	10	Auxiliar de Enfermagem
+Wenceslau Braz	5	Auxiliar de Enfermagem

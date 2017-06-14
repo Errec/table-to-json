@@ -1,0 +1,953 @@
+Abadia dos Dourados	12	Enfermeiro
+Abaeté	34	Enfermeiro
+Abre Campo	22	Enfermeiro
+Acaiaca	10	Enfermeiro
+Açucena	11	Enfermeiro
+Água Boa	12	Enfermeiro
+Água Comprida	2	Enfermeiro
+Aguanil	7	Enfermeiro
+Águas Formosas	29	Enfermeiro
+Águas Vermelhas	17	Enfermeiro
+Aimorés	39	Enfermeiro
+Aiuruoca	7	Enfermeiro
+Alagoa	4	Enfermeiro
+Albertina	4	Enfermeiro
+Além Paraíba	86	Enfermeiro
+Alexandrita	1	Enfermeiro
+Alfenas	337	Enfermeiro
+Alfredo Vasconcelos	5	Enfermeiro
+Almeida	2	Enfermeiro
+Almenara	83	Enfermeiro
+Alpercata	4	Enfermeiro
+Alpinópolis	50	Enfermeiro
+Alterosa	21	Enfermeiro
+Alto Caparaó	4	Enfermeiro
+Alto Jequitibá	15	Enfermeiro
+Alto Maranhão	2	Enfermeiro
+Alto Rio Doce	23	Enfermeiro
+Alvarenga	4	Enfermeiro
+Alvinópolis	19	Enfermeiro
+Alvorada de Minas	3	Enfermeiro
+Amanhece	2	Enfermeiro
+Amarantina	3	Enfermeiro
+Amparo da Serra	1	Enfermeiro
+Andradas	51	Enfermeiro
+Andrelândia	14	Enfermeiro
+Angelândia	7	Enfermeiro
+Antônio Carlos	19	Enfermeiro
+Antônio Dias	5	Enfermeiro
+Antônio Pereira	1	Enfermeiro
+Antônio Prado de Minas	4	Enfermeiro
+Antunes	1	Enfermeiro
+Araçaí	3	Enfermeiro
+Aracitaba	4	Enfermeiro
+Araçuaí	41	Enfermeiro
+Araguari	230	Enfermeiro
+Arantina	2	Enfermeiro
+Araponga	8	Enfermeiro
+Araporã	9	Enfermeiro
+Arapuá	4	Enfermeiro
+Araújos	7	Enfermeiro
+Araxá	221	Enfermeiro
+Arceburgo	10	Enfermeiro
+Arcos	98	Enfermeiro
+Areado	24	Enfermeiro
+Argirita	2	Enfermeiro
+Aricanduva	1	Enfermeiro
+Arinos	16	Enfermeiro
+Ascenção	2	Enfermeiro
+Astolfo Dutra	22	Enfermeiro
+Ataléia	11	Enfermeiro
+Augusto de Lima	6	Enfermeiro
+Azurita	3	Enfermeiro
+Baependi	30	Enfermeiro
+Baldim	3	Enfermeiro
+Bambuí	48	Enfermeiro
+Bandeira	4	Enfermeiro
+Bandeira do Sul	8	Enfermeiro
+Barão de Cocais	53	Enfermeiro
+Barão de Monte Alto	2	Enfermeiro
+Barbacena	407	Enfermeiro
+Barra Longa	3	Enfermeiro
+Barroso	36	Enfermeiro
+Bela Vista de Minas	24	Enfermeiro
+Belmiro Braga	2	Enfermeiro
+Belo Horizonte	10.041	Enfermeiro
+Belo Oriente	28	Enfermeiro
+Belo Oriente	28	Enfermeiro
+Belo Vale	16	Enfermeiro
+Berilo	13	Enfermeiro
+Berizal	1	Enfermeiro
+Bertópolis	7	Enfermeiro
+Betim	782	Enfermeiro
+Bias Fortes	9	Enfermeiro
+Bicas	18	Enfermeiro
+Biquinhas	5	Enfermeiro
+Boa Esperança	68	Enfermeiro
+Boa Esperança	68	Enfermeiro
+Boa Família	1	Enfermeiro
+Bocaina de Minas	3	Enfermeiro
+Bocaiúva	104	Enfermeiro
+Bom Despacho	126	Enfermeiro
+Bom Jardim de Minas	13	Enfermeiro
+Bom Jesus da Penha	11	Enfermeiro
+Bom Jesus de Cardosos	1	Enfermeiro
+Bom Jesus do Amparo	5	Enfermeiro
+Bom Jesus do Galho	17	Enfermeiro
+Bom Repouso	12	Enfermeiro
+Bom Sucesso	28	Enfermeiro
+Bonfim	4	Enfermeiro
+Bonfinópolis de Minas	10	Enfermeiro
+Bonito de Minas	5	Enfermeiro
+Borda da Mata	46	Enfermeiro
+Botelhos	16	Enfermeiro
+Botumirim	5	Enfermeiro
+Brás Pires	3	Enfermeiro
+Brasilândia de Minas	22	Enfermeiro
+Brasília de Minas	75	Enfermeiro
+Brasópolis	14	Enfermeiro
+Braúnas	7	Enfermeiro
+Brejo Bonito	2	Enfermeiro
+Brumadinho	82	Enfermeiro
+Bueno Brandão	11	Enfermeiro
+Buenópolis	12	Enfermeiro
+Bugre	3	Enfermeiro
+Buritis	45	Enfermeiro
+Buritizeiro	16	Enfermeiro
+Cabeceira Grande	4	Enfermeiro
+Cabo Verde	19	Enfermeiro
+Caçaratiba	1	Enfermeiro
+Caçarema	1	Enfermeiro
+Cachoeira da Prata	7	Enfermeiro
+Cachoeira de Minas	8	Enfermeiro
+Cachoeira de Pajeú	9	Enfermeiro
+Cachoeira do Brumado	1	Enfermeiro
+Cachoeira do Campo	8	Enfermeiro
+Cachoeira Dourada	4	Enfermeiro
+Caetanópolis	21	Enfermeiro
+Caeté	56	Enfermeiro
+Caeté	56	Enfermeiro
+Caiana	3	Enfermeiro
+Cajuri	3	Enfermeiro
+Caldas	13	Enfermeiro
+Camacho	5	Enfermeiro
+Camanducaia	19	Enfermeiro
+Cambuí	31	Enfermeiro
+Cambuquira	14	Enfermeiro
+Campanário	4	Enfermeiro
+Campanha	23	Enfermeiro
+Campestre	22	Enfermeiro
+Campina Verde	30	Enfermeiro
+Campo Azul	1	Enfermeiro
+Campo Belo	132	Enfermeiro
+Campo do Meio	35	Enfermeiro
+Campo Florido	5	Enfermeiro
+Campolide	1	Enfermeiro
+Campos Altos	28	Enfermeiro
+Campos Gerais	62	Enfermeiro
+Cana Verde	6	Enfermeiro
+Canaã	8	Enfermeiro
+Canabrava	2	Enfermeiro
+Canápolis	13	Enfermeiro
+Candeias	32	Enfermeiro
+Cantagalo	6	Enfermeiro
+Caparaó	3	Enfermeiro
+Capela Nova	6	Enfermeiro
+Capelinha	54	Enfermeiro
+Capetinga	8	Enfermeiro
+Capim Branco	8	Enfermeiro
+Capinópolis	15	Enfermeiro
+Capitão Andrade	7	Enfermeiro
+Capitão Enéas	11	Enfermeiro
+Capitólio	21	Enfermeiro
+Caputira	11	Enfermeiro
+Caraí	15	Enfermeiro
+Caranaíba	2	Enfermeiro
+Carandaí	34	Enfermeiro
+Carangola	101	Enfermeiro
+Caratinga	177	Enfermeiro
+Carbonita	7	Enfermeiro
+Careaçu	19	Enfermeiro
+Carlos Chagas	27	Enfermeiro
+Carmésia	2	Enfermeiro
+Carmo da Cachoeira	15	Enfermeiro
+Carmo da Mata	15	Enfermeiro
+Carmo de Minas	28	Enfermeiro
+Carmo do Cajuru	27	Enfermeiro
+Carmo do Paranaíba	50	Enfermeiro
+Carmo do Rio Claro	43	Enfermeiro
+Carmópolis de Minas	48	Enfermeiro
+Carneirinho	21	Enfermeiro
+Carrancas	6	Enfermeiro
+Carvalhópolis	7	Enfermeiro
+Carvalhos	13	Enfermeiro
+Casa Grande	2	Enfermeiro
+Cascalho Rico	6	Enfermeiro
+Cássia	36	Enfermeiro
+Cataguases	138	Enfermeiro
+Catas Altas	13	Enfermeiro
+Catas Altas da Noruega	4	Enfermeiro
+Catuji	15	Enfermeiro
+Catuni	2	Enfermeiro
+Catuti	1	Enfermeiro
+Caxambu	27	Enfermeiro
+Cedro do Abaeté	2	Enfermeiro
+Central de Minas	9	Enfermeiro
+Centralina	9	Enfermeiro
+Chácara	1	Enfermeiro
+Chalé	9	Enfermeiro
+Chapada do Norte	22	Enfermeiro
+Chapada Gaúcha	12	Enfermeiro
+Chaves	1	Enfermeiro
+Chaveslândia	2	Enfermeiro
+Chiador	1	Enfermeiro
+Chonim	2	Enfermeiro
+Chonin de Baixo	1	Enfermeiro
+Cipotânea	11	Enfermeiro
+Claraval	1	Enfermeiro
+Claro dos Poções	7	Enfermeiro
+Cláudio	35	Enfermeiro
+Cocais	1	Enfermeiro
+Coimbra	7	Enfermeiro
+Coluna	14	Enfermeiro
+Comendador Gomes	3	Enfermeiro
+Comercinho	6	Enfermeiro
+Conceição da Aparecida	13	Enfermeiro
+Conceição da Barra de Minas	3	Enfermeiro
+Conceição das Alagoas	30	Enfermeiro
+Conceição das Pedras	7	Enfermeiro
+Conceição de Ipanema	4	Enfermeiro
+Conceição de Itaguá	1	Enfermeiro
+Conceição de Minas	1	Enfermeiro
+Conceição de Tronqueiras	1	Enfermeiro
+Conceição do Mato Dentro	23	Enfermeiro
+Conceição do Pará	8	Enfermeiro
+Conceição do Rio Verde	14	Enfermeiro
+Conceição dos Ouros	10	Enfermeiro
+Cônego Marinho	1	Enfermeiro
+Confins	9	Enfermeiro
+Congonhal	23	Enfermeiro
+Congonhas	82	Enfermeiro
+Congonhas do Norte	3	Enfermeiro
+Conquista	10	Enfermeiro
+Conselheiro Lafaiete	277	Enfermeiro
+Conselheiro Pena	26	Enfermeiro
+Consolação	1	Enfermeiro
+Contagem	1.601	Enfermeiro
+Coqueiral	18	Enfermeiro
+Coração de Jesus	38	Enfermeiro
+Cordisburgo	12	Enfermeiro
+Cordislândia	8	Enfermeiro
+Corinto	58	Enfermeiro
+Coroaci	11	Enfermeiro
+Coromandel	60	Enfermeiro
+Coronel Fabriciano	181	Enfermeiro
+Coronel Murta	11	Enfermeiro
+Coronel Pacheco	3	Enfermeiro
+Coronel Xavier Chaves	3	Enfermeiro
+Córrego Danta	6	Enfermeiro
+Córrego do Bom Jesus	3	Enfermeiro
+Córrego do Ouro	4	Enfermeiro
+Córrego Fundo	11	Enfermeiro
+Córrego Novo	5	Enfermeiro
+Correia de Almeida	1	Enfermeiro
+Couto de Magalhães de Minas	7	Enfermeiro
+Crisólita	4	Enfermeiro
+Cristais	17	Enfermeiro
+Cristália	4	Enfermeiro
+Cristiano Otoni	8	Enfermeiro
+Cristina	26	Enfermeiro
+Crucilândia	9	Enfermeiro
+Cruzeiro da Fortaleza	1	Enfermeiro
+Cruzília	35	Enfermeiro
+Cuparaque	5	Enfermeiro
+Curral de Dentro	5	Enfermeiro
+Curvelo	201	Enfermeiro
+Datas	7	Enfermeiro
+Delfim Moreira	4	Enfermeiro
+Delfinópolis	15	Enfermeiro
+Delta	9	Enfermeiro
+Descoberto	7	Enfermeiro
+Desterro de Entre Rios	7	Enfermeiro
+Desterro do Melo	2	Enfermeiro
+Diamantina	177	Enfermeiro
+Diogo de Vasconcelos	2	Enfermeiro
+Dionísio	6	Enfermeiro
+Divinésia	7	Enfermeiro
+Divino	34	Enfermeiro
+Divino das Laranjeiras	4	Enfermeiro
+Divinolândia de Minas	4	Enfermeiro
+Divinópolis	759	Enfermeiro
+Divisa Alegre	7	Enfermeiro
+Divisa Nova	8	Enfermeiro
+Divisópolis	8	Enfermeiro
+Dom Bosco	8	Enfermeiro
+Dom Cavati	11	Enfermeiro
+Dom Joaquim	3	Enfermeiro
+Dom Silvério	10	Enfermeiro
+Dom Viçoso	5	Enfermeiro
+Dona Euzébia	8	Enfermeiro
+Dores de Campos	11	Enfermeiro
+Dores de Guanhães	4	Enfermeiro
+Dores do Indaiá	25	Enfermeiro
+Dores do Turvo	6	Enfermeiro
+Doresópolis	4	Enfermeiro
+Douradinho	1	Enfermeiro
+Douradoquara	5	Enfermeiro
+Durandé	18	Enfermeiro
+Elói Mendes	74	Enfermeiro
+Engenheiro Caldas	14	Enfermeiro
+Engenheiro Navarro	6	Enfermeiro
+Engenho do Ribeiro	1	Enfermeiro
+Entre Folhas	10	Enfermeiro
+Entre Rios de Minas	27	Enfermeiro
+Ervália	12	Enfermeiro
+Esmeraldas	50	Enfermeiro
+Esmeraldas de Ferros	1	Enfermeiro
+Espera Feliz	40	Enfermeiro
+Espinosa	32	Enfermeiro
+Espírito Santo do Dourado	3	Enfermeiro
+Estiva	10	Enfermeiro
+Estrela Dalva	7	Enfermeiro
+Estrela do Indaiá	4	Enfermeiro
+Estrela do Sul	8	Enfermeiro
+Eugenópolis	24	Enfermeiro
+Ewbank da Câmara	4	Enfermeiro
+Extrema	36	Enfermeiro
+Fama	6	Enfermeiro
+Faria Lemos	10	Enfermeiro
+Felício dos Santos	5	Enfermeiro
+Felisburgo	11	Enfermeiro
+Felixlândia	32	Enfermeiro
+Fernandes Tourinho	5	Enfermeiro
+Ferros	13	Enfermeiro
+Fervedouro	14	Enfermeiro
+Florestal	19	Enfermeiro
+Formiga	159	Enfermeiro
+Formoso	6	Enfermeiro
+Fortaleza de Minas	9	Enfermeiro
+Fortuna de Minas	6	Enfermeiro
+Francisco Badaró	11	Enfermeiro
+Francisco Dumont	2	Enfermeiro
+Francisco Sá	41	Enfermeiro
+Franciscópolis	8	Enfermeiro
+Frei Gaspar	5	Enfermeiro
+Frei Inocêncio	16	Enfermeiro
+Frei Lagonegro	2	Enfermeiro
+Fronteira	22	Enfermeiro
+Fronteira dos Vales	8	Enfermeiro
+Fruta de Leite	3	Enfermeiro
+Frutal	66	Enfermeiro
+Funilândia	4	Enfermeiro
+Galiléia	8	Enfermeiro
+Gameleiras	9	Enfermeiro
+Gaspar Lopes	1	Enfermeiro
+Glaucilândia	4	Enfermeiro
+Goiabeira	6	Enfermeiro
+Goianá	3	Enfermeiro
+Gonçalves	4	Enfermeiro
+Gonzaga	6	Enfermeiro
+Gouveia	25	Enfermeiro
+Governador Valadares	687	Enfermeiro
+Granada	1	Enfermeiro
+Grão Mogol	17	Enfermeiro
+Grupiara	1	Enfermeiro
+Guaicui	4	Enfermeiro
+Guanhães	80	Enfermeiro
+Guapé	28	Enfermeiro
+Guaraciaba	11	Enfermeiro
+Guaranésia	21	Enfermeiro
+Guarani	3	Enfermeiro
+Guarará	8	Enfermeiro
+Guarda-Mor	12	Enfermeiro
+Guaxupé	101	Enfermeiro
+Guidoval	7	Enfermeiro
+Guimarânia	10	Enfermeiro
+Guiricema	14	Enfermeiro
+Gurinhatã	5	Enfermeiro
+Heliodora	7	Enfermeiro
+Honorópolis	1	Enfermeiro
+Humaitá	1	Enfermeiro
+Iapu	20	Enfermeiro
+Ibertioga	12	Enfermeiro
+Ibiá	52	Enfermeiro
+Ibiaí	9	Enfermeiro
+Ibiracatu	6	Enfermeiro
+Ibiraci	11	Enfermeiro
+Ibirité	186	Enfermeiro
+Ibitira	1	Enfermeiro
+Ibitiúra de Minas	10	Enfermeiro
+Ibituruna	3	Enfermeiro
+Icaraí de Minas	9	Enfermeiro
+Igarapé	54	Enfermeiro
+Igaratinga	9	Enfermeiro
+Iguatama	16	Enfermeiro
+Ijaci	7	Enfermeiro
+Ilicínea	22	Enfermeiro
+Imbé de Minas	7	Enfermeiro
+Inconfidentes	6	Enfermeiro
+Indaiabira	9	Enfermeiro
+Indianópolis	10	Enfermeiro
+Ingaí	4	Enfermeiro
+Inhaí	1	Enfermeiro
+Inhapim	35	Enfermeiro
+Inhaúma	6	Enfermeiro
+Inimutaba	8	Enfermeiro
+Ipaba	17	Enfermeiro
+Ipanema	36	Enfermeiro
+Ipatinga	753	Enfermeiro
+Ipiaçu	6	Enfermeiro
+Ipoema	2	Enfermeiro
+Ipuiúna	29	Enfermeiro
+Iraí de Minas	11	Enfermeiro
+Itabira	362	Enfermeiro
+Itabirinha	12	Enfermeiro
+Itabirito	68	Enfermeiro
+Itacambira	5	Enfermeiro
+Itacarambi	41	Enfermeiro
+Itaguara	21	Enfermeiro
+Itaim	1	Enfermeiro
+Itaipé	15	Enfermeiro
+Itajubá	399	Enfermeiro
+Itamarandiba	33	Enfermeiro
+Itamarati	1	Enfermeiro
+Itamarati de Minas	6	Enfermeiro
+Itambacuri	44	Enfermeiro
+Itambé do Mato Dentro	3	Enfermeiro
+Itamogi	23	Enfermeiro
+Itamonte	28	Enfermeiro
+Itamuri	1	Enfermeiro
+Itanhandu	23	Enfermeiro
+Itanhomi	20	Enfermeiro
+Itaobim	39	Enfermeiro
+Itapagipe	16	Enfermeiro
+Itapecerica	48	Enfermeiro
+Itapeva	7	Enfermeiro
+Itatiaiuçu	10	Enfermeiro
+Itaú de Minas	53	Enfermeiro
+Itaúna	173	Enfermeiro
+Itaverava	5	Enfermeiro
+Itinga	10	Enfermeiro
+Itueta	9	Enfermeiro
+Ituiutaba	103	Enfermeiro
+Itumirim	4	Enfermeiro
+Iturama	81	Enfermeiro
+Itutinga	3	Enfermeiro
+Jaboticatubas	14	Enfermeiro
+Jacinto	24	Enfermeiro
+Jacuí	23	Enfermeiro
+Jacutinga	29	Enfermeiro
+Jaguaraçu	3	Enfermeiro
+Jaíba	42	Enfermeiro
+Jampruca	6	Enfermeiro
+Janaúba	156	Enfermeiro
+Januária	90	Enfermeiro
+Japaraíba	12	Enfermeiro
+Japonvar	12	Enfermeiro
+Jeceaba	11	Enfermeiro
+Jenipapo de Minas	7	Enfermeiro
+Jequeri	12	Enfermeiro
+Jequitaí	8	Enfermeiro
+Jequitibá	5	Enfermeiro
+Jequitinhonha	35	Enfermeiro
+Jesuânia	9	Enfermeiro
+Joaíma	13	Enfermeiro
+Joanésia	3	Enfermeiro
+João Monlevade	161	Enfermeiro
+João Pinheiro	84	Enfermeiro
+Joaquim Felício	7	Enfermeiro
+Jordânia	22	Enfermeiro
+José Gonçalves de Minas	3	Enfermeiro
+José Raydan	4	Enfermeiro
+Josenópolis	4	Enfermeiro
+Juatuba	42	Enfermeiro
+Juiz de Fora	1.901	Enfermeiro
+Juramento	7	Enfermeiro
+Juruaia	9	Enfermeiro
+Juvenília	8	Enfermeiro
+Ladainha	11	Enfermeiro
+Lagamar	16	Enfermeiro
+Lagoa da Prata	82	Enfermeiro
+Lagoa dos Patos	1	Enfermeiro
+Lagoa Dourada	11	Enfermeiro
+Lagoa Formosa	33	Enfermeiro
+Lagoa Grande	15	Enfermeiro
+Lagoa Santa	172	Enfermeiro
+Lajinha	33	Enfermeiro
+Lambari	21	Enfermeiro
+Lamim	8	Enfermeiro
+Laranjal	11	Enfermeiro
+Lassance	7	Enfermeiro
+Lavras	216	Enfermeiro
+Leandro Ferreira	6	Enfermeiro
+Leme do Prado	6	Enfermeiro
+Leopoldina	105	Enfermeiro
+Liberdade	7	Enfermeiro
+Lima Duarte	20	Enfermeiro
+Limeira de Mantena	1	Enfermeiro
+Limeira do Oeste	14	Enfermeiro
+Lontra	14	Enfermeiro
+Luisburgo	5	Enfermeiro
+Luislândia	3	Enfermeiro
+Luizlândia do Oeste	3	Enfermeiro
+Luminárias	6	Enfermeiro
+Luz	30	Enfermeiro
+Machacalis	16	Enfermeiro
+Machado	73	Enfermeiro
+Madre de Deus de Minas	6	Enfermeiro
+Malacacheta	37	Enfermeiro
+Mamonas	4	Enfermeiro
+Manga	31	Enfermeiro
+Manhuaçu	166	Enfermeiro
+Manhumirim	42	Enfermeiro
+Mantena	37	Enfermeiro
+Mantiqueira do Palmital	1	Enfermeiro
+Mar de Espanha	23	Enfermeiro
+Marambainha	2	Enfermeiro
+Maravilhas	12	Enfermeiro
+Maria da Fé	18	Enfermeiro
+Mariana	76	Enfermeiro
+Marilac	5	Enfermeiro
+Mário Campos	7	Enfermeiro
+Maripá de Minas	4	Enfermeiro
+Marliéria	2	Enfermeiro
+Marmelópolis	2	Enfermeiro
+Martinho Campos	21	Enfermeiro
+Martins Soares	8	Enfermeiro
+Mata Verde	10	Enfermeiro
+Materlândia	5	Enfermeiro
+Mateus Leme	38	Enfermeiro
+Mathias Lobato	3	Enfermeiro
+Matias Barbosa	26	Enfermeiro
+Matias Cardoso	10	Enfermeiro
+Matipó	48	Enfermeiro
+Mato Verde	25	Enfermeiro
+Matozinhos	35	Enfermeiro
+Matutina	6	Enfermeiro
+Medeiros	8	Enfermeiro
+Medina	36	Enfermeiro
+Mendes Pimentel	9	Enfermeiro
+Mercês	11	Enfermeiro
+Mesquita	9	Enfermeiro
+Milagre	3	Enfermeiro
+Milho Verde	1	Enfermeiro
+Minas Novas	40	Enfermeiro
+Minduri	8	Enfermeiro
+Mirabela	29	Enfermeiro
+Miradouro	20	Enfermeiro
+Miraí	17	Enfermeiro
+Mirantão	1	Enfermeiro
+Miravânia	1	Enfermeiro
+Mocambeiro	2	Enfermeiro
+Moeda	6	Enfermeiro
+Moema	17	Enfermeiro
+Monjolos	3	Enfermeiro
+Monsenhor Paulo	12	Enfermeiro
+Montalvânia	17	Enfermeiro
+Monte Alegre de Minas	32	Enfermeiro
+Monte Azul	47	Enfermeiro
+Monte Belo	24	Enfermeiro
+Monte Carmelo	62	Enfermeiro
+Monte Formoso	1	Enfermeiro
+Monte Rei	1	Enfermeiro
+Monte Santo de Minas	48	Enfermeiro
+Monte Sião	13	Enfermeiro
+Monte Verde	4	Enfermeiro
+Montes Claros	1.449	Enfermeiro
+Montezuma	4	Enfermeiro
+Morada Nova de Minas	12	Enfermeiro
+Morro	5	Enfermeiro
+Morro da Garça	3	Enfermeiro
+Morro do Ferro	2	Enfermeiro
+Morro do Pilar	3	Enfermeiro
+Mucuri	2	Enfermeiro
+Munhoz	7	Enfermeiro
+Muriaé	240	Enfermeiro
+Mutum	32	Enfermeiro
+Muzambinho	33	Enfermeiro
+Nacip Raydan	3	Enfermeiro
+Nanuque	60	Enfermeiro
+Naque	9	Enfermeiro
+Natalândia	3	Enfermeiro
+Natércia	8	Enfermeiro
+Nazareno	15	Enfermeiro
+Nepomuceno	21	Enfermeiro
+Ninheira	6	Enfermeiro
+Nova Belém	4	Enfermeiro
+Nova Era	16	Enfermeiro
+Nova Lima	317	Enfermeiro
+Nova Módica	6	Enfermeiro
+Nova Ponte	16	Enfermeiro
+Nova Porteirinha	2	Enfermeiro
+Nova Resende	42	Enfermeiro
+Nova Serrana	74	Enfermeiro
+Nova União	6	Enfermeiro
+Novo Cruzeiro	33	Enfermeiro
+Novo Oriente de Minas	4	Enfermeiro
+Novorizonte	3	Enfermeiro
+Olaria	3	Enfermeiro
+Olhos D'Água	2	Enfermeiro
+Olímpio Noronha	3	Enfermeiro
+Oliveira	62	Enfermeiro
+Oliveira Fortes	2	Enfermeiro
+Onça de Pitangui	7	Enfermeiro
+Oratórios	5	Enfermeiro
+Orizânia	3	Enfermeiro
+Ouro Branco	79	Enfermeiro
+Ouro Fino	46	Enfermeiro
+Ouro Preto	70	Enfermeiro
+Ouro Verde de Minas	6	Enfermeiro
+Padre Carvalho	3	Enfermeiro
+Padre Fialho	2	Enfermeiro
+Padre Paraíso	27	Enfermeiro
+Padre Viegas	2	Enfermeiro
+Pai Pedro	4	Enfermeiro
+Paineiras	9	Enfermeiro
+Pains	16	Enfermeiro
+Paiva	5	Enfermeiro
+Palma	11	Enfermeiro
+Palmital dos Carvalhos	1	Enfermeiro
+Palmópolis	10	Enfermeiro
+Papagaios	14	Enfermeiro
+Pará de Minas	166	Enfermeiro
+Paracatu	178	Enfermeiro
+Paraguaçu	32	Enfermeiro
+Paraisópolis	15	Enfermeiro
+Paraopeba	23	Enfermeiro
+Passa Quatro	19	Enfermeiro
+Passa Tempo	14	Enfermeiro
+Passa Vinte	5	Enfermeiro
+Passabém	7	Enfermeiro
+Passagem de Mariana	1	Enfermeiro
+Passos	515	Enfermeiro
+Patis	5	Enfermeiro
+Patos de Minas	450	Enfermeiro
+Patrocínio	203	Enfermeiro
+Patrocínio do Muriaé	3	Enfermeiro
+Paula Cândido	10	Enfermeiro
+Paulistas	3	Enfermeiro
+Pavão	12	Enfermeiro
+Peçanha	12	Enfermeiro
+Pedra Azul	39	Enfermeiro
+Pedra Bonita	6	Enfermeiro
+Pedra do Anta	7	Enfermeiro
+Pedra do Indaiá	9	Enfermeiro
+Pedra Dourada	2	Enfermeiro
+Pedralva	19	Enfermeiro
+Pedras de Maria da Cruz	4	Enfermeiro
+Pedrinópolis	7	Enfermeiro
+Pedro Leopoldo	87	Enfermeiro
+Pedro Teixeira	2	Enfermeiro
+Pedro Versiani	1	Enfermeiro
+Penha de França	1	Enfermeiro
+Pequeri	7	Enfermeiro
+Pequi	3	Enfermeiro
+Perdigão	12	Enfermeiro
+Perdizes	36	Enfermeiro
+Perdões	28	Enfermeiro
+Periquito	9	Enfermeiro
+Perpétuo Socorro	3	Enfermeiro
+Pescador	6	Enfermeiro
+Piedade de Caratinga	7	Enfermeiro
+Piedade de Ponte Nova	1	Enfermeiro
+Piedade do Rio Grande	7	Enfermeiro
+Piedade dos Gerais	8	Enfermeiro
+Pimenta	14	Enfermeiro
+Pingo-D'Água	2	Enfermeiro
+Pintópolis	3	Enfermeiro
+Piracaiba	1	Enfermeiro
+Piracema	12	Enfermeiro
+Pirajuba	5	Enfermeiro
+Piranga	23	Enfermeiro
+Piranguçu	7	Enfermeiro
+Piranguinho	22	Enfermeiro
+Pirapetinga	22	Enfermeiro
+Pirapora	92	Enfermeiro
+Piraúba	10	Enfermeiro
+Pitangui	58	Enfermeiro
+Piumhi	90	Enfermeiro
+Planura	19	Enfermeiro
+Poço Fundo	32	Enfermeiro
+Poços de Caldas	449	Enfermeiro
+Pocrane	10	Enfermeiro
+Pompéu	35	Enfermeiro
+Ponte Nova	136	Enfermeiro
+Ponto Chique	2	Enfermeiro
+Ponto do Marambaia	1	Enfermeiro
+Ponto dos Volantes	16	Enfermeiro
+Porteirinha	79	Enfermeiro
+Porto Firme	14	Enfermeiro
+Poté	18	Enfermeiro
+Pouso Alegre	405	Enfermeiro
+Pouso Alegre	405	Enfermeiro
+Pouso Alto	5	Enfermeiro
+Prados	12	Enfermeiro
+Prata	44	Enfermeiro
+Pratápolis	22	Enfermeiro
+Pratinha	5	Enfermeiro
+Presidente Bernardes	7	Enfermeiro
+Presidente Juscelino	7	Enfermeiro
+Presidente Olegário	31	Enfermeiro
+Providência	1	Enfermeiro
+Prudente de Morais	15	Enfermeiro
+Quartel Geral	2	Enfermeiro
+Quatituba	1	Enfermeiro
+Queluzito	2	Enfermeiro
+Quintinos	1	Enfermeiro
+Raposos	10	Enfermeiro
+Raul Soares	31	Enfermeiro
+Ravena	9	Enfermeiro
+Realeza	1	Enfermeiro
+Recreio	16	Enfermeiro
+Reduto	6	Enfermeiro
+Resende Costa	16	Enfermeiro
+Resplendor	31	Enfermeiro
+Ressaquinha	5	Enfermeiro
+Riachinho	8	Enfermeiro
+Riacho dos Machados	13	Enfermeiro
+Ribeirão das Neves	310	Enfermeiro
+Ribeirão de São Domingos	2	Enfermeiro
+Ribeirão Vermelho	9	Enfermeiro
+Ribeiro Junqueira	2	Enfermeiro
+Rio Acima	22	Enfermeiro
+Rio Casca	28	Enfermeiro
+Rio do Prado	7	Enfermeiro
+Rio Doce	3	Enfermeiro
+Rio Espera	17	Enfermeiro
+Rio Manso	12	Enfermeiro
+Rio Novo	8	Enfermeiro
+Rio Paranaíba	22	Enfermeiro
+Rio Pardo de Minas	31	Enfermeiro
+Rio Piracicaba	9	Enfermeiro
+Rio Pomba	28	Enfermeiro
+Rio Preto	11	Enfermeiro
+Rio Vermelho	13	Enfermeiro
+Ritápolis	8	Enfermeiro
+Rochedo de Minas	2	Enfermeiro
+Rodeador	1	Enfermeiro
+Rodeiro	3	Enfermeiro
+Romaria	4	Enfermeiro
+Rosário da Limeira	7	Enfermeiro
+Rubelita	6	Enfermeiro
+Rubim	12	Enfermeiro
+Sabará	181	Enfermeiro
+Sabinópolis	39	Enfermeiro
+Sacramento	37	Enfermeiro
+Salinas	72	Enfermeiro
+Salitre de Minas	1	Enfermeiro
+Salto da Divisa	6	Enfermeiro
+Santa Bárbara	47	Enfermeiro
+Santa Bárbara do Leste	9	Enfermeiro
+Santa Bárbara do Monte Verde	4	Enfermeiro
+Santa Bárbara do Tugúrio	3	Enfermeiro
+Santa Cruz de Minas	10	Enfermeiro
+Santa Cruz de Salinas	1	Enfermeiro
+Santa Cruz do Escalvado	7	Enfermeiro
+Santa Efigênia de Minas	5	Enfermeiro
+Santa Fé de Minas	6	Enfermeiro
+Santa Helena de Minas	8	Enfermeiro
+Santa Juliana	15	Enfermeiro
+Santa Luzia	333	Enfermeiro
+Santa Margarida	24	Enfermeiro
+Santa Maria de Itabira	16	Enfermeiro
+Santa Maria do Salto	6	Enfermeiro
+Santa Maria do Suaçuí	16	Enfermeiro
+Santa Rita de Caldas	21	Enfermeiro
+Santa Rita de Jacutinga	4	Enfermeiro
+Santa Rita de Minas	8	Enfermeiro
+Santa Rita do Itueto	4	Enfermeiro
+Santa Rita do Sapucaí	42	Enfermeiro
+Santa Rosa da Serra	4	Enfermeiro
+Santa Vitória	30	Enfermeiro
+Santana da Vargem	8	Enfermeiro
+Santana de Cataguases	5	Enfermeiro
+Santana de Pirapama	10	Enfermeiro
+Santana do Campestre	1	Enfermeiro
+Santana do Capivari	2	Enfermeiro
+Santana do Deserto	1	Enfermeiro
+Santana do Garambéu	7	Enfermeiro
+Santana do Jacaré	14	Enfermeiro
+Santana do Manhuaçu	12	Enfermeiro
+Santana do Paraíso	71	Enfermeiro
+Santana do Riacho	2	Enfermeiro
+Santana dos Montes	2	Enfermeiro
+Santo Antônio do Amparo	22	Enfermeiro
+Santo Antônio do Aventureiro	3	Enfermeiro
+Santo Antônio do Grama	6	Enfermeiro
+Santo Antônio do Itambé	2	Enfermeiro
+Santo Antônio do Jacinto	7	Enfermeiro
+Santo Antônio do Leite	3	Enfermeiro
+Santo Antônio do Manhuaçu	1	Enfermeiro
+Santo Antônio do Monte	36	Enfermeiro
+Santo Antônio do Retiro	9	Enfermeiro
+Santo Antônio do Rio Abaixo	5	Enfermeiro
+Santo Antônio dos Campos	4	Enfermeiro
+Santo Hipólito	5	Enfermeiro
+Santos Dumont	71	Enfermeiro
+São Bento Abade	3	Enfermeiro
+São Bento de Caldas	1	Enfermeiro
+São Brás do Suaçuí	6	Enfermeiro
+São Cândido	2	Enfermeiro
+São Domingos das Dores	5	Enfermeiro
+São Domingos do Prata	13	Enfermeiro
+São Félix de Minas	5	Enfermeiro
+São Francisco	79	Enfermeiro
+São Francisco de Paula	7	Enfermeiro
+São Francisco de Sales	8	Enfermeiro
+São Francisco do Glória	8	Enfermeiro
+São Geraldo	9	Enfermeiro
+São Geraldo	9	Enfermeiro
+São Geraldo da Piedade	5	Enfermeiro
+São Geraldo de Tumiritinga	1	Enfermeiro
+São Geraldo do Baixio	1	Enfermeiro
+São Gonçalo do Abaeté	8	Enfermeiro
+São Gonçalo do Pará	8	Enfermeiro
+São Gonçalo do Rio Abaixo	14	Enfermeiro
+São Gonçalo do Rio das Pedras	1	Enfermeiro
+São Gonçalo do Sapucaí	15	Enfermeiro
+São Gotardo	45	Enfermeiro
+São João Batista do Glória	17	Enfermeiro
+São João da Lagoa	5	Enfermeiro
+São João da Mata	7	Enfermeiro
+São João da Ponte	35	Enfermeiro
+São João da Serra Negra	1	Enfermeiro
+São João da Vereda	1	Enfermeiro
+São João das Missões	5	Enfermeiro
+São João Del Rei	214	Enfermeiro
+São João do Jacutinga	2	Enfermeiro
+São João do Manhuaçu	11	Enfermeiro
+São João do Manteninha	3	Enfermeiro
+São João do Oriente	13	Enfermeiro
+São João do Pacuí	1	Enfermeiro
+São João do Paraíso	29	Enfermeiro
+São João Evangelista	26	Enfermeiro
+São João Nepomuceno	29	Enfermeiro
+São Joaquim de Bicas	23	Enfermeiro
+São José da Barra	7	Enfermeiro
+São José da Lapa	28	Enfermeiro
+São José da Safira	6	Enfermeiro
+São José da Varginha	13	Enfermeiro
+São José do Alegre	7	Enfermeiro
+São José do Divino	9	Enfermeiro
+São José do Goiabal	8	Enfermeiro
+São José do Jacuri	5	Enfermeiro
+São José do Mantimento	6	Enfermeiro
+São José do Pântano	1	Enfermeiro
+São Lourenço	116	Enfermeiro
+São Miguel do Anta	12	Enfermeiro
+São Pedro da União	12	Enfermeiro
+São Pedro do Avaí	2	Enfermeiro
+São Pedro do Suaçuí	8	Enfermeiro
+São Pedro dos Ferros	10	Enfermeiro
+São Romão	15	Enfermeiro
+São Roque de Minas	11	Enfermeiro
+São Sebastião da Bela Vista	5	Enfermeiro
+São Sebastião da Vargem Alegre	3	Enfermeiro
+São Sebastião do Anta	3	Enfermeiro
+São Sebastião do Maranhão	5	Enfermeiro
+São Sebastião do Oeste	5	Enfermeiro
+São Sebastião do Paraíso	154	Enfermeiro
+São Sebastião do Rio Preto	4	Enfermeiro
+São Sebastião do Rio Verde	3	Enfermeiro
+São Sebastião do Sacramento	3	Enfermeiro
+São Thomé das Letras	7	Enfermeiro
+São Tiago	18	Enfermeiro
+São Tomás de Aquino	7	Enfermeiro
+São Vicente de Minas	10	Enfermeiro
+Sapucaia	1	Enfermeiro
+Sapucaia do Norte	1	Enfermeiro
+Sapucaí-Mirim	3	Enfermeiro
+Sardoá	9	Enfermeiro
+Sarzedo	57	Enfermeiro
+Sem Peixe	4	Enfermeiro
+Senador Amaral	8	Enfermeiro
+Senador Cortes	7	Enfermeiro
+Senador Firmino	12	Enfermeiro
+Senador José Bento	1	Enfermeiro
+Senador Modestino Gonçalves	3	Enfermeiro
+Senhora das Dores	1	Enfermeiro
+Senhora de Oliveira	9	Enfermeiro
+Senhora dos Remédios	13	Enfermeiro
+Sereno	1	Enfermeiro
+Sericita	12	Enfermeiro
+Seritinga	3	Enfermeiro
+Serra Azul de Minas	7	Enfermeiro
+Serra da Saudade	1	Enfermeiro
+Serra do Salitre	14	Enfermeiro
+Serra dos Aimorés	4	Enfermeiro
+Serrania	10	Enfermeiro
+Serranópolis de Minas	1	Enfermeiro
+Serranos	2	Enfermeiro
+Serro	27	Enfermeiro
+Sete Lagoas	566	Enfermeiro
+Setubinha	7	Enfermeiro
+Silveira Carvalho	1	Enfermeiro
+Silveirânia	2	Enfermeiro
+Silvianópolis	18	Enfermeiro
+Simão Pereira	4	Enfermeiro
+Simonésia	30	Enfermeiro
+Sobrália	4	Enfermeiro
+Soledade de Minas	4	Enfermeiro
+Tabuleiro	5	Enfermeiro
+Taiobeiras	45	Enfermeiro
+Taparuba	3	Enfermeiro
+Tapira	9	Enfermeiro
+Tapiraí	4	Enfermeiro
+Taquaraçu de Minas	5	Enfermeiro
+Tarumirim	20	Enfermeiro
+Tebas	1	Enfermeiro
+Teixeiras	21	Enfermeiro
+Teófilo Otoni	394	Enfermeiro
+Timóteo	192	Enfermeiro
+Tiradentes	12	Enfermeiro
+Tiros	9	Enfermeiro
+Tocantins	17	Enfermeiro
+Tocos do Moji	6	Enfermeiro
+Toledo	3	Enfermeiro
+Tombos	23	Enfermeiro
+Topázio	2	Enfermeiro
+Torreões	1	Enfermeiro
+Três Corações	147	Enfermeiro
+Três Marias	53	Enfermeiro
+Três Pontas	90	Enfermeiro
+Tumiritinga	3	Enfermeiro
+Tupaciguara	31	Enfermeiro
+Turmalina	40	Enfermeiro
+Turvolândia	6	Enfermeiro
+Ubá	162	Enfermeiro
+Ubaí	13	Enfermeiro
+Ubaporanga	9	Enfermeiro
+Uberaba	1.238	Enfermeiro
+Uberlândia	1.984	Enfermeiro
+Umburatiba	4	Enfermeiro
+Unaí	150	Enfermeiro
+União de Minas	6	Enfermeiro
+Uruana de Minas	3	Enfermeiro
+Urucânia	11	Enfermeiro
+Urucuia	11	Enfermeiro
+Vargem Alegre	13	Enfermeiro
+Vargem Bonita	2	Enfermeiro
+Vargem Grande do Rio Pardo	7	Enfermeiro
+Varginha	257	Enfermeiro
+Varjão de Minas	6	Enfermeiro
+Várzea da Palma	51	Enfermeiro
+Varzelândia	29	Enfermeiro
+Vau-Açu	1	Enfermeiro
+Vazante	34	Enfermeiro
+Verdelândia	1	Enfermeiro
+Veredinha	6	Enfermeiro
+Veríssimo	4	Enfermeiro
+Vermelho Novo	5	Enfermeiro
+Vermelho Velho	2	Enfermeiro
+Vespasiano	163	Enfermeiro
+Viçosa	152	Enfermeiro
+Vieiras	4	Enfermeiro
+Virgem da Lapa	13	Enfermeiro
+Virgínia	9	Enfermeiro
+Virginópolis	18	Enfermeiro
+Virgolândia	4	Enfermeiro
+Visconde do Rio Branco	44	Enfermeiro
+Vista Alegre	6	Enfermeiro
+Vitorinos	3	Enfermeiro
+Volta Grande	15	Enfermeiro
+Wenceslau Braz	2	Enfermeiro

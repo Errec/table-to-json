@@ -1,0 +1,853 @@
+Campo das Vertentes	Barbacena	Alfredo Vasconcelos
+Campo das Vertentes	Barbacena	Antônio Carlos
+Campo das Vertentes	Barbacena	Barbacena
+Campo das Vertentes	Barbacena	Barroso
+Campo das Vertentes	Barbacena	Capela Nova
+Campo das Vertentes	Barbacena	Caranaíba
+Campo das Vertentes	Barbacena	Carandaí
+Campo das Vertentes	Barbacena	Desterro do Melo
+Campo das Vertentes	Barbacena	Ibertioga
+Campo das Vertentes	Barbacena	Ressaquinha
+Campo das Vertentes	Barbacena	Santa Bárbara do Tugúrio
+Campo das Vertentes	Barbacena	Senhora dos Remédios
+Campo das Vertentes	Lavras	Carrancas
+Campo das Vertentes	Lavras	Ijaci
+Campo das Vertentes	Lavras	Ingaí
+Campo das Vertentes	Lavras	Itumirim
+Campo das Vertentes	Lavras	Itutinga
+Campo das Vertentes	Lavras	Lavras
+Campo das Vertentes	Lavras	Luminárias
+Campo das Vertentes	Lavras	Nepomuceno
+Campo das Vertentes	Lavras	Ribeirão Vermelho
+Campo das Vertentes	São João del Rei	Conceição da Barra de Minas
+Campo das Vertentes	São João del Rei	Coronel Xavier Chaves
+Campo das Vertentes	São João del Rei	Dores de Campos
+Campo das Vertentes	São João del Rei	Lagoa Dourada
+Campo das Vertentes	São João del Rei	Madre de Deus de Minas
+Campo das Vertentes	São João del Rei	Nazareno
+Campo das Vertentes	São João del Rei	Piedade do Rio Grande
+Campo das Vertentes	São João del Rei	Prados
+Campo das Vertentes	São João del Rei	Resende Costa
+Campo das Vertentes	São João del Rei	Ritápolis
+Campo das Vertentes	São João del Rei	Santa Cruz de Minas
+Campo das Vertentes	São João del Rei	Santana do Garambéu
+Campo das Vertentes	São João del Rei	São João del-Rei
+Campo das Vertentes	São João del Rei	São Tiago
+Campo das Vertentes	São João del Rei	Tiradentes
+Central Mineira	Bom Despacho	Araújos
+Central Mineira	Bom Despacho	Bom Despacho
+Central Mineira	Bom Despacho	Dores do Indaiá
+Central Mineira	Bom Despacho	Estrela do Indaiá
+Central Mineira	Bom Despacho	Japaraíba
+Central Mineira	Bom Despacho	Lagoa da Prata
+Central Mineira	Bom Despacho	Leandro Ferreira
+Central Mineira	Bom Despacho	Luz
+Central Mineira	Bom Despacho	Martinho Campos
+Central Mineira	Bom Despacho	Moema
+Central Mineira	Bom Despacho	Quartel Geral
+Central Mineira	Bom Despacho	Serra da Saudade
+Central Mineira	Curvelo	Augusto de Lima
+Central Mineira	Curvelo	Buenópolis
+Central Mineira	Curvelo	Corinto
+Central Mineira	Curvelo	Curvelo
+Central Mineira	Curvelo	Felixlândia
+Central Mineira	Curvelo	Inimutaba
+Central Mineira	Curvelo	Joaquim Felício
+Central Mineira	Curvelo	Monjolos
+Central Mineira	Curvelo	Morro da Garça
+Central Mineira	Curvelo	Presidente Juscelino
+Central Mineira	Curvelo	Santo Hipólito
+Central Mineira	Três Marias	Abaeté
+Central Mineira	Três Marias	Biquinhas
+Central Mineira	Três Marias	Cedro do Abaeté
+Central Mineira	Três Marias	Morada Nova de Minas
+Central Mineira	Três Marias	Paineiras
+Central Mineira	Três Marias	Pompéu
+Central Mineira	Três Marias	Três Marias
+Jequitinhonha	Almenara	Almenara
+Jequitinhonha	Almenara	Bandeira
+Jequitinhonha	Almenara	Divisópolis
+Jequitinhonha	Almenara	Felisburgo
+Jequitinhonha	Almenara	Jacinto
+Jequitinhonha	Almenara	Jequitinhonha
+Jequitinhonha	Almenara	Joaíma
+Jequitinhonha	Almenara	Jordânia
+Jequitinhonha	Almenara	Mata Verde
+Jequitinhonha	Almenara	Monte Formoso
+Jequitinhonha	Almenara	Palmópolis
+Jequitinhonha	Almenara	Rio do Prado
+Jequitinhonha	Almenara	Rubim
+Jequitinhonha	Almenara	Salto da Divisa
+Jequitinhonha	Almenara	Santa Maria do Salto
+Jequitinhonha	Almenara	Santo Antônio do Jacinto
+Jequitinhonha	Araçuaí	Araçuaí
+Jequitinhonha	Araçuaí	Caraí
+Jequitinhonha	Araçuaí	Coronel Murta
+Jequitinhonha	Araçuaí	Itinga
+Jequitinhonha	Araçuaí	Novo Cruzeiro
+Jequitinhonha	Araçuaí	Padre Paraíso
+Jequitinhonha	Araçuaí	Ponto dos Volantes
+Jequitinhonha	Araçuaí	Virgem da Lapa
+Jequitinhonha	Capelinha	Angelândia
+Jequitinhonha	Capelinha	Aricanduva
+Jequitinhonha	Capelinha	Berilo
+Jequitinhonha	Capelinha	Capelinha
+Jequitinhonha	Capelinha	Carbonita
+Jequitinhonha	Capelinha	Chapada do Norte
+Jequitinhonha	Capelinha	Francisco Badaró
+Jequitinhonha	Capelinha	Itamarandiba
+Jequitinhonha	Capelinha	Jenipapo de Minas
+Jequitinhonha	Capelinha	José Gonçalves de Minas
+Jequitinhonha	Capelinha	Leme do Prado
+Jequitinhonha	Capelinha	Minas Novas
+Jequitinhonha	Capelinha	Turmalina
+Jequitinhonha	Capelinha	Veredinha
+Jequitinhonha	Diamantina	Couto de Magalhães de Minas
+Jequitinhonha	Diamantina	Datas
+Jequitinhonha	Diamantina	Diamantina
+Jequitinhonha	Diamantina	Felício dos Santos
+Jequitinhonha	Diamantina	Gouveia
+Jequitinhonha	Diamantina	Presidente Kubitschek
+Jequitinhonha	Diamantina	São Gonçalo do Rio Preto
+Jequitinhonha	Diamantina	Senador Modestino Gonçalves
+Jequitinhonha	Pedra Azul	Cachoeira de Pajeú
+Jequitinhonha	Pedra Azul	Comercinho
+Jequitinhonha	Pedra Azul	Itaobim
+Jequitinhonha	Pedra Azul	Medina
+Jequitinhonha	Pedra Azul	Pedra Azul
+Metropolitana de Belo Horizonte	Belo Horizonte	Belo Horizonte
+Metropolitana de Belo Horizonte	Belo Horizonte	Betim
+Metropolitana de Belo Horizonte	Belo Horizonte	Brumadinho
+Metropolitana de Belo Horizonte	Belo Horizonte	Caeté
+Metropolitana de Belo Horizonte	Belo Horizonte	Confins
+Metropolitana de Belo Horizonte	Belo Horizonte	Contagem
+Metropolitana de Belo Horizonte	Belo Horizonte	Esmeraldas
+Metropolitana de Belo Horizonte	Belo Horizonte	Ibirité
+Metropolitana de Belo Horizonte	Belo Horizonte	Igarapé
+Metropolitana de Belo Horizonte	Belo Horizonte	Juatuba
+Metropolitana de Belo Horizonte	Belo Horizonte	Lagoa Santa
+Metropolitana de Belo Horizonte	Belo Horizonte	Mário Campos
+Metropolitana de Belo Horizonte	Belo Horizonte	Mateus Leme
+Metropolitana de Belo Horizonte	Belo Horizonte	Nova Lima
+Metropolitana de Belo Horizonte	Belo Horizonte	Pedro Leopoldo
+Metropolitana de Belo Horizonte	Belo Horizonte	Raposos
+Metropolitana de Belo Horizonte	Belo Horizonte	Ribeirão das Neves
+Metropolitana de Belo Horizonte	Belo Horizonte	Rio Acima
+Metropolitana de Belo Horizonte	Belo Horizonte	Sabará
+Metropolitana de Belo Horizonte	Belo Horizonte	Santa Luzia
+Metropolitana de Belo Horizonte	Belo Horizonte	São Joaquim de Bicas
+Metropolitana de Belo Horizonte	Belo Horizonte	São José da Lapa
+Metropolitana de Belo Horizonte	Belo Horizonte	Sarzedo
+Metropolitana de Belo Horizonte	Belo Horizonte	Vespasiano
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Alvorada de Minas
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Conceição do Mato Dentro
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Congonhas do Norte
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Dom Joaquim
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Itambé do Mato Dentro
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Morro do Pilar
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Passabém
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Rio Vermelho
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Santo Antônio do Itambé
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Santo Antônio do Rio Abaixo
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	São Sebastião do Rio Preto
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Serra Azul de Minas
+Metropolitana de Belo Horizonte	Conceição do Mato Dentro	Serro
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Casa Grande
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Catas Altas da Noruega
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Congonhas
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Conselheiro Lafaiete
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Cristiano Otoni
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Desterro de Entre Rios
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Entre Rios de Minas
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Itaverava
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Ouro Branco
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Queluzito
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	Santana dos Montes
+Metropolitana de Belo Horizonte	Conselheiro Lafaiete	São Brás do Suaçuí
+Metropolitana de Belo Horizonte	Itabira	Alvinópolis
+Metropolitana de Belo Horizonte	Itabira	Barão de Cocais
+Metropolitana de Belo Horizonte	Itabira	Bela Vista de Minas
+Metropolitana de Belo Horizonte	Itabira	Bom Jesus do Amparo
+Metropolitana de Belo Horizonte	Itabira	Catas Altas
+Metropolitana de Belo Horizonte	Itabira	Dionísio
+Metropolitana de Belo Horizonte	Itabira	Ferros
+Metropolitana de Belo Horizonte	Itabira	Itabira
+Metropolitana de Belo Horizonte	Itabira	João Monlevade
+Metropolitana de Belo Horizonte	Itabira	Nova Era
+Metropolitana de Belo Horizonte	Itabira	Nova União
+Metropolitana de Belo Horizonte	Itabira	Rio Piracicaba
+Metropolitana de Belo Horizonte	Itabira	Santa Bárbara
+Metropolitana de Belo Horizonte	Itabira	Santa Maria de Itabira
+Metropolitana de Belo Horizonte	Itabira	São Domingos do Prata
+Metropolitana de Belo Horizonte	Itabira	São Gonçalo do Rio Abaixo
+Metropolitana de Belo Horizonte	Itabira	São José do Goiabal
+Metropolitana de Belo Horizonte	Itabira	Taquaraçu de Minas
+Metropolitana de Belo Horizonte	Itaguara	Belo Vale
+Metropolitana de Belo Horizonte	Itaguara	Bonfim
+Metropolitana de Belo Horizonte	Itaguara	Crucilândia
+Metropolitana de Belo Horizonte	Itaguara	Itaguara
+Metropolitana de Belo Horizonte	Itaguara	Itatiaiuçu
+Metropolitana de Belo Horizonte	Itaguara	Jeceaba
+Metropolitana de Belo Horizonte	Itaguara	Moeda
+Metropolitana de Belo Horizonte	Itaguara	Piedade dos Gerais
+Metropolitana de Belo Horizonte	Itaguara	Rio Manso
+Metropolitana de Belo Horizonte	Ouro Preto	Diogo de Vasconcelos
+Metropolitana de Belo Horizonte	Ouro Preto	Itabirito
+Metropolitana de Belo Horizonte	Ouro Preto	Mariana
+Metropolitana de Belo Horizonte	Ouro Preto	Ouro Preto
+Metropolitana de Belo Horizonte	Pará de Minas	Florestal
+Metropolitana de Belo Horizonte	Pará de Minas	Onça de Pitangui
+Metropolitana de Belo Horizonte	Pará de Minas	Pará de Minas
+Metropolitana de Belo Horizonte	Pará de Minas	Pitangui
+Metropolitana de Belo Horizonte	Pará de Minas	São José da Varginha
+Metropolitana de Belo Horizonte	Sete Lagoas	Araçaí
+Metropolitana de Belo Horizonte	Sete Lagoas	Baldim
+Metropolitana de Belo Horizonte	Sete Lagoas	Cachoeira da Prata
+Metropolitana de Belo Horizonte	Sete Lagoas	Caetanópolis
+Metropolitana de Belo Horizonte	Sete Lagoas	Capim Branco
+Metropolitana de Belo Horizonte	Sete Lagoas	Cordisburgo
+Metropolitana de Belo Horizonte	Sete Lagoas	Fortuna de Minas
+Metropolitana de Belo Horizonte	Sete Lagoas	Funilândia
+Metropolitana de Belo Horizonte	Sete Lagoas	Inhaúma
+Metropolitana de Belo Horizonte	Sete Lagoas	Jaboticatubas
+Metropolitana de Belo Horizonte	Sete Lagoas	Jequitibá
+Metropolitana de Belo Horizonte	Sete Lagoas	Maravilhas
+Metropolitana de Belo Horizonte	Sete Lagoas	Matozinhos
+Metropolitana de Belo Horizonte	Sete Lagoas	Papagaios
+Metropolitana de Belo Horizonte	Sete Lagoas	Paraopeba
+Metropolitana de Belo Horizonte	Sete Lagoas	Pequi
+Metropolitana de Belo Horizonte	Sete Lagoas	Prudente de Morais
+Metropolitana de Belo Horizonte	Sete Lagoas	Santana de Pirapama
+Metropolitana de Belo Horizonte	Sete Lagoas	Santana do Riacho
+Metropolitana de Belo Horizonte	Sete Lagoas	Sete Lagoas
+Noroeste de Minas	Paracatu	Brasilândia de Minas
+Noroeste de Minas	Paracatu	Guarda-Mor
+Noroeste de Minas	Paracatu	João Pinheiro
+Noroeste de Minas	Paracatu	Lagamar
+Noroeste de Minas	Paracatu	Lagoa Grande
+Noroeste de Minas	Paracatu	Paracatu
+Noroeste de Minas	Paracatu	Presidente Olegário
+Noroeste de Minas	Paracatu	São Gonçalo do Abaeté
+Noroeste de Minas	Paracatu	Varjão de Minas
+Noroeste de Minas	Paracatu	Vazante
+Noroeste de Minas	Unaí	Arinos
+Noroeste de Minas	Unaí	Bonfinópolis de Minas
+Noroeste de Minas	Unaí	Buritis
+Noroeste de Minas	Unaí	Cabeceira Grande
+Noroeste de Minas	Unaí	Dom Bosco
+Noroeste de Minas	Unaí	Formoso
+Noroeste de Minas	Unaí	Natalândia
+Noroeste de Minas	Unaí	Unaí
+Noroeste de Minas	Unaí	Uruana de Minas
+Norte de Minas	Bocaiuva	Bocaiuva
+Norte de Minas	Bocaiuva	Engenheiro Navarro
+Norte de Minas	Bocaiuva	Francisco Dumont
+Norte de Minas	Bocaiuva	Guaraciama
+Norte de Minas	Bocaiuva	Olhos-d'Água
+Norte de Minas	Grão Mogol	Botumirim
+Norte de Minas	Grão Mogol	Cristália
+Norte de Minas	Grão Mogol	Grão Mogol
+Norte de Minas	Grão Mogol	Itacambira
+Norte de Minas	Grão Mogol	Josenópolis
+Norte de Minas	Grão Mogol	Padre Carvalho
+Norte de Minas	Janaúba	Catuti
+Norte de Minas	Janaúba	Espinosa
+Norte de Minas	Janaúba	Gameleiras
+Norte de Minas	Janaúba	Jaíba
+Norte de Minas	Janaúba	Janaúba
+Norte de Minas	Janaúba	Mamonas
+Norte de Minas	Janaúba	Mato Verde
+Norte de Minas	Janaúba	Monte Azul
+Norte de Minas	Janaúba	Nova Porteirinha
+Norte de Minas	Janaúba	Pai Pedro
+Norte de Minas	Janaúba	Porteirinha
+Norte de Minas	Janaúba	Riacho dos Machados
+Norte de Minas	Janaúba	Serranópolis de Minas
+Norte de Minas	Januária	Bonito de Minas
+Norte de Minas	Januária	Chapada Gaúcha
+Norte de Minas	Januária	Cônego Marinho
+Norte de Minas	Januária	Icaraí de Minas
+Norte de Minas	Januária	Itacarambi
+Norte de Minas	Januária	Januária
+Norte de Minas	Januária	Juvenília
+Norte de Minas	Januária	Manga
+Norte de Minas	Januária	Matias Cardoso
+Norte de Minas	Januária	Miravânia
+Norte de Minas	Januária	Montalvânia
+Norte de Minas	Januária	Pedras de Maria da Cruz
+Norte de Minas	Januária	Pintópolis
+Norte de Minas	Januária	São Francisco
+Norte de Minas	Januária	São João das Missões
+Norte de Minas	Januária	Urucuia
+Norte de Minas	Montes Claros	Brasília de Minas
+Norte de Minas	Montes Claros	Campo Azul
+Norte de Minas	Montes Claros	Capitão Enéas
+Norte de Minas	Montes Claros	Claro dos Poções
+Norte de Minas	Montes Claros	Coração de Jesus
+Norte de Minas	Montes Claros	Francisco Sá
+Norte de Minas	Montes Claros	Glaucilândia
+Norte de Minas	Montes Claros	Ibiracatu
+Norte de Minas	Montes Claros	Japonvar
+Norte de Minas	Montes Claros	Juramento
+Norte de Minas	Montes Claros	Lontra
+Norte de Minas	Montes Claros	Luislândia
+Norte de Minas	Montes Claros	Mirabela
+Norte de Minas	Montes Claros	Montes Claros
+Norte de Minas	Montes Claros	Patis
+Norte de Minas	Montes Claros	Ponto Chique
+Norte de Minas	Montes Claros	São João da Lagoa
+Norte de Minas	Montes Claros	São João da Ponte
+Norte de Minas	Montes Claros	São João do Pacuí
+Norte de Minas	Montes Claros	Ubaí
+Norte de Minas	Montes Claros	Varzelândia
+Norte de Minas	Montes Claros	Verdelândia
+Norte de Minas	Pirapora	Buritizeiro
+Norte de Minas	Pirapora	Ibiaí
+Norte de Minas	Pirapora	Jequitaí
+Norte de Minas	Pirapora	Lagoa dos Patos
+Norte de Minas	Pirapora	Lassance
+Norte de Minas	Pirapora	Pirapora
+Norte de Minas	Pirapora	Riachinho
+Norte de Minas	Pirapora	Santa Fé de Minas
+Norte de Minas	Pirapora	São Romão
+Norte de Minas	Pirapora	Várzea da Palma
+Norte de Minas	Salinas	Águas Vermelhas
+Norte de Minas	Salinas	Berizal
+Norte de Minas	Salinas	Curral de Dentro
+Norte de Minas	Salinas	Divisa Alegre
+Norte de Minas	Salinas	Fruta de Leite
+Norte de Minas	Salinas	Indaiabira
+Norte de Minas	Salinas	Montezuma
+Norte de Minas	Salinas	Ninheira
+Norte de Minas	Salinas	Novorizonte
+Norte de Minas	Salinas	Rio Pardo de Minas
+Norte de Minas	Salinas	Rubelita
+Norte de Minas	Salinas	Salinas
+Norte de Minas	Salinas	Santa Cruz de Salinas
+Norte de Minas	Salinas	Santo Antônio do Retiro
+Norte de Minas	Salinas	São João do Paraíso
+Norte de Minas	Salinas	Taiobeiras
+Norte de Minas	Salinas	Vargem Grande do Rio Pardo
+Oeste de Minas	Campo Belo	Aguanil
+Oeste de Minas	Campo Belo	Campo Belo
+Oeste de Minas	Campo Belo	Cana Verde
+Oeste de Minas	Campo Belo	Candeias
+Oeste de Minas	Campo Belo	Cristais
+Oeste de Minas	Campo Belo	Perdões
+Oeste de Minas	Campo Belo	Santana do Jacaré
+Oeste de Minas	Divinópolis	Carmo do Cajuru
+Oeste de Minas	Divinópolis	Cláudio
+Oeste de Minas	Divinópolis	Conceição do Pará
+Oeste de Minas	Divinópolis	Divinópolis
+Oeste de Minas	Divinópolis	Igaratinga
+Oeste de Minas	Divinópolis	Itaúna
+Oeste de Minas	Divinópolis	Nova Serrana
+Oeste de Minas	Divinópolis	Perdigão
+Oeste de Minas	Divinópolis	Santo Antônio do Monte
+Oeste de Minas	Divinópolis	São Gonçalo do Pará
+Oeste de Minas	Divinópolis	São Sebastião do Oeste
+Oeste de Minas	Formiga	Arcos
+Oeste de Minas	Formiga	Camacho
+Oeste de Minas	Formiga	Córrego Fundo
+Oeste de Minas	Formiga	Formiga
+Oeste de Minas	Formiga	Itapecerica
+Oeste de Minas	Formiga	Pains
+Oeste de Minas	Formiga	Pedra do Indaiá
+Oeste de Minas	Formiga	Pimenta
+Oeste de Minas	Oliveira	Bom Sucesso
+Oeste de Minas	Oliveira	Carmo da Mata
+Oeste de Minas	Oliveira	Carmópolis de Minas
+Oeste de Minas	Oliveira	Ibituruna
+Oeste de Minas	Oliveira	Oliveira
+Oeste de Minas	Oliveira	Passa Tempo
+Oeste de Minas	Oliveira	Piracema
+Oeste de Minas	Oliveira	Santo Antônio do Amparo
+Oeste de Minas	Oliveira	São Francisco de Paula
+Oeste de Minas	Piumhi	Bambuí
+Oeste de Minas	Piumhi	Córrego Danta
+Oeste de Minas	Piumhi	Doresópolis
+Oeste de Minas	Piumhi	Iguatama
+Oeste de Minas	Piumhi	Medeiros
+Oeste de Minas	Piumhi	Piumhi
+Oeste de Minas	Piumhi	São Roque de Minas
+Oeste de Minas	Piumhi	Tapiraí
+Oeste de Minas	Piumhi	Vargem Bonita
+Sul/Sudoeste de Minas	Alfenas	Alfenas
+Sul/Sudoeste de Minas	Alfenas	Alterosa
+Sul/Sudoeste de Minas	Alfenas	Areado
+Sul/Sudoeste de Minas	Alfenas	Carmo do Rio Claro
+Sul/Sudoeste de Minas	Alfenas	Carvalhópolis
+Sul/Sudoeste de Minas	Alfenas	Conceição da Aparecida
+Sul/Sudoeste de Minas	Alfenas	Divisa Nova
+Sul/Sudoeste de Minas	Alfenas	Fama
+Sul/Sudoeste de Minas	Alfenas	Machado
+Sul/Sudoeste de Minas	Alfenas	Paraguaçu
+Sul/Sudoeste de Minas	Alfenas	Poço Fundo
+Sul/Sudoeste de Minas	Alfenas	Serrania
+Sul/Sudoeste de Minas	Andrelândia	Aiuruoca
+Sul/Sudoeste de Minas	Andrelândia	Andrelândia
+Sul/Sudoeste de Minas	Andrelândia	Arantina
+Sul/Sudoeste de Minas	Andrelândia	Bocaina de Minas
+Sul/Sudoeste de Minas	Andrelândia	Bom Jardim de Minas
+Sul/Sudoeste de Minas	Andrelândia	Carvalhos
+Sul/Sudoeste de Minas	Andrelândia	Cruzília
+Sul/Sudoeste de Minas	Andrelândia	Liberdade
+Sul/Sudoeste de Minas	Andrelândia	Minduri
+Sul/Sudoeste de Minas	Andrelândia	Passa-Vinte
+Sul/Sudoeste de Minas	Andrelândia	São Vicente de Minas
+Sul/Sudoeste de Minas	Andrelândia	Seritinga
+Sul/Sudoeste de Minas	Andrelândia	Serranos
+Sul/Sudoeste de Minas	Itajubá	Brasópolis
+Sul/Sudoeste de Minas	Itajubá	Consolação
+Sul/Sudoeste de Minas	Itajubá	Cristina
+Sul/Sudoeste de Minas	Itajubá	Delfim Moreira
+Sul/Sudoeste de Minas	Itajubá	Dom Viçoso
+Sul/Sudoeste de Minas	Itajubá	Itajubá
+Sul/Sudoeste de Minas	Itajubá	Maria da Fé
+Sul/Sudoeste de Minas	Itajubá	Marmelópolis
+Sul/Sudoeste de Minas	Itajubá	Paraisópolis
+Sul/Sudoeste de Minas	Itajubá	Piranguçu
+Sul/Sudoeste de Minas	Itajubá	Piranguinho
+Sul/Sudoeste de Minas	Itajubá	Virgínia
+Sul/Sudoeste de Minas	Itajubá	Wenceslau Braz
+Sul/Sudoeste de Minas	Passos	Alpinópolis
+Sul/Sudoeste de Minas	Passos	Bom Jesus da Penha
+Sul/Sudoeste de Minas	Passos	Capetinga
+Sul/Sudoeste de Minas	Passos	Capitólio
+Sul/Sudoeste de Minas	Passos	Cássia
+Sul/Sudoeste de Minas	Passos	Claraval
+Sul/Sudoeste de Minas	Passos	Delfinópolis
+Sul/Sudoeste de Minas	Passos	Fortaleza de Minas
+Sul/Sudoeste de Minas	Passos	Ibiraci
+Sul/Sudoeste de Minas	Passos	Itaú de Minas
+Sul/Sudoeste de Minas	Passos	Passos
+Sul/Sudoeste de Minas	Passos	Pratápolis
+Sul/Sudoeste de Minas	Passos	São João Batista do Glória
+Sul/Sudoeste de Minas	Passos	São José da Barra
+Sul/Sudoeste de Minas	Poços de Caldas	Albertina
+Sul/Sudoeste de Minas	Poços de Caldas	Andradas
+Sul/Sudoeste de Minas	Poços de Caldas	Bandeira do Sul
+Sul/Sudoeste de Minas	Poços de Caldas	Botelhos
+Sul/Sudoeste de Minas	Poços de Caldas	Caldas
+Sul/Sudoeste de Minas	Poços de Caldas	Campestre
+Sul/Sudoeste de Minas	Poços de Caldas	Ibitiúra de Minas
+Sul/Sudoeste de Minas	Poços de Caldas	Inconfidentes
+Sul/Sudoeste de Minas	Poços de Caldas	Jacutinga
+Sul/Sudoeste de Minas	Poços de Caldas	Monte Sião
+Sul/Sudoeste de Minas	Poços de Caldas	Ouro Fino
+Sul/Sudoeste de Minas	Poços de Caldas	Poços de Caldas
+Sul/Sudoeste de Minas	Poços de Caldas	Santa Rita de Caldas
+Sul/Sudoeste de Minas	Pouso Alegre	Bom Repouso
+Sul/Sudoeste de Minas	Pouso Alegre	Borda da Mata
+Sul/Sudoeste de Minas	Pouso Alegre	Bueno Brandão
+Sul/Sudoeste de Minas	Pouso Alegre	Camanducaia
+Sul/Sudoeste de Minas	Pouso Alegre	Cambuí
+Sul/Sudoeste de Minas	Pouso Alegre	Congonhal
+Sul/Sudoeste de Minas	Pouso Alegre	Córrego do Bom Jesus
+Sul/Sudoeste de Minas	Pouso Alegre	Espírito Santo do Dourado
+Sul/Sudoeste de Minas	Pouso Alegre	Estiva
+Sul/Sudoeste de Minas	Pouso Alegre	Extrema
+Sul/Sudoeste de Minas	Pouso Alegre	Gonçalves
+Sul/Sudoeste de Minas	Pouso Alegre	Ipuiuna
+Sul/Sudoeste de Minas	Pouso Alegre	Itapeva
+Sul/Sudoeste de Minas	Pouso Alegre	Munhoz
+Sul/Sudoeste de Minas	Pouso Alegre	Pouso Alegre
+Sul/Sudoeste de Minas	Pouso Alegre	Sapucaí-Mirim
+Sul/Sudoeste de Minas	Pouso Alegre	Senador Amaral
+Sul/Sudoeste de Minas	Pouso Alegre	Senador José Bento
+Sul/Sudoeste de Minas	Pouso Alegre	Tocos do Moji
+Sul/Sudoeste de Minas	Pouso Alegre	Toledo
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Cachoeira de Minas
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Careaçu
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Conceição das Pedras
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Conceição dos Ouros
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Cordislândia
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Heliodora
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Natércia
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Pedralva
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Santa Rita do Sapucaí
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	São Gonçalo do Sapucaí
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	São João da Mata
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	São José do Alegre
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	São Sebastião da Bela Vista
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Silvianópolis
+Sul/Sudoeste de Minas	Santa Rita do Sapucaí	Turvolândia
+Sul/Sudoeste de Minas	São Lourenço	Alagoa
+Sul/Sudoeste de Minas	São Lourenço	Baependi
+Sul/Sudoeste de Minas	São Lourenço	Cambuquira
+Sul/Sudoeste de Minas	São Lourenço	Carmo de Minas
+Sul/Sudoeste de Minas	São Lourenço	Caxambu
+Sul/Sudoeste de Minas	São Lourenço	Conceição do Rio Verde
+Sul/Sudoeste de Minas	São Lourenço	Itamonte
+Sul/Sudoeste de Minas	São Lourenço	Itanhandu
+Sul/Sudoeste de Minas	São Lourenço	Jesuânia
+Sul/Sudoeste de Minas	São Lourenço	Lambari
+Sul/Sudoeste de Minas	São Lourenço	Olímpio Noronha
+Sul/Sudoeste de Minas	São Lourenço	Passa-Quatro
+Sul/Sudoeste de Minas	São Lourenço	Pouso Alto
+Sul/Sudoeste de Minas	São Lourenço	São Lourenço
+Sul/Sudoeste de Minas	São Lourenço	São Sebastião do Rio Verde
+Sul/Sudoeste de Minas	São Lourenço	Soledade de Minas
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Arceburgo
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Cabo Verde
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Guaranésia
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Guaxupé
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Itamogi
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Jacuí
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Juruaia
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Monte Belo
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Monte Santo de Minas
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Muzambinho
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	Nova Resende
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	São Pedro da União
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	São Sebastião do Paraíso
+Sul/Sudoeste de Minas	São Sebastião do Paraíso	São Tomás de Aquino
+Sul/Sudoeste de Minas	Varginha	Boa Esperança
+Sul/Sudoeste de Minas	Varginha	Campanha
+Sul/Sudoeste de Minas	Varginha	Campo do Meio
+Sul/Sudoeste de Minas	Varginha	Campos Gerais
+Sul/Sudoeste de Minas	Varginha	Carmo da Cachoeira
+Sul/Sudoeste de Minas	Varginha	Coqueiral
+Sul/Sudoeste de Minas	Varginha	Elói Mendes
+Sul/Sudoeste de Minas	Varginha	Guapé
+Sul/Sudoeste de Minas	Varginha	Ilicínea
+Sul/Sudoeste de Minas	Varginha	Monsenhor Paulo
+Sul/Sudoeste de Minas	Varginha	Santana da Vargem
+Sul/Sudoeste de Minas	Varginha	São Bento Abade
+Sul/Sudoeste de Minas	Varginha	São Tomé das Letras
+Sul/Sudoeste de Minas	Varginha	Três Corações
+Sul/Sudoeste de Minas	Varginha	Três Pontas
+Sul/Sudoeste de Minas	Varginha	Varginha
+Triângulo Mineiro/Alto Paranaiba	Araxá	Araxá
+Triângulo Mineiro/Alto Paranaiba	Araxá	Campos Altos
+Triângulo Mineiro/Alto Paranaiba	Araxá	Ibiá
+Triângulo Mineiro/Alto Paranaiba	Araxá	Nova Ponte
+Triângulo Mineiro/Alto Paranaiba	Araxá	Pedrinópolis
+Triângulo Mineiro/Alto Paranaiba	Araxá	Perdizes
+Triângulo Mineiro/Alto Paranaiba	Araxá	Pratinha
+Triângulo Mineiro/Alto Paranaiba	Araxá	Sacramento
+Triângulo Mineiro/Alto Paranaiba	Araxá	Santa Juliana
+Triângulo Mineiro/Alto Paranaiba	Araxá	Tapira
+Triângulo Mineiro/Alto Paranaiba	Frutal	Campina Verde
+Triângulo Mineiro/Alto Paranaiba	Frutal	Carneirinho
+Triângulo Mineiro/Alto Paranaiba	Frutal	Comendador Gomes
+Triângulo Mineiro/Alto Paranaiba	Frutal	Fronteira
+Triângulo Mineiro/Alto Paranaiba	Frutal	Frutal
+Triângulo Mineiro/Alto Paranaiba	Frutal	Itapagipe
+Triângulo Mineiro/Alto Paranaiba	Frutal	Iturama
+Triângulo Mineiro/Alto Paranaiba	Frutal	Limeira do Oeste
+Triângulo Mineiro/Alto Paranaiba	Frutal	Pirajuba
+Triângulo Mineiro/Alto Paranaiba	Frutal	Planura
+Triângulo Mineiro/Alto Paranaiba	Frutal	São Francisco de Sales
+Triângulo Mineiro/Alto Paranaiba	Frutal	União de Minas
+Triângulo Mineiro/Alto Paranaiba	Ituiutaba	Cachoeira Dourada
+Triângulo Mineiro/Alto Paranaiba	Ituiutaba	Capinópolis
+Triângulo Mineiro/Alto Paranaiba	Ituiutaba	Gurinhatã
+Triângulo Mineiro/Alto Paranaiba	Ituiutaba	Ipiaçu
+Triângulo Mineiro/Alto Paranaiba	Ituiutaba	Ituiutaba
+Triângulo Mineiro/Alto Paranaiba	Ituiutaba	Santa Vitória
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Arapuá
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Carmo do Paranaíba
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Guimarânia
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Lagoa Formosa
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Matutina
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Patos de Minas
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Rio Paranaíba
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Santa Rosa da Serra
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	São Gotardo
+Triângulo Mineiro/Alto Paranaiba	Patos de Minas	Tiros
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Abadia dos Dourados
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Coromandel
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Cruzeiro da Fortaleza
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Douradoquara
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Estrela do Sul
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Grupiara
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Iraí de Minas
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Monte Carmelo
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Patrocínio
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Romaria
+Triângulo Mineiro/Alto Paranaiba	Patrocínio	Serra do Salitre
+Triângulo Mineiro/Alto Paranaiba	Uberaba	Água Comprida
+Triângulo Mineiro/Alto Paranaiba	Uberaba	Campo Florido
+Triângulo Mineiro/Alto Paranaiba	Uberaba	Conceição das Alagoas
+Triângulo Mineiro/Alto Paranaiba	Uberaba	Conquista
+Triângulo Mineiro/Alto Paranaiba	Uberaba	Delta
+Triângulo Mineiro/Alto Paranaiba	Uberaba	Uberaba
+Triângulo Mineiro/Alto Paranaiba	Uberaba	Veríssimo
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Araguari
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Araporã
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Canápolis
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Cascalho Rico
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Centralina
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Indianópolis
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Monte Alegre de Minas
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Prata
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Tupaciguara
+Triângulo Mineiro/Alto Paranaiba	Uberlândia	Uberlândia
+Vale do Mucuri	Nanuque	Águas Formosas
+Vale do Mucuri	Nanuque	Bertópolis
+Vale do Mucuri	Nanuque	Carlos Chagas
+Vale do Mucuri	Nanuque	Crisólita
+Vale do Mucuri	Nanuque	Fronteira dos Vales
+Vale do Mucuri	Nanuque	Machacalis
+Vale do Mucuri	Nanuque	Nanuque
+Vale do Mucuri	Nanuque	Santa Helena de Minas
+Vale do Mucuri	Nanuque	Serra dos Aimorés
+Vale do Mucuri	Nanuque	Umburatiba
+Vale do Mucuri	Teófilo Otoni	Ataléia
+Vale do Mucuri	Teófilo Otoni	Catuji
+Vale do Mucuri	Teófilo Otoni	Franciscópolis
+Vale do Mucuri	Teófilo Otoni	Frei Gaspar
+Vale do Mucuri	Teófilo Otoni	Itaipé
+Vale do Mucuri	Teófilo Otoni	Ladainha
+Vale do Mucuri	Teófilo Otoni	Malacacheta
+Vale do Mucuri	Teófilo Otoni	Novo Oriente de Minas
+Vale do Mucuri	Teófilo Otoni	Ouro Verde de Minas
+Vale do Mucuri	Teófilo Otoni	Pavão
+Vale do Mucuri	Teófilo Otoni	Poté
+Vale do Mucuri	Teófilo Otoni	Setubinha
+Vale do Mucuri	Teófilo Otoni	Teófilo Otoni
+Vale do Rio Doce	Aimorés	Aimorés
+Vale do Rio Doce	Aimorés	Alvarenga
+Vale do Rio Doce	Aimorés	Conceição de Ipanema
+Vale do Rio Doce	Aimorés	Conselheiro Pena
+Vale do Rio Doce	Aimorés	Cuparaque
+Vale do Rio Doce	Aimorés	Goiabeira
+Vale do Rio Doce	Aimorés	Ipanema
+Vale do Rio Doce	Aimorés	Itueta
+Vale do Rio Doce	Aimorés	Mutum
+Vale do Rio Doce	Aimorés	Pocrane
+Vale do Rio Doce	Aimorés	Resplendor
+Vale do Rio Doce	Aimorés	Santa Rita do Itueto
+Vale do Rio Doce	Aimorés	Taparuba
+Vale do Rio Doce	Caratinga	Bom Jesus do Galho
+Vale do Rio Doce	Caratinga	Bugre
+Vale do Rio Doce	Caratinga	Caratinga
+Vale do Rio Doce	Caratinga	Córrego Novo
+Vale do Rio Doce	Caratinga	Dom Cavati
+Vale do Rio Doce	Caratinga	Entre Folhas
+Vale do Rio Doce	Caratinga	Iapu
+Vale do Rio Doce	Caratinga	Imbé de Minas
+Vale do Rio Doce	Caratinga	Inhapim
+Vale do Rio Doce	Caratinga	Ipaba
+Vale do Rio Doce	Caratinga	Piedade de Caratinga
+Vale do Rio Doce	Caratinga	Pingo-d'Água
+Vale do Rio Doce	Caratinga	Santa Bárbara do Leste
+Vale do Rio Doce	Caratinga	Santa Rita de Minas
+Vale do Rio Doce	Caratinga	São Domingos das Dores
+Vale do Rio Doce	Caratinga	São João do Oriente
+Vale do Rio Doce	Caratinga	São Sebastião do Anta
+Vale do Rio Doce	Caratinga	Tarumirim
+Vale do Rio Doce	Caratinga	Ubaporanga
+Vale do Rio Doce	Caratinga	Vargem Alegre
+Vale do Rio Doce	Governador Valadares	Alpercata
+Vale do Rio Doce	Governador Valadares	Campanário
+Vale do Rio Doce	Governador Valadares	Capitão Andrade
+Vale do Rio Doce	Governador Valadares	Coroaci
+Vale do Rio Doce	Governador Valadares	Divino das Laranjeiras
+Vale do Rio Doce	Governador Valadares	Engenheiro Caldas
+Vale do Rio Doce	Governador Valadares	Fernandes Tourinho
+Vale do Rio Doce	Governador Valadares	Frei Inocêncio
+Vale do Rio Doce	Governador Valadares	Galiléia
+Vale do Rio Doce	Governador Valadares	Governador Valadares
+Vale do Rio Doce	Governador Valadares	Itambacuri
+Vale do Rio Doce	Governador Valadares	Itanhomi
+Vale do Rio Doce	Governador Valadares	Jampruca
+Vale do Rio Doce	Governador Valadares	Marilac
+Vale do Rio Doce	Governador Valadares	Mathias Lobato
+Vale do Rio Doce	Governador Valadares	Nacip Raydan
+Vale do Rio Doce	Governador Valadares	Nova Módica
+Vale do Rio Doce	Governador Valadares	Pescador
+Vale do Rio Doce	Governador Valadares	São Geraldo da Piedade
+Vale do Rio Doce	Governador Valadares	São Geraldo do Baixio
+Vale do Rio Doce	Governador Valadares	São José da Safira
+Vale do Rio Doce	Governador Valadares	São José do Divino
+Vale do Rio Doce	Governador Valadares	Sobrália
+Vale do Rio Doce	Governador Valadares	Tumiritinga
+Vale do Rio Doce	Governador Valadares	Virgolândia
+Vale do Rio Doce	Guanhães	Braúnas
+Vale do Rio Doce	Guanhães	Carmésia
+Vale do Rio Doce	Guanhães	Coluna
+Vale do Rio Doce	Guanhães	Divinolândia de Minas
+Vale do Rio Doce	Guanhães	Dores de Guanhães
+Vale do Rio Doce	Guanhães	Gonzaga
+Vale do Rio Doce	Guanhães	Guanhães
+Vale do Rio Doce	Guanhães	Materlândia
+Vale do Rio Doce	Guanhães	Paulistas
+Vale do Rio Doce	Guanhães	Sabinópolis
+Vale do Rio Doce	Guanhães	Santa Efigênia de Minas
+Vale do Rio Doce	Guanhães	São João Evangelista
+Vale do Rio Doce	Guanhães	Sardoá
+Vale do Rio Doce	Guanhães	Senhora do Porto
+Vale do Rio Doce	Guanhães	Virginópolis
+Vale do Rio Doce	Ipatinga	Açucena
+Vale do Rio Doce	Ipatinga	Antônio Dias
+Vale do Rio Doce	Ipatinga	Belo Oriente
+Vale do Rio Doce	Ipatinga	Coronel Fabriciano
+Vale do Rio Doce	Ipatinga	Ipatinga
+Vale do Rio Doce	Ipatinga	Jaguaraçu
+Vale do Rio Doce	Ipatinga	Joanésia
+Vale do Rio Doce	Ipatinga	Marliéria
+Vale do Rio Doce	Ipatinga	Mesquita
+Vale do Rio Doce	Ipatinga	Naque
+Vale do Rio Doce	Ipatinga	Periquito
+Vale do Rio Doce	Ipatinga	Santana do Paraíso
+Vale do Rio Doce	Ipatinga	Timóteo
+Vale do Rio Doce	Mantena	Central de Minas
+Vale do Rio Doce	Mantena	Itabirinha
+Vale do Rio Doce	Mantena	Mantena
+Vale do Rio Doce	Mantena	Mendes Pimentel
+Vale do Rio Doce	Mantena	Nova Belém
+Vale do Rio Doce	Mantena	São Félix de Minas
+Vale do Rio Doce	Mantena	São João do Manteninha
+Vale do Rio Doce	Peçanha	Água Boa
+Vale do Rio Doce	Peçanha	Cantagalo
+Vale do Rio Doce	Peçanha	Frei Lagonegro
+Vale do Rio Doce	Peçanha	José Raydan
+Vale do Rio Doce	Peçanha	Peçanha
+Vale do Rio Doce	Peçanha	Santa Maria do Suaçuí
+Vale do Rio Doce	Peçanha	São José do Jacuri
+Vale do Rio Doce	Peçanha	São Pedro do Suaçuí
+Vale do Rio Doce	Peçanha	São Sebastião do Maranhão
+Zona da Mata	Cataguases	Além Paraíba
+Zona da Mata	Cataguases	Argirita
+Zona da Mata	Cataguases	Cataguases
+Zona da Mata	Cataguases	Dona Eusébia
+Zona da Mata	Cataguases	Estrela Dalva
+Zona da Mata	Cataguases	Itamarati de Minas
+Zona da Mata	Cataguases	Laranjal
+Zona da Mata	Cataguases	Leopoldina
+Zona da Mata	Cataguases	Palma
+Zona da Mata	Cataguases	Pirapetinga
+Zona da Mata	Cataguases	Recreio
+Zona da Mata	Cataguases	Santana de Cataguases
+Zona da Mata	Cataguases	Santo Antônio do Aventureiro
+Zona da Mata	Cataguases	Volta Grande
+Zona da Mata	Juiz de Fora	Aracitaba
+Zona da Mata	Juiz de Fora	Belmiro Braga
+Zona da Mata	Juiz de Fora	Bias Fortes
+Zona da Mata	Juiz de Fora	Bicas
+Zona da Mata	Juiz de Fora	Chácara
+Zona da Mata	Juiz de Fora	Chiador
+Zona da Mata	Juiz de Fora	Coronel Pacheco
+Zona da Mata	Juiz de Fora	Descoberto
+Zona da Mata	Juiz de Fora	Ewbank da Câmara
+Zona da Mata	Juiz de Fora	Goianá
+Zona da Mata	Juiz de Fora	Guarará
+Zona da Mata	Juiz de Fora	Juiz de Fora
+Zona da Mata	Juiz de Fora	Lima Duarte
+Zona da Mata	Juiz de Fora	Mar de Espanha
+Zona da Mata	Juiz de Fora	Maripá de Minas
+Zona da Mata	Juiz de Fora	Matias Barbosa
+Zona da Mata	Juiz de Fora	Olaria
+Zona da Mata	Juiz de Fora	Oliveira Fortes
+Zona da Mata	Juiz de Fora	Paiva
+Zona da Mata	Juiz de Fora	Pedro Teixeira
+Zona da Mata	Juiz de Fora	Pequeri
+Zona da Mata	Juiz de Fora	Piau
+Zona da Mata	Juiz de Fora	Rio Novo
+Zona da Mata	Juiz de Fora	Rio Preto
+Zona da Mata	Juiz de Fora	Rochedo de Minas
+Zona da Mata	Juiz de Fora	Santa Bárbara do Monte Verde
+Zona da Mata	Juiz de Fora	Santa Rita de Ibitipoca
+Zona da Mata	Juiz de Fora	Santa Rita de Jacutinga
+Zona da Mata	Juiz de Fora	Santana do Deserto
+Zona da Mata	Juiz de Fora	Santos Dumont
+Zona da Mata	Juiz de Fora	São João Nepomuceno
+Zona da Mata	Juiz de Fora	Senador Cortes
+Zona da Mata	Juiz de Fora	Simão Pereira
+Zona da Mata	Manhuaçu	Abre-Campo
+Zona da Mata	Manhuaçu	Alto Caparaó
+Zona da Mata	Manhuaçu	Alto Jequitibá
+Zona da Mata	Manhuaçu	Caparaó
+Zona da Mata	Manhuaçu	Caputira
+Zona da Mata	Manhuaçu	Chalé
+Zona da Mata	Manhuaçu	Durandé
+Zona da Mata	Manhuaçu	Lajinha
+Zona da Mata	Manhuaçu	Luisburgo
+Zona da Mata	Manhuaçu	Manhuaçu
+Zona da Mata	Manhuaçu	Manhumirim
+Zona da Mata	Manhuaçu	Martins Soares
+Zona da Mata	Manhuaçu	Matipó
+Zona da Mata	Manhuaçu	Pedra Bonita
+Zona da Mata	Manhuaçu	Reduto
+Zona da Mata	Manhuaçu	Santa Margarida
+Zona da Mata	Manhuaçu	Santana do Manhuaçu
+Zona da Mata	Manhuaçu	São João do Manhuaçu
+Zona da Mata	Manhuaçu	São José do Mantimento
+Zona da Mata	Manhuaçu	Simonésia
+Zona da Mata	Muriaé	Antônio Prado de Minas
+Zona da Mata	Muriaé	Barão de Monte Alto
+Zona da Mata	Muriaé	Caiana
+Zona da Mata	Muriaé	Carangola
+Zona da Mata	Muriaé	Divino
+Zona da Mata	Muriaé	Espera Feliz
+Zona da Mata	Muriaé	Eugenópolis
+Zona da Mata	Muriaé	Faria Lemos
+Zona da Mata	Muriaé	Fervedouro
+Zona da Mata	Muriaé	Miradouro
+Zona da Mata	Muriaé	Miraí
+Zona da Mata	Muriaé	Muriaé
+Zona da Mata	Muriaé	Orizânia
+Zona da Mata	Muriaé	Patrocínio do Muriaé
+Zona da Mata	Muriaé	Pedra Dourada
+Zona da Mata	Muriaé	Rosário da Limeira
+Zona da Mata	Muriaé	São Francisco do Glória
+Zona da Mata	Muriaé	São Sebastião da Vargem Alegre
+Zona da Mata	Muriaé	Tombos
+Zona da Mata	Muriaé	Vieiras
+Zona da Mata	Ponte Nova	Acaiaca
+Zona da Mata	Ponte Nova	Barra Longa
+Zona da Mata	Ponte Nova	Dom Silvério
+Zona da Mata	Ponte Nova	Guaraciaba
+Zona da Mata	Ponte Nova	Jequeri
+Zona da Mata	Ponte Nova	Oratórios
+Zona da Mata	Ponte Nova	Piedade de Ponte Nova
+Zona da Mata	Ponte Nova	Ponte Nova
+Zona da Mata	Ponte Nova	Raul Soares
+Zona da Mata	Ponte Nova	Rio Casca
+Zona da Mata	Ponte Nova	Rio Doce
+Zona da Mata	Ponte Nova	Santa Cruz do Escalvado
+Zona da Mata	Ponte Nova	Santo Antônio do Grama
+Zona da Mata	Ponte Nova	São Pedro dos Ferros
+Zona da Mata	Ponte Nova	Sem-Peixe
+Zona da Mata	Ponte Nova	Sericita
+Zona da Mata	Ponte Nova	Urucânia
+Zona da Mata	Ponte Nova	Vermelho Novo
+Zona da Mata	Ubá	Astolfo Dutra
+Zona da Mata	Ubá	Divinésia
+Zona da Mata	Ubá	Dores do Turvo
+Zona da Mata	Ubá	Guarani
+Zona da Mata	Ubá	Guidoval
+Zona da Mata	Ubá	Guiricema
+Zona da Mata	Ubá	Mercês
+Zona da Mata	Ubá	Piraúba
+Zona da Mata	Ubá	Rio Pomba
+Zona da Mata	Ubá	Rodeiro
+Zona da Mata	Ubá	São Geraldo
+Zona da Mata	Ubá	Senador Firmino
+Zona da Mata	Ubá	Silveirânia
+Zona da Mata	Ubá	Tabuleiro
+Zona da Mata	Ubá	Tocantins
+Zona da Mata	Ubá	Ubá
+Zona da Mata	Ubá	Visconde do Rio Branco
+Zona da Mata	Viçosa	Alto Rio Doce
+Zona da Mata	Viçosa	Amparo da Serra
+Zona da Mata	Viçosa	Araponga
+Zona da Mata	Viçosa	Brás Pires
+Zona da Mata	Viçosa	Cajuri
+Zona da Mata	Viçosa	Canaã
+Zona da Mata	Viçosa	Cipotânea
+Zona da Mata	Viçosa	Coimbra
+Zona da Mata	Viçosa	Ervália
+Zona da Mata	Viçosa	Lamim
+Zona da Mata	Viçosa	Paula Cândido
+Zona da Mata	Viçosa	Pedra do Anta
+Zona da Mata	Viçosa	Piranga
+Zona da Mata	Viçosa	Porto Firme
+Zona da Mata	Viçosa	Presidente Bernardes
+Zona da Mata	Viçosa	Rio Espera
+Zona da Mata	Viçosa	São Miguel do Anta
+Zona da Mata	Viçosa	Senhora de Oliveira
+Zona da Mata	Viçosa	Teixeiras
+Zona da Mata	Viçosa	Viçosa

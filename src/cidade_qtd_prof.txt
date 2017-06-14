@@ -1,0 +1,2944 @@
+Abadia dos Dourados	Auxiliar de Enfermagem	15
+Abadia dos Dourados	Enfermeiro	12
+Abadia dos Dourados	Técnico em Enfermagem	19
+Abaeté	Auxiliar de Enfermagem	19
+Abaeté	Enfermeiro	34
+Abaeté	Técnico em Enfermagem	73
+Abre Campo	Auxiliar de Enfermagem	17
+Abre Campo	Enfermeiro	22
+Abre Campo	Técnico em Enfermagem	38
+Abreus	Técnico em Enfermagem	3
+Acaiaca	Auxiliar de Enfermagem	2
+Acaiaca	Enfermeiro	10
+Acaiaca	Técnico em Enfermagem	20
+Açucena	Auxiliar de Enfermagem	6
+Açucena	Enfermeiro	11
+Açucena	Técnico em Enfermagem	22
+Adão Colares	Auxiliar de Enfermagem	1
+Adão Colares	Técnico em Enfermagem	2
+Água Boa	Auxiliar de Enfermagem	1
+Água Boa	Enfermeiro	12
+Água Boa	Técnico em Enfermagem	27
+Água Comprida	Auxiliar de Enfermagem	1
+Água Comprida	Enfermeiro	2
+Água Comprida	Técnico em Enfermagem	10
+Aguanil	Auxiliar de Enfermagem	12
+Aguanil	Enfermeiro	7
+Aguanil	Técnico em Enfermagem	30
+Águas Férreas	Técnico em Enfermagem	3
+Águas Formosas	Auxiliar de Enfermagem	26
+Águas Formosas	Enfermeiro	29
+Águas Formosas	Técnico em Enfermagem	73
+Águas Vermelhas	Auxiliar de Enfermagem	6
+Águas Vermelhas	Enfermeiro	17
+Águas Vermelhas	Técnico em Enfermagem	48
+Aimorés	Auxiliar de Enfermagem	18
+Aimorés	Enfermeiro	39
+Aimorés	Técnico em Enfermagem	98
+Aiuruoca	Auxiliar de Enfermagem	8
+Aiuruoca	Enfermeiro	7
+Aiuruoca	Técnico em Enfermagem	39
+Alagoa	Auxiliar de Enfermagem	9
+Alagoa	Enfermeiro	4
+Alagoa	Técnico em Enfermagem	17
+Albertina	Auxiliar de Enfermagem	3
+Albertina	Enfermeiro	4
+Albertina	Técnico em Enfermagem	10
+Alberto Isaacson	Técnico em Enfermagem	3
+Aldeia	Auxiliar de Enfermagem	1
+Aldeia	Técnico em Enfermagem	1
+Alegria	Técnico em Enfermagem	2
+Além Paraíba	Auxiliar de Enfermagem	102
+Além Paraíba	Enfermeiro	86
+Além Paraíba	Técnico em Enfermagem	38
+Alexandrita	Auxiliar de Enfermagem	2
+Alexandrita	Enfermeiro	1
+Alexandrita	Técnico em Enfermagem	3
+Alfenas	Auxiliar de Enfermagem	106
+Alfenas	Enfermeiro	337
+Alfenas	Técnico em Enfermagem	580
+Alfredo Vasconcelos	Auxiliar de Enfermagem	2
+Alfredo Vasconcelos	Enfermeiro	5
+Alfredo Vasconcelos	Técnico em Enfermagem	28
+Almeida	Auxiliar de Enfermagem	1
+Almeida	Enfermeiro	2
+Almeida	Técnico em Enfermagem	5
+Almenara	Auxiliar de Enfermagem	43
+Almenara	Enfermeiro	83
+Almenara	Técnico em Enfermagem	134
+Alpercata	Enfermeiro	4
+Alpercata	Técnico em Enfermagem	37
+Alpinópolis	Auxiliar de Enfermagem	25
+Alpinópolis	Enfermeiro	50
+Alpinópolis	Técnico em Enfermagem	54
+Alterosa	Auxiliar de Enfermagem	11
+Alterosa	Enfermeiro	21
+Alterosa	Técnico em Enfermagem	72
+Alto Caparaó	Auxiliar de Enfermagem	3
+Alto Caparaó	Enfermeiro	4
+Alto Caparaó	Técnico em Enfermagem	9
+Alto Jequitibá	Auxiliar de Enfermagem	22
+Alto Jequitibá	Enfermeiro	15
+Alto Jequitibá	Técnico em Enfermagem	39
+Alto Maranhão	Enfermeiro	2
+Alto Maranhão	Técnico em Enfermagem	1
+Alto Rio Doce	Auxiliar de Enfermagem	9
+Alto Rio Doce	Enfermeiro	23
+Alto Rio Doce	Técnico em Enfermagem	53
+Alvarenga	Auxiliar de Enfermagem	4
+Alvarenga	Enfermeiro	4
+Alvarenga	Técnico em Enfermagem	16
+Alvinópolis	Auxiliar de Enfermagem	10
+Alvinópolis	Enfermeiro	19
+Alvinópolis	Técnico em Enfermagem	59
+Alvorada	Técnico em Enfermagem	2
+Alvorada de Minas	Auxiliar de Enfermagem	6
+Alvorada de Minas	Enfermeiro	3
+Alvorada de Minas	Técnico em Enfermagem	17
+Amanda	Auxiliar de Enfermagem	1
+Amanhece	Enfermeiro	2
+Amanhece	Técnico em Enfermagem	2
+Amarantina	Auxiliar de Enfermagem	1
+Amarantina	Enfermeiro	3
+Amarantina	Técnico em Enfermagem	10
+Amparo da Serra	Enfermeiro	1
+Amparo da Serra	Técnico em Enfermagem	7
+Andradas	Auxiliar de Enfermagem	58
+Andradas	Enfermeiro	51
+Andradas	Técnico em Enfermagem	101
+Andrelândia	Auxiliar de Enfermagem	11
+Andrelândia	Enfermeiro	14
+Andrelândia	Técnico em Enfermagem	37
+Angaturama	Técnico em Enfermagem	1
+Angelândia	Auxiliar de Enfermagem	6
+Angelândia	Enfermeiro	7
+Angelândia	Técnico em Enfermagem	12
+Angueretá	Técnico em Enfermagem	1
+Angustura	Técnico em Enfermagem	1
+Antônio Carlos	Auxiliar de Enfermagem	8
+Antônio Carlos	Enfermeiro	19
+Antônio Carlos	Técnico em Enfermagem	91
+Antônio Dias	Auxiliar de Enfermagem	3
+Antônio Dias	Enfermeiro	5
+Antônio Dias	Técnico em Enfermagem	39
+Antônio Pereira	Enfermeiro	1
+Antônio Pereira	Técnico em Enfermagem	5
+Antônio Prado de Minas	Auxiliar de Enfermagem	3
+Antônio Prado de Minas	Enfermeiro	4
+Antônio Prado de Minas	Técnico em Enfermagem	7
+Antunes	Enfermeiro	1
+Antunes	Técnico em Enfermagem	2
+Aparecida de Minas	Técnico em Enfermagem	1
+Araçaí	Auxiliar de Enfermagem	2
+Araçaí	Enfermeiro	3
+Araçaí	Técnico em Enfermagem	12
+Aracati de Minas	Técnico em Enfermagem	1
+Aracitaba	Auxiliar de Enfermagem	1
+Aracitaba	Enfermeiro	4
+Aracitaba	Técnico em Enfermagem	8
+Araçuaí	Auxiliar de Enfermagem	36
+Araçuaí	Enfermeiro	41
+Araçuaí	Técnico em Enfermagem	123
+Araguari	Auxiliar de Enfermagem	52
+Araguari	Enfermeiro	230
+Araguari	Técnico em Enfermagem	530
+Arantina	Auxiliar de Enfermagem	1
+Arantina	Enfermeiro	2
+Arantina	Técnico em Enfermagem	19
+Araponga	Enfermeiro	8
+Araponga	Técnico em Enfermagem	29
+Araporã	Auxiliar de Enfermagem	3
+Araporã	Enfermeiro	9
+Araporã	Técnico em Enfermagem	19
+Arapuá	Auxiliar de Enfermagem	5
+Arapuá	Enfermeiro	4
+Arapuá	Técnico em Enfermagem	13
+Araújos	Auxiliar de Enfermagem	4
+Araújos	Enfermeiro	7
+Araújos	Técnico em Enfermagem	13
+Araxá	Auxiliar de Enfermagem	128
+Araxá	Enfermeiro	221
+Araxá	Técnico em Enfermagem	332
+Arceburgo	Auxiliar de Enfermagem	19
+Arceburgo	Enfermeiro	10
+Arceburgo	Técnico em Enfermagem	23
+Arcos	Auxiliar de Enfermagem	35
+Arcos	Enfermeiro	98
+Arcos	Técnico em Enfermagem	156
+Areado	Auxiliar de Enfermagem	5
+Areado	Enfermeiro	24
+Areado	Técnico em Enfermagem	67
+Argirita	Auxiliar de Enfermagem	1
+Argirita	Enfermeiro	2
+Argirita	Técnico em Enfermagem	11
+Aricanduva	Auxiliar de Enfermagem	5
+Aricanduva	Enfermeiro	1
+Aricanduva	Técnico em Enfermagem	10
+Arinos	Auxiliar de Enfermagem	13
+Arinos	Enfermeiro	16
+Arinos	Técnico em Enfermagem	73
+Ascenção	Enfermeiro	2
+Astolfo Dutra	Auxiliar de Enfermagem	12
+Astolfo Dutra	Enfermeiro	22
+Astolfo Dutra	Técnico em Enfermagem	38
+Ataléia	Auxiliar de Enfermagem	13
+Ataléia	Enfermeiro	11
+Ataléia	Técnico em Enfermagem	12
+Augusto de Lima	Auxiliar de Enfermagem	3
+Augusto de Lima	Enfermeiro	6
+Augusto de Lima	Técnico em Enfermagem	15
+Avaí do Jacinto	Técnico em Enfermagem	3
+Azurita	Auxiliar de Enfermagem	3
+Azurita	Enfermeiro	3
+Azurita	Técnico em Enfermagem	10
+Baependi	Auxiliar de Enfermagem	17
+Baependi	Enfermeiro	30
+Baependi	Técnico em Enfermagem	160
+Baguari	Técnico em Enfermagem	4
+Baldim	Auxiliar de Enfermagem	9
+Baldim	Enfermeiro	3
+Baldim	Técnico em Enfermagem	19
+Bambuí	Auxiliar de Enfermagem	44
+Bambuí	Enfermeiro	48
+Bambuí	Técnico em Enfermagem	128
+Bandeira	Auxiliar de Enfermagem	2
+Bandeira	Enfermeiro	4
+Bandeira	Técnico em Enfermagem	7
+Bandeira do Sul	Auxiliar de Enfermagem	7
+Bandeira do Sul	Enfermeiro	8
+Bandeira do Sul	Técnico em Enfermagem	37
+Barão de Cocais	Auxiliar de Enfermagem	35
+Barão de Cocais	Enfermeiro	53
+Barão de Cocais	Técnico em Enfermagem	131
+Barão de Monte Alto	Auxiliar de Enfermagem	13
+Barão de Monte Alto	Enfermeiro	2
+Barão de Monte Alto	Técnico em Enfermagem	37
+Barbacena	Auxiliar de Enfermagem	281
+Barbacena	Enfermeiro	407
+Barbacena	Técnico em Enfermagem	1.286
+Barra da Figueira	Técnico em Enfermagem	1
+Barra do Cuieté	Técnico em Enfermagem	1
+Barra Feliz	Técnico em Enfermagem	1
+Barra Longa	Auxiliar de Enfermagem	5
+Barra Longa	Enfermeiro	3
+Barra Longa	Técnico em Enfermagem	13
+Barreiro da Raiz	Técnico em Enfermagem	1
+Barroso	Auxiliar de Enfermagem	25
+Barroso	Enfermeiro	36
+Barroso	Técnico em Enfermagem	96
+Bela Vista de Minas	Auxiliar de Enfermagem	9
+Bela Vista de Minas	Enfermeiro	24
+Bela Vista de Minas	Técnico em Enfermagem	95
+Belisário	Auxiliar de Enfermagem	4
+Belisário	Técnico em Enfermagem	11
+Belmiro Braga	Enfermeiro	2
+Belmiro Braga	Técnico em Enfermagem	24
+Belo Horizonte	Auxiliar de Enfermagem	5.494
+Belo Horizonte	Enfermeiro	10.041
+Belo Horizonte	Técnico em Enfermagem	15.589
+Belo Oriente	Auxiliar de Enfermagem	14
+Belo Oriente	Enfermeiro	28
+Belo Oriente	Técnico em Enfermagem	134
+Belo Oriente	Auxiliar de Enfermagem	14
+Belo Oriente	Enfermeiro	28
+Belo Oriente	Técnico em Enfermagem	134
+Belo Vale	Auxiliar de Enfermagem	3
+Belo Vale	Enfermeiro	16
+Belo Vale	Técnico em Enfermagem	18
+Bentópolis de Minas	Técnico em Enfermagem	1
+Berilo	Auxiliar de Enfermagem	10
+Berilo	Enfermeiro	13
+Berilo	Técnico em Enfermagem	33
+Berizal	Auxiliar de Enfermagem	1
+Berizal	Enfermeiro	1
+Berizal	Técnico em Enfermagem	23
+Bertópolis	Auxiliar de Enfermagem	4
+Bertópolis	Enfermeiro	7
+Bertópolis	Técnico em Enfermagem	30
+Betim	Auxiliar de Enfermagem	595
+Betim	Enfermeiro	782
+Betim	Técnico em Enfermagem	3.171
+Bias Fortes	Auxiliar de Enfermagem	2
+Bias Fortes	Enfermeiro	9
+Bias Fortes	Técnico em Enfermagem	14
+Bicas	Auxiliar de Enfermagem	15
+Bicas	Enfermeiro	18
+Bicas	Técnico em Enfermagem	75
+Biquinhas	Enfermeiro	5
+Biquinhas	Técnico em Enfermagem	16
+Boa Esperança	Auxiliar de Enfermagem	53
+Boa Esperança	Enfermeiro	68
+Boa Esperança	Técnico em Enfermagem	142
+Boa Esperança	Auxiliar de Enfermagem	53
+Boa Esperança	Enfermeiro	68
+Boa Esperança	Técnico em Enfermagem	142
+Boa Família	Enfermeiro	1
+Boa União de Itabirinha	Técnico em Enfermagem	1
+Boa Vista de Minas	Auxiliar de Enfermagem	1
+Boa Vista de Minas	Técnico em Enfermagem	2
+Bocaina de Minas	Auxiliar de Enfermagem	2
+Bocaina de Minas	Enfermeiro	3
+Bocaina de Minas	Técnico em Enfermagem	6
+Bocaiúva	Auxiliar de Enfermagem	63
+Bocaiúva	Enfermeiro	104
+Bocaiúva	Técnico em Enfermagem	182
+Bom Despacho	Auxiliar de Enfermagem	32
+Bom Despacho	Enfermeiro	126
+Bom Despacho	Técnico em Enfermagem	222
+Bom Jardim de Minas	Auxiliar de Enfermagem	1
+Bom Jardim de Minas	Enfermeiro	13
+Bom Jardim de Minas	Técnico em Enfermagem	69
+Bom Jesus da Cachoeira	Auxiliar de Enfermagem	1
+Bom Jesus da Cachoeira	Técnico em Enfermagem	3
+Bom Jesus da Penha	Auxiliar de Enfermagem	7
+Bom Jesus da Penha	Enfermeiro	11
+Bom Jesus da Penha	Técnico em Enfermagem	8
+Bom Jesus de Cardosos	Enfermeiro	1
+Bom Jesus do Amparo	Auxiliar de Enfermagem	4
+Bom Jesus do Amparo	Enfermeiro	5
+Bom Jesus do Amparo	Técnico em Enfermagem	9
+Bom Jesus do Divino	Técnico em Enfermagem	2
+Bom Jesus do Galho	Auxiliar de Enfermagem	11
+Bom Jesus do Galho	Enfermeiro	17
+Bom Jesus do Galho	Técnico em Enfermagem	56
+Bom Jesus do Madeira	Técnico em Enfermagem	2
+Bom Repouso	Auxiliar de Enfermagem	6
+Bom Repouso	Enfermeiro	12
+Bom Repouso	Técnico em Enfermagem	24
+Bom Sucesso	Auxiliar de Enfermagem	12
+Bom Sucesso	Enfermeiro	28
+Bom Sucesso	Técnico em Enfermagem	67
+Bonfim	Auxiliar de Enfermagem	8
+Bonfim	Enfermeiro	4
+Bonfim	Técnico em Enfermagem	10
+Bonfinópolis de Minas	Enfermeiro	10
+Bonfinópolis de Minas	Técnico em Enfermagem	13
+Bonito de Minas	Auxiliar de Enfermagem	5
+Bonito de Minas	Enfermeiro	5
+Bonito de Minas	Técnico em Enfermagem	22
+Borda da Mata	Auxiliar de Enfermagem	19
+Borda da Mata	Enfermeiro	46
+Borda da Mata	Técnico em Enfermagem	57
+Botelhos	Auxiliar de Enfermagem	10
+Botelhos	Enfermeiro	16
+Botelhos	Técnico em Enfermagem	86
+Botumirim	Auxiliar de Enfermagem	12
+Botumirim	Enfermeiro	5
+Botumirim	Técnico em Enfermagem	1
+Brás Pires	Enfermeiro	3
+Brás Pires	Técnico em Enfermagem	25
+Brasilândia de Minas	Auxiliar de Enfermagem	10
+Brasilândia de Minas	Enfermeiro	22
+Brasilândia de Minas	Técnico em Enfermagem	36
+Brasília de Minas	Auxiliar de Enfermagem	17
+Brasília de Minas	Enfermeiro	75
+Brasília de Minas	Técnico em Enfermagem	260
+Brasópolis	Auxiliar de Enfermagem	11
+Brasópolis	Enfermeiro	14
+Brasópolis	Técnico em Enfermagem	59
+Braúnas	Enfermeiro	7
+Braúnas	Técnico em Enfermagem	11
+Brejaubinha	Técnico em Enfermagem	7
+Brejo Bonito	Auxiliar de Enfermagem	1
+Brejo Bonito	Enfermeiro	2
+Brejo Bonito	Técnico em Enfermagem	3
+Brumadinho	Auxiliar de Enfermagem	40
+Brumadinho	Enfermeiro	82
+Brumadinho	Técnico em Enfermagem	283
+Bueno Brandão	Auxiliar de Enfermagem	8
+Bueno Brandão	Enfermeiro	11
+Bueno Brandão	Técnico em Enfermagem	24
+Buenópolis	Auxiliar de Enfermagem	7
+Buenópolis	Enfermeiro	12
+Buenópolis	Técnico em Enfermagem	43
+Bugre	Auxiliar de Enfermagem	5
+Bugre	Enfermeiro	3
+Bugre	Técnico em Enfermagem	16
+Buritis	Auxiliar de Enfermagem	7
+Buritis	Enfermeiro	45
+Buritis	Técnico em Enfermagem	101
+Buritizeiro	Auxiliar de Enfermagem	9
+Buritizeiro	Enfermeiro	16
+Buritizeiro	Técnico em Enfermagem	96
+Caatinga	Técnico em Enfermagem	1
+Cabeceira Grande	Enfermeiro	4
+Cabeceira Grande	Técnico em Enfermagem	18
+Cabo Verde	Auxiliar de Enfermagem	15
+Cabo Verde	Enfermeiro	19
+Cabo Verde	Técnico em Enfermagem	80
+Caçaratiba	Enfermeiro	1
+Caçaratiba	Técnico em Enfermagem	2
+Caçarema	Enfermeiro	1
+Cachoeira Alegre	Auxiliar de Enfermagem	1
+Cachoeira Alegre	Técnico em Enfermagem	16
+Cachoeira da Prata	Auxiliar de Enfermagem	1
+Cachoeira da Prata	Enfermeiro	7
+Cachoeira da Prata	Técnico em Enfermagem	39
+Cachoeira de Minas	Auxiliar de Enfermagem	8
+Cachoeira de Minas	Enfermeiro	8
+Cachoeira de Minas	Técnico em Enfermagem	42
+Cachoeira de Pajeú	Auxiliar de Enfermagem	14
+Cachoeira de Pajeú	Enfermeiro	9
+Cachoeira de Pajeú	Técnico em Enfermagem	16
+Cachoeira de Santa Cruz	Técnico em Enfermagem	2
+Cachoeira do Brumado	Enfermeiro	1
+Cachoeira do Brumado	Técnico em Enfermagem	2
+Cachoeira do Campo	Auxiliar de Enfermagem	3
+Cachoeira do Campo	Enfermeiro	8
+Cachoeira do Campo	Técnico em Enfermagem	26
+Cachoeira Dourada	Enfermeiro	4
+Cachoeira Dourada	Técnico em Enfermagem	16
+Caetanópolis	Auxiliar de Enfermagem	16
+Caetanópolis	Enfermeiro	21
+Caetanópolis	Técnico em Enfermagem	31
+Caeté	Auxiliar de Enfermagem	92
+Caeté	Enfermeiro	56
+Caeté	Técnico em Enfermagem	582
+Caeté	Auxiliar de Enfermagem	92
+Caeté	Enfermeiro	56
+Caeté	Técnico em Enfermagem	582
+Caiana	Auxiliar de Enfermagem	8
+Caiana	Enfermeiro	3
+Caiana	Técnico em Enfermagem	11
+Cajuri	Auxiliar de Enfermagem	3
+Cajuri	Enfermeiro	3
+Cajuri	Técnico em Enfermagem	15
+Caldas	Auxiliar de Enfermagem	22
+Caldas	Enfermeiro	13
+Caldas	Técnico em Enfermagem	52
+Calixto	Auxiliar de Enfermagem	1
+Camacho	Auxiliar de Enfermagem	5
+Camacho	Enfermeiro	5
+Camacho	Técnico em Enfermagem	7
+Camanducaia	Auxiliar de Enfermagem	23
+Camanducaia	Enfermeiro	19
+Camanducaia	Técnico em Enfermagem	43
+Camargos	Técnico em Enfermagem	1
+Cambuí	Auxiliar de Enfermagem	32
+Cambuí	Enfermeiro	31
+Cambuí	Técnico em Enfermagem	75
+Cambuquira	Auxiliar de Enfermagem	16
+Cambuquira	Enfermeiro	14
+Cambuquira	Técnico em Enfermagem	72
+Campanário	Auxiliar de Enfermagem	4
+Campanário	Enfermeiro	4
+Campanário	Técnico em Enfermagem	15
+Campanha	Auxiliar de Enfermagem	11
+Campanha	Enfermeiro	23
+Campanha	Técnico em Enfermagem	44
+Campestre	Auxiliar de Enfermagem	43
+Campestre	Enfermeiro	22
+Campestre	Técnico em Enfermagem	49
+Campina Verde	Auxiliar de Enfermagem	18
+Campina Verde	Enfermeiro	30
+Campina Verde	Técnico em Enfermagem	81
+Campo Alegre de Minas	Técnico em Enfermagem	4
+Campo Azul	Auxiliar de Enfermagem	1
+Campo Azul	Enfermeiro	1
+Campo Azul	Técnico em Enfermagem	16
+Campo Belo	Auxiliar de Enfermagem	62
+Campo Belo	Enfermeiro	132
+Campo Belo	Técnico em Enfermagem	174
+Campo do Meio	Auxiliar de Enfermagem	17
+Campo do Meio	Enfermeiro	35
+Campo do Meio	Técnico em Enfermagem	42
+Campo Florido	Auxiliar de Enfermagem	4
+Campo Florido	Enfermeiro	5
+Campo Florido	Técnico em Enfermagem	32
+Campolide	Enfermeiro	1
+Campos Altos	Auxiliar de Enfermagem	13
+Campos Altos	Enfermeiro	28
+Campos Altos	Técnico em Enfermagem	49
+Campos Gerais	Auxiliar de Enfermagem	25
+Campos Gerais	Enfermeiro	62
+Campos Gerais	Técnico em Enfermagem	62
+Cana Verde	Auxiliar de Enfermagem	13
+Cana Verde	Enfermeiro	6
+Cana Verde	Técnico em Enfermagem	29
+Canaã	Auxiliar de Enfermagem	2
+Canaã	Enfermeiro	8
+Canaã	Técnico em Enfermagem	27
+Canabrava	Enfermeiro	2
+Canabrava	Técnico em Enfermagem	2
+Canápolis	Auxiliar de Enfermagem	3
+Canápolis	Enfermeiro	13
+Canápolis	Técnico em Enfermagem	31
+Candeias	Auxiliar de Enfermagem	23
+Candeias	Enfermeiro	32
+Candeias	Técnico em Enfermagem	28
+Cantagalo	Auxiliar de Enfermagem	2
+Cantagalo	Enfermeiro	6
+Cantagalo	Técnico em Enfermagem	15
+Caparaó	Auxiliar de Enfermagem	4
+Caparaó	Enfermeiro	3
+Caparaó	Técnico em Enfermagem	15
+Capela Nova	Auxiliar de Enfermagem	2
+Capela Nova	Enfermeiro	6
+Capela Nova	Técnico em Enfermagem	18
+Capelinha	Auxiliar de Enfermagem	54
+Capelinha	Enfermeiro	54
+Capelinha	Técnico em Enfermagem	95
+Capetinga	Auxiliar de Enfermagem	3
+Capetinga	Enfermeiro	8
+Capetinga	Técnico em Enfermagem	47
+Capim Branco	Auxiliar de Enfermagem	13
+Capim Branco	Enfermeiro	8
+Capim Branco	Técnico em Enfermagem	26
+Capinópolis	Auxiliar de Enfermagem	10
+Capinópolis	Enfermeiro	15
+Capinópolis	Técnico em Enfermagem	42
+Capitão Andrade	Enfermeiro	7
+Capitão Andrade	Técnico em Enfermagem	14
+Capitão Enéas	Auxiliar de Enfermagem	18
+Capitão Enéas	Enfermeiro	11
+Capitão Enéas	Técnico em Enfermagem	24
+Capitólio	Auxiliar de Enfermagem	13
+Capitólio	Enfermeiro	21
+Capitólio	Técnico em Enfermagem	33
+Caputira	Auxiliar de Enfermagem	18
+Caputira	Enfermeiro	11
+Caputira	Técnico em Enfermagem	9
+Caraí	Auxiliar de Enfermagem	10
+Caraí	Enfermeiro	15
+Caraí	Técnico em Enfermagem	32
+Caranaíba	Auxiliar de Enfermagem	4
+Caranaíba	Enfermeiro	2
+Caranaíba	Técnico em Enfermagem	11
+Carandaí	Auxiliar de Enfermagem	14
+Carandaí	Enfermeiro	34
+Carandaí	Técnico em Enfermagem	120
+Carangola	Auxiliar de Enfermagem	59
+Carangola	Enfermeiro	101
+Carangola	Técnico em Enfermagem	294
+Caratinga	Auxiliar de Enfermagem	68
+Caratinga	Enfermeiro	177
+Caratinga	Técnico em Enfermagem	375
+Carbonita	Auxiliar de Enfermagem	10
+Carbonita	Enfermeiro	7
+Carbonita	Técnico em Enfermagem	33
+Careaçu	Auxiliar de Enfermagem	12
+Careaçu	Enfermeiro	19
+Careaçu	Técnico em Enfermagem	14
+Carlos Alves	Auxiliar de Enfermagem	1
+Carlos Chagas	Auxiliar de Enfermagem	23
+Carlos Chagas	Enfermeiro	27
+Carlos Chagas	Técnico em Enfermagem	29
+Carmésia	Auxiliar de Enfermagem	3
+Carmésia	Enfermeiro	2
+Carmésia	Técnico em Enfermagem	22
+Carmo da Cachoeira	Auxiliar de Enfermagem	8
+Carmo da Cachoeira	Enfermeiro	15
+Carmo da Cachoeira	Técnico em Enfermagem	30
+Carmo da Mata	Auxiliar de Enfermagem	17
+Carmo da Mata	Enfermeiro	15
+Carmo da Mata	Técnico em Enfermagem	36
+Carmo de Minas	Auxiliar de Enfermagem	4
+Carmo de Minas	Enfermeiro	28
+Carmo de Minas	Técnico em Enfermagem	66
+Carmo do Cajuru	Auxiliar de Enfermagem	52
+Carmo do Cajuru	Enfermeiro	27
+Carmo do Cajuru	Técnico em Enfermagem	87
+Carmo do Paranaíba	Auxiliar de Enfermagem	17
+Carmo do Paranaíba	Enfermeiro	50
+Carmo do Paranaíba	Técnico em Enfermagem	115
+Carmo do Rio Claro	Auxiliar de Enfermagem	27
+Carmo do Rio Claro	Enfermeiro	43
+Carmo do Rio Claro	Técnico em Enfermagem	89
+Carmópolis de Minas	Auxiliar de Enfermagem	15
+Carmópolis de Minas	Enfermeiro	48
+Carmópolis de Minas	Técnico em Enfermagem	48
+Carneirinho	Auxiliar de Enfermagem	8
+Carneirinho	Enfermeiro	21
+Carneirinho	Técnico em Enfermagem	43
+Carrancas	Auxiliar de Enfermagem	7
+Carrancas	Enfermeiro	6
+Carrancas	Técnico em Enfermagem	16
+Carvalhópolis	Auxiliar de Enfermagem	8
+Carvalhópolis	Enfermeiro	7
+Carvalhópolis	Técnico em Enfermagem	20
+Carvalhos	Auxiliar de Enfermagem	2
+Carvalhos	Enfermeiro	13
+Carvalhos	Técnico em Enfermagem	19
+Casa Grande	Auxiliar de Enfermagem	3
+Casa Grande	Enfermeiro	2
+Casa Grande	Técnico em Enfermagem	3
+Cascalho Rico	Auxiliar de Enfermagem	1
+Cascalho Rico	Enfermeiro	6
+Cascalho Rico	Técnico em Enfermagem	5
+Cássia	Auxiliar de Enfermagem	40
+Cássia	Enfermeiro	36
+Cássia	Técnico em Enfermagem	97
+Cataguases	Auxiliar de Enfermagem	151
+Cataguases	Enfermeiro	138
+Cataguases	Técnico em Enfermagem	337
+Catas Altas	Auxiliar de Enfermagem	2
+Catas Altas	Enfermeiro	13
+Catas Altas	Técnico em Enfermagem	37
+Catas Altas da Noruega	Auxiliar de Enfermagem	1
+Catas Altas da Noruega	Enfermeiro	4
+Catas Altas da Noruega	Técnico em Enfermagem	17
+Catuji	Auxiliar de Enfermagem	5
+Catuji	Enfermeiro	15
+Catuji	Técnico em Enfermagem	21
+Catuni	Auxiliar de Enfermagem	1
+Catuni	Enfermeiro	2
+Catuni	Técnico em Enfermagem	2
+Catuti	Auxiliar de Enfermagem	1
+Catuti	Enfermeiro	1
+Catuti	Técnico em Enfermagem	11
+Caxambu	Auxiliar de Enfermagem	21
+Caxambu	Enfermeiro	27
+Caxambu	Técnico em Enfermagem	113
+Cedro do Abaeté	Auxiliar de Enfermagem	3
+Cedro do Abaeté	Enfermeiro	2
+Cedro do Abaeté	Técnico em Enfermagem	8
+Central de Minas	Auxiliar de Enfermagem	5
+Central de Minas	Enfermeiro	9
+Central de Minas	Técnico em Enfermagem	29
+Central de Santa Helena	Técnico em Enfermagem	1
+Centralina	Auxiliar de Enfermagem	5
+Centralina	Enfermeiro	9
+Centralina	Técnico em Enfermagem	25
+Chácara	Auxiliar de Enfermagem	1
+Chácara	Enfermeiro	1
+Chácara	Técnico em Enfermagem	22
+Chalé	Auxiliar de Enfermagem	10
+Chalé	Enfermeiro	9
+Chalé	Técnico em Enfermagem	23
+Chapada de Minas	Auxiliar de Enfermagem	2
+Chapada do Norte	Auxiliar de Enfermagem	4
+Chapada do Norte	Enfermeiro	22
+Chapada do Norte	Técnico em Enfermagem	17
+Chapada Gaúcha	Auxiliar de Enfermagem	6
+Chapada Gaúcha	Enfermeiro	12
+Chapada Gaúcha	Técnico em Enfermagem	40
+Chaves	Enfermeiro	1
+Chaveslândia	Auxiliar de Enfermagem	3
+Chaveslândia	Enfermeiro	2
+Chaveslândia	Técnico em Enfermagem	1
+Chiador	Auxiliar de Enfermagem	6
+Chiador	Enfermeiro	1
+Chiador	Técnico em Enfermagem	8
+Chonim	Enfermeiro	2
+Chonim	Técnico em Enfermagem	8
+Chonin de Baixo	Enfermeiro	1
+Chumbo	Técnico em Enfermagem	1
+Cipotânea	Auxiliar de Enfermagem	7
+Cipotânea	Enfermeiro	11
+Cipotânea	Técnico em Enfermagem	27
+Cisneiros	Técnico em Enfermagem	2
+Claraval	Auxiliar de Enfermagem	6
+Claraval	Enfermeiro	1
+Claraval	Técnico em Enfermagem	7
+Claro de Minas	Técnico em Enfermagem	1
+Claro dos Poções	Auxiliar de Enfermagem	15
+Claro dos Poções	Enfermeiro	7
+Claro dos Poções	Técnico em Enfermagem	24
+Cláudio	Auxiliar de Enfermagem	21
+Cláudio	Enfermeiro	35
+Cláudio	Técnico em Enfermagem	59
+Cláudio Manuel	Técnico em Enfermagem	1
+Cocais	Enfermeiro	1
+Coimbra	Enfermeiro	7
+Coimbra	Técnico em Enfermagem	41
+Coluna	Auxiliar de Enfermagem	20
+Coluna	Enfermeiro	14
+Coluna	Técnico em Enfermagem	27
+Comendador Gomes	Auxiliar de Enfermagem	3
+Comendador Gomes	Enfermeiro	3
+Comendador Gomes	Técnico em Enfermagem	10
+Comercinho	Auxiliar de Enfermagem	2
+Comercinho	Enfermeiro	6
+Comercinho	Técnico em Enfermagem	9
+Conceição da Aparecida	Auxiliar de Enfermagem	4
+Conceição da Aparecida	Enfermeiro	13
+Conceição da Aparecida	Técnico em Enfermagem	31
+Conceição da Barra de Minas	Auxiliar de Enfermagem	6
+Conceição da Barra de Minas	Enfermeiro	3
+Conceição da Barra de Minas	Técnico em Enfermagem	7
+Conceição da Ibitipoca	Técnico em Enfermagem	1
+Conceição das Alagoas	Auxiliar de Enfermagem	5
+Conceição das Alagoas	Enfermeiro	30
+Conceição das Alagoas	Técnico em Enfermagem	60
+Conceição das Pedras	Auxiliar de Enfermagem	2
+Conceição das Pedras	Enfermeiro	7
+Conceição das Pedras	Técnico em Enfermagem	20
+Conceição de Ipanema	Auxiliar de Enfermagem	3
+Conceição de Ipanema	Enfermeiro	4
+Conceição de Ipanema	Técnico em Enfermagem	15
+Conceição de Itaguá	Enfermeiro	1
+Conceição de Itaguá	Técnico em Enfermagem	2
+Conceição de Minas	Enfermeiro	1
+Conceição de Tronqueiras	Enfermeiro	1
+Conceição de Tronqueiras	Técnico em Enfermagem	4
+Conceição do Formoso	Técnico em Enfermagem	1
+Conceição do Mato Dentro	Auxiliar de Enfermagem	6
+Conceição do Mato Dentro	Enfermeiro	23
+Conceição do Mato Dentro	Técnico em Enfermagem	46
+Conceição do Pará	Auxiliar de Enfermagem	8
+Conceição do Pará	Enfermeiro	8
+Conceição do Pará	Técnico em Enfermagem	12
+Conceição do Rio Verde	Auxiliar de Enfermagem	4
+Conceição do Rio Verde	Enfermeiro	14
+Conceição do Rio Verde	Técnico em Enfermagem	15
+Conceição dos Ouros	Auxiliar de Enfermagem	8
+Conceição dos Ouros	Enfermeiro	10
+Conceição dos Ouros	Técnico em Enfermagem	48
+Concórdia de Mucuri	Técnico em Enfermagem	2
+Cônego Marinho	Auxiliar de Enfermagem	6
+Cônego Marinho	Enfermeiro	1
+Cônego Marinho	Técnico em Enfermagem	18
+Confins	Auxiliar de Enfermagem	7
+Confins	Enfermeiro	9
+Confins	Técnico em Enfermagem	21
+Congonhal	Auxiliar de Enfermagem	15
+Congonhal	Enfermeiro	23
+Congonhal	Técnico em Enfermagem	72
+Congonhas	Auxiliar de Enfermagem	43
+Congonhas	Enfermeiro	82
+Congonhas	Técnico em Enfermagem	282
+Congonhas do Norte	Auxiliar de Enfermagem	5
+Congonhas do Norte	Enfermeiro	3
+Congonhas do Norte	Técnico em Enfermagem	18
+Conquista	Auxiliar de Enfermagem	4
+Conquista	Enfermeiro	10
+Conquista	Técnico em Enfermagem	38
+Conselheiro Lafaiete	Auxiliar de Enfermagem	88
+Conselheiro Lafaiete	Enfermeiro	277
+Conselheiro Lafaiete	Técnico em Enfermagem	586
+Conselheiro Mata	Auxiliar de Enfermagem	1
+Conselheiro Pena	Auxiliar de Enfermagem	13
+Conselheiro Pena	Enfermeiro	26
+Conselheiro Pena	Técnico em Enfermagem	47
+Consolação	Auxiliar de Enfermagem	2
+Consolação	Enfermeiro	1
+Consolação	Técnico em Enfermagem	3
+Contagem	Auxiliar de Enfermagem	1.096
+Contagem	Enfermeiro	1.601
+Contagem	Técnico em Enfermagem	4.396
+Contrato	Técnico em Enfermagem	1
+Contria	Auxiliar de Enfermagem	1
+Coqueiral	Auxiliar de Enfermagem	22
+Coqueiral	Enfermeiro	18
+Coqueiral	Técnico em Enfermagem	37
+Coração de Jesus	Auxiliar de Enfermagem	28
+Coração de Jesus	Enfermeiro	38
+Coração de Jesus	Técnico em Enfermagem	84
+Cordisburgo	Auxiliar de Enfermagem	14
+Cordisburgo	Enfermeiro	12
+Cordisburgo	Técnico em Enfermagem	23
+Cordislândia	Auxiliar de Enfermagem	4
+Cordislândia	Enfermeiro	8
+Cordislândia	Técnico em Enfermagem	10
+Corinto	Auxiliar de Enfermagem	26
+Corinto	Enfermeiro	58
+Corinto	Técnico em Enfermagem	63
+Coroaci	Auxiliar de Enfermagem	5
+Coroaci	Enfermeiro	11
+Coroaci	Técnico em Enfermagem	34
+Coromandel	Auxiliar de Enfermagem	28
+Coromandel	Enfermeiro	60
+Coromandel	Técnico em Enfermagem	75
+Coronel Fabriciano	Auxiliar de Enfermagem	95
+Coronel Fabriciano	Enfermeiro	181
+Coronel Fabriciano	Técnico em Enfermagem	534
+Coronel Murta	Auxiliar de Enfermagem	9
+Coronel Murta	Enfermeiro	11
+Coronel Murta	Técnico em Enfermagem	18
+Coronel Pacheco	Auxiliar de Enfermagem	4
+Coronel Pacheco	Enfermeiro	3
+Coronel Pacheco	Técnico em Enfermagem	31
+Coronel Xavier Chaves	Auxiliar de Enfermagem	1
+Coronel Xavier Chaves	Enfermeiro	3
+Coronel Xavier Chaves	Técnico em Enfermagem	17
+Córrego Danta	Auxiliar de Enfermagem	5
+Córrego Danta	Enfermeiro	6
+Córrego Danta	Técnico em Enfermagem	11
+Córrego do Bom Jesus	Auxiliar de Enfermagem	6
+Córrego do Bom Jesus	Enfermeiro	3
+Córrego do Bom Jesus	Técnico em Enfermagem	11
+Córrego do Ouro	Enfermeiro	4
+Córrego do Ouro	Técnico em Enfermagem	1
+Córrego Fundo	Auxiliar de Enfermagem	3
+Córrego Fundo	Enfermeiro	11
+Córrego Fundo	Técnico em Enfermagem	23
+Córrego Novo	Auxiliar de Enfermagem	5
+Córrego Novo	Enfermeiro	5
+Córrego Novo	Técnico em Enfermagem	10
+Correia de Almeida	Auxiliar de Enfermagem	1
+Correia de Almeida	Enfermeiro	1
+Correia de Almeida	Técnico em Enfermagem	16
+Costas	Técnico em Enfermagem	1
+Couto de Magalhães de Minas	Auxiliar de Enfermagem	3
+Couto de Magalhães de Minas	Enfermeiro	7
+Couto de Magalhães de Minas	Técnico em Enfermagem	18
+Crisólita	Auxiliar de Enfermagem	5
+Crisólita	Enfermeiro	4
+Crisólita	Técnico em Enfermagem	9
+Cristais	Auxiliar de Enfermagem	15
+Cristais	Enfermeiro	17
+Cristais	Técnico em Enfermagem	11
+Cristália	Auxiliar de Enfermagem	9
+Cristália	Enfermeiro	4
+Cristália	Técnico em Enfermagem	17
+Cristiano Otoni	Auxiliar de Enfermagem	4
+Cristiano Otoni	Enfermeiro	8
+Cristiano Otoni	Técnico em Enfermagem	22
+Cristina	Auxiliar de Enfermagem	29
+Cristina	Enfermeiro	26
+Cristina	Técnico em Enfermagem	34
+Crucilândia	Auxiliar de Enfermagem	2
+Crucilândia	Enfermeiro	9
+Crucilândia	Técnico em Enfermagem	9
+Cruzeiro da Fortaleza	Auxiliar de Enfermagem	3
+Cruzeiro da Fortaleza	Enfermeiro	1
+Cruzeiro da Fortaleza	Técnico em Enfermagem	10
+Cruzeiro dos Peixotos	Técnico em Enfermagem	4
+Cruzília	Auxiliar de Enfermagem	17
+Cruzília	Enfermeiro	35
+Cruzília	Técnico em Enfermagem	78
+Cuparaque	Auxiliar de Enfermagem	1
+Cuparaque	Enfermeiro	5
+Cuparaque	Técnico em Enfermagem	16
+Curral de Dentro	Auxiliar de Enfermagem	2
+Curral de Dentro	Enfermeiro	5
+Curral de Dentro	Técnico em Enfermagem	26
+Curvelo	Auxiliar de Enfermagem	90
+Curvelo	Enfermeiro	201
+Curvelo	Técnico em Enfermagem	389
+Datas	Auxiliar de Enfermagem	10
+Datas	Enfermeiro	7
+Datas	Técnico em Enfermagem	24
+Delfim Moreira	Auxiliar de Enfermagem	5
+Delfim Moreira	Enfermeiro	4
+Delfim Moreira	Técnico em Enfermagem	27
+Delfinópolis	Auxiliar de Enfermagem	3
+Delfinópolis	Enfermeiro	15
+Delfinópolis	Técnico em Enfermagem	30
+Delta	Auxiliar de Enfermagem	1
+Delta	Enfermeiro	9
+Delta	Técnico em Enfermagem	39
+Descoberto	Auxiliar de Enfermagem	6
+Descoberto	Enfermeiro	7
+Descoberto	Técnico em Enfermagem	10
+Desembargador Otoni	Auxiliar de Enfermagem	3
+Desembargador Otoni	Técnico em Enfermagem	1
+Desterro de Entre Rios	Auxiliar de Enfermagem	1
+Desterro de Entre Rios	Enfermeiro	7
+Desterro de Entre Rios	Técnico em Enfermagem	12
+Desterro do Melo	Auxiliar de Enfermagem	2
+Desterro do Melo	Enfermeiro	2
+Desterro do Melo	Técnico em Enfermagem	23
+Diamante de Ubá	Técnico em Enfermagem	1
+Diamantina	Auxiliar de Enfermagem	88
+Diamantina	Enfermeiro	177
+Diamantina	Técnico em Enfermagem	333
+Dias Tavares	Técnico em Enfermagem	2
+Diogo de Vasconcelos	Auxiliar de Enfermagem	1
+Diogo de Vasconcelos	Enfermeiro	2
+Diogo de Vasconcelos	Técnico em Enfermagem	10
+Dionísio	Auxiliar de Enfermagem	4
+Dionísio	Enfermeiro	6
+Dionísio	Técnico em Enfermagem	25
+Divinésia	Auxiliar de Enfermagem	5
+Divinésia	Enfermeiro	7
+Divinésia	Técnico em Enfermagem	12
+Divino	Auxiliar de Enfermagem	8
+Divino	Enfermeiro	34
+Divino	Técnico em Enfermagem	105
+Divino das Laranjeiras	Auxiliar de Enfermagem	1
+Divino das Laranjeiras	Enfermeiro	4
+Divino das Laranjeiras	Técnico em Enfermagem	18
+Divino Espírito Santo	Técnico em Enfermagem	1
+Divinolândia de Minas	Enfermeiro	4
+Divinolândia de Minas	Técnico em Enfermagem	11
+Divinópolis	Auxiliar de Enfermagem	589
+Divinópolis	Enfermeiro	759
+Divinópolis	Técnico em Enfermagem	1.074
+Divisa Alegre	Auxiliar de Enfermagem	3
+Divisa Alegre	Enfermeiro	7
+Divisa Alegre	Técnico em Enfermagem	11
+Divisa Nova	Auxiliar de Enfermagem	3
+Divisa Nova	Enfermeiro	8
+Divisa Nova	Técnico em Enfermagem	35
+Divisópolis	Auxiliar de Enfermagem	11
+Divisópolis	Enfermeiro	8
+Divisópolis	Técnico em Enfermagem	40
+Dom Bosco	Enfermeiro	8
+Dom Bosco	Técnico em Enfermagem	19
+Dom Cavati	Auxiliar de Enfermagem	3
+Dom Cavati	Enfermeiro	11
+Dom Cavati	Técnico em Enfermagem	16
+Dom Joaquim	Auxiliar de Enfermagem	12
+Dom Joaquim	Enfermeiro	3
+Dom Joaquim	Técnico em Enfermagem	7
+Dom Lara	Técnico em Enfermagem	1
+Dom Silvério	Auxiliar de Enfermagem	1
+Dom Silvério	Enfermeiro	10
+Dom Silvério	Técnico em Enfermagem	24
+Dom Viçoso	Auxiliar de Enfermagem	4
+Dom Viçoso	Enfermeiro	5
+Dom Viçoso	Técnico em Enfermagem	16
+Dona Euzébia	Auxiliar de Enfermagem	3
+Dona Euzébia	Enfermeiro	8
+Dona Euzébia	Técnico em Enfermagem	11
+Dores de Campos	Enfermeiro	11
+Dores de Campos	Técnico em Enfermagem	25
+Dores de Guanhães	Enfermeiro	4
+Dores de Guanhães	Técnico em Enfermagem	20
+Dores do Indaiá	Auxiliar de Enfermagem	20
+Dores do Indaiá	Enfermeiro	25
+Dores do Indaiá	Técnico em Enfermagem	44
+Dores do Paraibuna	Técnico em Enfermagem	1
+Dores do Turvo	Auxiliar de Enfermagem	5
+Dores do Turvo	Enfermeiro	6
+Dores do Turvo	Técnico em Enfermagem	14
+Doresópolis	Auxiliar de Enfermagem	6
+Doresópolis	Enfermeiro	4
+Doresópolis	Técnico em Enfermagem	15
+Douradinho	Enfermeiro	1
+Douradoquara	Auxiliar de Enfermagem	4
+Douradoquara	Enfermeiro	5
+Douradoquara	Técnico em Enfermagem	10
+Durandé	Auxiliar de Enfermagem	4
+Durandé	Enfermeiro	18
+Durandé	Técnico em Enfermagem	32
+Elói Mendes	Auxiliar de Enfermagem	30
+Elói Mendes	Enfermeiro	74
+Elói Mendes	Técnico em Enfermagem	87
+Engenheiro Caldas	Auxiliar de Enfermagem	5
+Engenheiro Caldas	Enfermeiro	14
+Engenheiro Caldas	Técnico em Enfermagem	19
+Engenheiro Navarro	Auxiliar de Enfermagem	10
+Engenheiro Navarro	Enfermeiro	6
+Engenheiro Navarro	Técnico em Enfermagem	25
+Engenho do Ribeiro	Enfermeiro	1
+Entre Folhas	Auxiliar de Enfermagem	3
+Entre Folhas	Enfermeiro	10
+Entre Folhas	Técnico em Enfermagem	24
+Entre Rios de Minas	Auxiliar de Enfermagem	16
+Entre Rios de Minas	Enfermeiro	27
+Entre Rios de Minas	Técnico em Enfermagem	62
+Epaminondas Otoni	Técnico em Enfermagem	2
+Ervália	Auxiliar de Enfermagem	13
+Ervália	Enfermeiro	12
+Ervália	Técnico em Enfermagem	76
+Esmeraldas	Auxiliar de Enfermagem	55
+Esmeraldas	Enfermeiro	50
+Esmeraldas	Técnico em Enfermagem	360
+Esmeraldas de Ferros	Enfermeiro	1
+Esmeraldas de Ferros	Técnico em Enfermagem	1
+Espera Feliz	Auxiliar de Enfermagem	30
+Espera Feliz	Enfermeiro	40
+Espera Feliz	Técnico em Enfermagem	65
+Espinosa	Auxiliar de Enfermagem	13
+Espinosa	Enfermeiro	32
+Espinosa	Técnico em Enfermagem	65
+Espírito Santo do Dourado	Auxiliar de Enfermagem	1
+Espírito Santo do Dourado	Enfermeiro	3
+Espírito Santo do Dourado	Técnico em Enfermagem	8
+Estevão de Araújo	Técnico em Enfermagem	1
+Estiva	Auxiliar de Enfermagem	7
+Estiva	Enfermeiro	10
+Estiva	Técnico em Enfermagem	19
+Estrela Dalva	Auxiliar de Enfermagem	4
+Estrela Dalva	Enfermeiro	7
+Estrela Dalva	Técnico em Enfermagem	7
+Estrela do Indaiá	Auxiliar de Enfermagem	3
+Estrela do Indaiá	Enfermeiro	4
+Estrela do Indaiá	Técnico em Enfermagem	22
+Estrela do Sul	Auxiliar de Enfermagem	4
+Estrela do Sul	Enfermeiro	8
+Estrela do Sul	Técnico em Enfermagem	26
+Eugenópolis	Auxiliar de Enfermagem	11
+Eugenópolis	Enfermeiro	24
+Eugenópolis	Técnico em Enfermagem	35
+Euxenita	Técnico em Enfermagem	1
+Ewbank da Câmara	Enfermeiro	4
+Ewbank da Câmara	Técnico em Enfermagem	31
+Extrema	Auxiliar de Enfermagem	34
+Extrema	Enfermeiro	36
+Extrema	Técnico em Enfermagem	86
+Fama	Auxiliar de Enfermagem	2
+Fama	Enfermeiro	6
+Fama	Técnico em Enfermagem	20
+Faria Lemos	Auxiliar de Enfermagem	9
+Faria Lemos	Enfermeiro	10
+Faria Lemos	Técnico em Enfermagem	51
+Felício dos Santos	Auxiliar de Enfermagem	10
+Felício dos Santos	Enfermeiro	5
+Felício dos Santos	Técnico em Enfermagem	10
+Felisburgo	Auxiliar de Enfermagem	9
+Felisburgo	Enfermeiro	11
+Felisburgo	Técnico em Enfermagem	21
+Felixlândia	Auxiliar de Enfermagem	16
+Felixlândia	Enfermeiro	32
+Felixlândia	Técnico em Enfermagem	38
+Fernandes Tourinho	Auxiliar de Enfermagem	1
+Fernandes Tourinho	Enfermeiro	5
+Fernandes Tourinho	Técnico em Enfermagem	15
+Fernão Dias	Técnico em Enfermagem	4
+Ferreirópolis	Auxiliar de Enfermagem	1
+Ferros	Auxiliar de Enfermagem	19
+Ferros	Enfermeiro	13
+Ferros	Técnico em Enfermagem	29
+Fervedouro	Auxiliar de Enfermagem	9
+Fervedouro	Enfermeiro	14
+Fervedouro	Técnico em Enfermagem	27
+Fidelândia	Auxiliar de Enfermagem	1
+Flor de Minas	Auxiliar de Enfermagem	1
+Flor de Minas	Técnico em Enfermagem	1
+Floresta	Técnico em Enfermagem	3
+Florestal	Auxiliar de Enfermagem	7
+Florestal	Enfermeiro	19
+Florestal	Técnico em Enfermagem	29
+Fonseca	Técnico em Enfermagem	6
+Formiga	Auxiliar de Enfermagem	66
+Formiga	Enfermeiro	159
+Formiga	Técnico em Enfermagem	335
+Formoso	Auxiliar de Enfermagem	3
+Formoso	Enfermeiro	6
+Formoso	Técnico em Enfermagem	30
+Fortaleza de Minas	Auxiliar de Enfermagem	6
+Fortaleza de Minas	Enfermeiro	9
+Fortaleza de Minas	Técnico em Enfermagem	27
+Fortuna de Minas	Auxiliar de Enfermagem	5
+Fortuna de Minas	Enfermeiro	6
+Fortuna de Minas	Técnico em Enfermagem	19
+Francisco Badaró	Auxiliar de Enfermagem	8
+Francisco Badaró	Enfermeiro	11
+Francisco Badaró	Técnico em Enfermagem	13
+Francisco Dumont	Auxiliar de Enfermagem	7
+Francisco Dumont	Enfermeiro	2
+Francisco Dumont	Técnico em Enfermagem	16
+Francisco Sá	Auxiliar de Enfermagem	14
+Francisco Sá	Enfermeiro	41
+Francisco Sá	Técnico em Enfermagem	77
+Franciscópolis	Auxiliar de Enfermagem	7
+Franciscópolis	Enfermeiro	8
+Franciscópolis	Técnico em Enfermagem	18
+Frei Gaspar	Auxiliar de Enfermagem	4
+Frei Gaspar	Enfermeiro	5
+Frei Gaspar	Técnico em Enfermagem	23
+Frei Inocêncio	Auxiliar de Enfermagem	2
+Frei Inocêncio	Enfermeiro	16
+Frei Inocêncio	Técnico em Enfermagem	56
+Frei Lagonegro	Auxiliar de Enfermagem	2
+Frei Lagonegro	Enfermeiro	2
+Frei Lagonegro	Técnico em Enfermagem	8
+Frei Orlando	Auxiliar de Enfermagem	1
+Frei Serafim	Técnico em Enfermagem	1
+Fronteira	Auxiliar de Enfermagem	9
+Fronteira	Enfermeiro	22
+Fronteira	Técnico em Enfermagem	53
+Fronteira dos Vales	Auxiliar de Enfermagem	8
+Fronteira dos Vales	Enfermeiro	8
+Fronteira dos Vales	Técnico em Enfermagem	11
+Fruta de Leite	Auxiliar de Enfermagem	4
+Fruta de Leite	Enfermeiro	3
+Fruta de Leite	Técnico em Enfermagem	7
+Frutal	Auxiliar de Enfermagem	51
+Frutal	Enfermeiro	66
+Frutal	Técnico em Enfermagem	171
+Funilândia	Auxiliar de Enfermagem	3
+Funilândia	Enfermeiro	4
+Funilândia	Técnico em Enfermagem	17
+Furquim	Auxiliar de Enfermagem	1
+Galiléia	Auxiliar de Enfermagem	1
+Galiléia	Enfermeiro	8
+Galiléia	Técnico em Enfermagem	24
+Gameleiras	Auxiliar de Enfermagem	2
+Gameleiras	Enfermeiro	9
+Gameleiras	Técnico em Enfermagem	16
+Garapuava	Técnico em Enfermagem	1
+Gaspar Lopes	Enfermeiro	1
+Glaucilândia	Auxiliar de Enfermagem	6
+Glaucilândia	Enfermeiro	4
+Glaucilândia	Técnico em Enfermagem	12
+Glaura	Técnico em Enfermagem	1
+Glória de Cataguases	Técnico em Enfermagem	1
+Glucínio	Técnico em Enfermagem	1
+Goiabeira	Auxiliar de Enfermagem	1
+Goiabeira	Enfermeiro	6
+Goiabeira	Técnico em Enfermagem	10
+Goianá	Auxiliar de Enfermagem	1
+Goianá	Enfermeiro	3
+Goianá	Técnico em Enfermagem	22
+Goianases	Técnico em Enfermagem	3
+Gonçalves	Auxiliar de Enfermagem	3
+Gonçalves	Enfermeiro	4
+Gonçalves	Técnico em Enfermagem	13
+Gonzaga	Auxiliar de Enfermagem	1
+Gonzaga	Enfermeiro	6
+Gonzaga	Técnico em Enfermagem	18
+Gouveia	Auxiliar de Enfermagem	12
+Gouveia	Enfermeiro	25
+Gouveia	Técnico em Enfermagem	44
+Governador Valadares	Auxiliar de Enfermagem	96
+Governador Valadares	Enfermeiro	687
+Governador Valadares	Técnico em Enfermagem	1.629
+Granada	Auxiliar de Enfermagem	1
+Granada	Enfermeiro	1
+Granada	Técnico em Enfermagem	1
+Grão Mogol	Auxiliar de Enfermagem	18
+Grão Mogol	Enfermeiro	17
+Grão Mogol	Técnico em Enfermagem	46
+Grupiara	Auxiliar de Enfermagem	4
+Grupiara	Enfermeiro	1
+Grupiara	Técnico em Enfermagem	8
+Guaicui	Enfermeiro	4
+Guaicui	Técnico em Enfermagem	4
+Guanhães	Auxiliar de Enfermagem	39
+Guanhães	Enfermeiro	80
+Guanhães	Técnico em Enfermagem	84
+Guapé	Auxiliar de Enfermagem	11
+Guapé	Enfermeiro	28
+Guapé	Técnico em Enfermagem	36
+Guaraciaba	Auxiliar de Enfermagem	6
+Guaraciaba	Enfermeiro	11
+Guaraciaba	Técnico em Enfermagem	50
+Guaraciama	Auxiliar de Enfermagem	7
+Guaraciama	Técnico em Enfermagem	20
+Guaranésia	Auxiliar de Enfermagem	21
+Guaranésia	Enfermeiro	21
+Guaranésia	Técnico em Enfermagem	86
+Guarani	Auxiliar de Enfermagem	8
+Guarani	Enfermeiro	3
+Guarani	Técnico em Enfermagem	22
+Guarará	Auxiliar de Enfermagem	4
+Guarará	Enfermeiro	8
+Guarará	Técnico em Enfermagem	22
+Guarda dos Ferreiros	Auxiliar de Enfermagem	1
+Guarda dos Ferreiros	Técnico em Enfermagem	4
+Guarda-Mor	Auxiliar de Enfermagem	7
+Guarda-Mor	Enfermeiro	12
+Guarda-Mor	Técnico em Enfermagem	25
+Guardinha	Técnico em Enfermagem	3
+Guaxupé	Auxiliar de Enfermagem	53
+Guaxupé	Enfermeiro	101
+Guaxupé	Técnico em Enfermagem	242
+Guidoval	Auxiliar de Enfermagem	6
+Guidoval	Enfermeiro	7
+Guidoval	Técnico em Enfermagem	42
+Guimarânia	Enfermeiro	10
+Guimarânia	Técnico em Enfermagem	57
+Guiricema	Auxiliar de Enfermagem	4
+Guiricema	Enfermeiro	14
+Guiricema	Técnico em Enfermagem	20
+Gurinhatã	Auxiliar de Enfermagem	7
+Gurinhatã	Enfermeiro	5
+Gurinhatã	Técnico em Enfermagem	13
+Heliodora	Auxiliar de Enfermagem	7
+Heliodora	Enfermeiro	7
+Heliodora	Técnico em Enfermagem	29
+Hematita	Técnico em Enfermagem	1
+Hermilo Alves	Técnico em Enfermagem	3
+Honorópolis	Enfermeiro	1
+Honorópolis	Técnico em Enfermagem	1
+Humaitá	Auxiliar de Enfermagem	1
+Humaitá	Enfermeiro	1
+Humaitá	Técnico em Enfermagem	3
+Iapu	Auxiliar de Enfermagem	4
+Iapu	Enfermeiro	20
+Iapu	Técnico em Enfermagem	42
+Ibertioga	Auxiliar de Enfermagem	10
+Ibertioga	Enfermeiro	12
+Ibertioga	Técnico em Enfermagem	28
+Ibiá	Auxiliar de Enfermagem	7
+Ibiá	Enfermeiro	52
+Ibiá	Técnico em Enfermagem	38
+Ibiaí	Auxiliar de Enfermagem	4
+Ibiaí	Enfermeiro	9
+Ibiaí	Técnico em Enfermagem	20
+Ibiracatu	Auxiliar de Enfermagem	6
+Ibiracatu	Enfermeiro	6
+Ibiracatu	Técnico em Enfermagem	20
+Ibiraci	Auxiliar de Enfermagem	27
+Ibiraci	Enfermeiro	11
+Ibiraci	Técnico em Enfermagem	11
+Ibirité	Auxiliar de Enfermagem	184
+Ibirité	Enfermeiro	186
+Ibirité	Técnico em Enfermagem	952
+Ibitira	Enfermeiro	1
+Ibitira	Técnico em Enfermagem	4
+Ibitiúra de Minas	Auxiliar de Enfermagem	3
+Ibitiúra de Minas	Enfermeiro	10
+Ibitiúra de Minas	Técnico em Enfermagem	10
+Ibituruna	Auxiliar de Enfermagem	8
+Ibituruna	Enfermeiro	3
+Ibituruna	Técnico em Enfermagem	16
+Icaraí de Minas	Auxiliar de Enfermagem	5
+Icaraí de Minas	Enfermeiro	9
+Icaraí de Minas	Técnico em Enfermagem	30
+Igarapé	Auxiliar de Enfermagem	17
+Igarapé	Enfermeiro	54
+Igarapé	Técnico em Enfermagem	179
+Igaratinga	Auxiliar de Enfermagem	6
+Igaratinga	Enfermeiro	9
+Igaratinga	Técnico em Enfermagem	11
+Iguatama	Auxiliar de Enfermagem	14
+Iguatama	Enfermeiro	16
+Iguatama	Técnico em Enfermagem	50
+Ijaci	Auxiliar de Enfermagem	8
+Ijaci	Enfermeiro	7
+Ijaci	Técnico em Enfermagem	51
+Ilha do Rio Doce	Técnico em Enfermagem	1
+Ilicínea	Auxiliar de Enfermagem	6
+Ilicínea	Enfermeiro	22
+Ilicínea	Técnico em Enfermagem	53
+Imbé de Minas	Enfermeiro	7
+Imbé de Minas	Técnico em Enfermagem	15
+Inconfidentes	Auxiliar de Enfermagem	12
+Inconfidentes	Enfermeiro	6
+Inconfidentes	Técnico em Enfermagem	10
+Indaiabira	Auxiliar de Enfermagem	5
+Indaiabira	Enfermeiro	9
+Indaiabira	Técnico em Enfermagem	21
+Indianópolis	Auxiliar de Enfermagem	6
+Indianópolis	Enfermeiro	10
+Indianópolis	Técnico em Enfermagem	18
+Ingaí	Auxiliar de Enfermagem	8
+Ingaí	Enfermeiro	4
+Ingaí	Técnico em Enfermagem	23
+Inhaí	Auxiliar de Enfermagem	1
+Inhaí	Enfermeiro	1
+Inhaí	Técnico em Enfermagem	1
+Inhapim	Auxiliar de Enfermagem	21
+Inhapim	Enfermeiro	35
+Inhapim	Técnico em Enfermagem	73
+Inhaúma	Auxiliar de Enfermagem	13
+Inhaúma	Enfermeiro	6
+Inhaúma	Técnico em Enfermagem	35
+Inimutaba	Auxiliar de Enfermagem	5
+Inimutaba	Enfermeiro	8
+Inimutaba	Técnico em Enfermagem	43
+Ipaba	Auxiliar de Enfermagem	27
+Ipaba	Enfermeiro	17
+Ipaba	Técnico em Enfermagem	76
+Ipanema	Auxiliar de Enfermagem	23
+Ipanema	Enfermeiro	36
+Ipanema	Técnico em Enfermagem	50
+Ipatinga	Auxiliar de Enfermagem	262
+Ipatinga	Enfermeiro	753
+Ipatinga	Técnico em Enfermagem	1.864
+Ipiaçu	Auxiliar de Enfermagem	6
+Ipiaçu	Enfermeiro	6
+Ipiaçu	Técnico em Enfermagem	13
+Ipoema	Auxiliar de Enfermagem	2
+Ipoema	Enfermeiro	2
+Ipoema	Técnico em Enfermagem	4
+Ipuiúna	Auxiliar de Enfermagem	13
+Ipuiúna	Enfermeiro	29
+Ipuiúna	Técnico em Enfermagem	29
+Iraí de Minas	Auxiliar de Enfermagem	3
+Iraí de Minas	Enfermeiro	11
+Iraí de Minas	Técnico em Enfermagem	22
+Itabira	Auxiliar de Enfermagem	125
+Itabira	Enfermeiro	362
+Itabira	Técnico em Enfermagem	677
+Itabirinha	Auxiliar de Enfermagem	13
+Itabirinha	Enfermeiro	12
+Itabirinha	Técnico em Enfermagem	29
+Itabirito	Auxiliar de Enfermagem	61
+Itabirito	Enfermeiro	68
+Itabirito	Técnico em Enfermagem	245
+Itacambira	Auxiliar de Enfermagem	7
+Itacambira	Enfermeiro	5
+Itacambira	Técnico em Enfermagem	10
+Itacarambi	Auxiliar de Enfermagem	52
+Itacarambi	Enfermeiro	41
+Itacarambi	Técnico em Enfermagem	60
+Itaguara	Auxiliar de Enfermagem	13
+Itaguara	Enfermeiro	21
+Itaguara	Técnico em Enfermagem	64
+Itaim	Auxiliar de Enfermagem	1
+Itaim	Enfermeiro	1
+Itaipé	Auxiliar de Enfermagem	10
+Itaipé	Enfermeiro	15
+Itaipé	Técnico em Enfermagem	17
+Itajubá	Auxiliar de Enfermagem	170
+Itajubá	Enfermeiro	399
+Itajubá	Técnico em Enfermagem	579
+Itamarandiba	Auxiliar de Enfermagem	17
+Itamarandiba	Enfermeiro	33
+Itamarandiba	Técnico em Enfermagem	135
+Itamarati	Auxiliar de Enfermagem	1
+Itamarati	Enfermeiro	1
+Itamarati	Técnico em Enfermagem	2
+Itamarati de Minas	Auxiliar de Enfermagem	9
+Itamarati de Minas	Enfermeiro	6
+Itamarati de Minas	Técnico em Enfermagem	11
+Itambacuri	Auxiliar de Enfermagem	41
+Itambacuri	Enfermeiro	44
+Itambacuri	Técnico em Enfermagem	67
+Itambé do Mato Dentro	Auxiliar de Enfermagem	1
+Itambé do Mato Dentro	Enfermeiro	3
+Itambé do Mato Dentro	Técnico em Enfermagem	5
+Itamogi	Auxiliar de Enfermagem	19
+Itamogi	Enfermeiro	23
+Itamogi	Técnico em Enfermagem	46
+Itamonte	Auxiliar de Enfermagem	5
+Itamonte	Enfermeiro	28
+Itamonte	Técnico em Enfermagem	57
+Itamuri	Auxiliar de Enfermagem	1
+Itamuri	Enfermeiro	1
+Itamuri	Técnico em Enfermagem	3
+Itanhandu	Auxiliar de Enfermagem	12
+Itanhandu	Enfermeiro	23
+Itanhandu	Técnico em Enfermagem	86
+Itanhomi	Auxiliar de Enfermagem	9
+Itanhomi	Enfermeiro	20
+Itanhomi	Técnico em Enfermagem	42
+Itaobim	Auxiliar de Enfermagem	18
+Itaobim	Enfermeiro	39
+Itaobim	Técnico em Enfermagem	65
+Itapagipe	Auxiliar de Enfermagem	8
+Itapagipe	Enfermeiro	16
+Itapagipe	Técnico em Enfermagem	31
+Itapanhoacanga	Técnico em Enfermagem	1
+Itapecerica	Auxiliar de Enfermagem	33
+Itapecerica	Enfermeiro	48
+Itapecerica	Técnico em Enfermagem	55
+Itapeva	Auxiliar de Enfermagem	6
+Itapeva	Enfermeiro	7
+Itapeva	Técnico em Enfermagem	33
+Itapiru	Técnico em Enfermagem	1
+Itatiaiuçu	Auxiliar de Enfermagem	11
+Itatiaiuçu	Enfermeiro	10
+Itatiaiuçu	Técnico em Enfermagem	45
+Itaú de Minas	Auxiliar de Enfermagem	20
+Itaú de Minas	Enfermeiro	53
+Itaú de Minas	Técnico em Enfermagem	128
+Itaúna	Auxiliar de Enfermagem	103
+Itaúna	Enfermeiro	173
+Itaúna	Técnico em Enfermagem	218
+Itaverava	Auxiliar de Enfermagem	5
+Itaverava	Enfermeiro	5
+Itaverava	Técnico em Enfermagem	16
+Itinga	Auxiliar de Enfermagem	9
+Itinga	Enfermeiro	10
+Itinga	Técnico em Enfermagem	35
+Itueta	Auxiliar de Enfermagem	6
+Itueta	Enfermeiro	9
+Itueta	Técnico em Enfermagem	15
+Ituiutaba	Auxiliar de Enfermagem	46
+Ituiutaba	Enfermeiro	103
+Ituiutaba	Técnico em Enfermagem	326
+Itumirim	Auxiliar de Enfermagem	6
+Itumirim	Enfermeiro	4
+Itumirim	Técnico em Enfermagem	24
+Iturama	Auxiliar de Enfermagem	16
+Iturama	Enfermeiro	81
+Iturama	Técnico em Enfermagem	156
+Itutinga	Auxiliar de Enfermagem	3
+Itutinga	Enfermeiro	3
+Itutinga	Técnico em Enfermagem	23
+Jaboticatubas	Auxiliar de Enfermagem	20
+Jaboticatubas	Enfermeiro	14
+Jaboticatubas	Técnico em Enfermagem	34
+Jacinto	Auxiliar de Enfermagem	10
+Jacinto	Enfermeiro	24
+Jacinto	Técnico em Enfermagem	27
+Jacuí	Auxiliar de Enfermagem	5
+Jacuí	Enfermeiro	23
+Jacuí	Técnico em Enfermagem	24
+Jacutinga	Auxiliar de Enfermagem	25
+Jacutinga	Enfermeiro	29
+Jacutinga	Técnico em Enfermagem	25
+Jaguaraçu	Auxiliar de Enfermagem	1
+Jaguaraçu	Enfermeiro	3
+Jaguaraçu	Técnico em Enfermagem	14
+Jaíba	Auxiliar de Enfermagem	26
+Jaíba	Enfermeiro	42
+Jaíba	Técnico em Enfermagem	82
+Jampruca	Auxiliar de Enfermagem	3
+Jampruca	Enfermeiro	6
+Jampruca	Técnico em Enfermagem	4
+Janaúba	Auxiliar de Enfermagem	67
+Janaúba	Enfermeiro	156
+Janaúba	Técnico em Enfermagem	314
+Januária	Auxiliar de Enfermagem	93
+Januária	Enfermeiro	90
+Januária	Técnico em Enfermagem	184
+Japaraíba	Enfermeiro	12
+Japaraíba	Técnico em Enfermagem	10
+Japonvar	Auxiliar de Enfermagem	4
+Japonvar	Enfermeiro	12
+Japonvar	Técnico em Enfermagem	30
+Jeceaba	Auxiliar de Enfermagem	7
+Jeceaba	Enfermeiro	11
+Jeceaba	Técnico em Enfermagem	20
+Jenipapo de Minas	Auxiliar de Enfermagem	2
+Jenipapo de Minas	Enfermeiro	7
+Jenipapo de Minas	Técnico em Enfermagem	19
+Jequeri	Auxiliar de Enfermagem	8
+Jequeri	Enfermeiro	12
+Jequeri	Técnico em Enfermagem	42
+Jequitaí	Auxiliar de Enfermagem	12
+Jequitaí	Enfermeiro	8
+Jequitaí	Técnico em Enfermagem	15
+Jequitibá	Auxiliar de Enfermagem	4
+Jequitibá	Enfermeiro	5
+Jequitibá	Técnico em Enfermagem	18
+Jequitinhonha	Auxiliar de Enfermagem	15
+Jequitinhonha	Enfermeiro	35
+Jequitinhonha	Técnico em Enfermagem	90
+Jesuânia	Auxiliar de Enfermagem	5
+Jesuânia	Enfermeiro	9
+Jesuânia	Técnico em Enfermagem	14
+Joaíma	Auxiliar de Enfermagem	22
+Joaíma	Enfermeiro	13
+Joaíma	Técnico em Enfermagem	45
+Joanésia	Enfermeiro	3
+Joanésia	Técnico em Enfermagem	13
+João Monlevade	Auxiliar de Enfermagem	55
+João Monlevade	Enfermeiro	161
+João Monlevade	Técnico em Enfermagem	484
+João Pinheiro	Auxiliar de Enfermagem	25
+João Pinheiro	Enfermeiro	84
+João Pinheiro	Técnico em Enfermagem	163
+Joaquim Felício	Auxiliar de Enfermagem	1
+Joaquim Felício	Enfermeiro	7
+Joaquim Felício	Técnico em Enfermagem	18
+Jordânia	Auxiliar de Enfermagem	5
+Jordânia	Enfermeiro	22
+Jordânia	Técnico em Enfermagem	36
+José Gonçalves de Minas	Enfermeiro	3
+José Gonçalves de Minas	Técnico em Enfermagem	11
+José Raydan	Auxiliar de Enfermagem	5
+José Raydan	Enfermeiro	4
+José Raydan	Técnico em Enfermagem	14
+Joselândia	Técnico em Enfermagem	1
+Josenópolis	Auxiliar de Enfermagem	11
+Josenópolis	Enfermeiro	4
+Josenópolis	Técnico em Enfermagem	14
+Juatuba	Auxiliar de Enfermagem	24
+Juatuba	Enfermeiro	42
+Juatuba	Técnico em Enfermagem	152
+Jubaí	Técnico em Enfermagem	2
+Juiz de Fora	Auxiliar de Enfermagem	619
+Juiz de Fora	Enfermeiro	1.901
+Juiz de Fora	Técnico em Enfermagem	4.650
+Juramento	Auxiliar de Enfermagem	14
+Juramento	Enfermeiro	7
+Juramento	Técnico em Enfermagem	21
+Juruaia	Auxiliar de Enfermagem	10
+Juruaia	Enfermeiro	9
+Juruaia	Técnico em Enfermagem	19
+Jurumirim	Auxiliar de Enfermagem	1
+Justinópolis	Auxiliar de Enfermagem	2
+Juvenília	Auxiliar de Enfermagem	2
+Juvenília	Enfermeiro	8
+Juvenília	Técnico em Enfermagem	21
+Ladainha	Auxiliar de Enfermagem	16
+Ladainha	Enfermeiro	11
+Ladainha	Técnico em Enfermagem	32
+Lagamar	Auxiliar de Enfermagem	14
+Lagamar	Enfermeiro	16
+Lagamar	Técnico em Enfermagem	46
+Lagoa da Prata	Auxiliar de Enfermagem	34
+Lagoa da Prata	Enfermeiro	82
+Lagoa da Prata	Técnico em Enfermagem	110
+Lagoa dos Patos	Auxiliar de Enfermagem	3
+Lagoa dos Patos	Enfermeiro	1
+Lagoa dos Patos	Técnico em Enfermagem	10
+Lagoa Dourada	Auxiliar de Enfermagem	10
+Lagoa Dourada	Enfermeiro	11
+Lagoa Dourada	Técnico em Enfermagem	24
+Lagoa Formosa	Auxiliar de Enfermagem	15
+Lagoa Formosa	Enfermeiro	33
+Lagoa Formosa	Técnico em Enfermagem	95
+Lagoa Grande	Auxiliar de Enfermagem	2
+Lagoa Grande	Enfermeiro	15
+Lagoa Grande	Técnico em Enfermagem	28
+Lagoa Santa	Auxiliar de Enfermagem	69
+Lagoa Santa	Enfermeiro	172
+Lagoa Santa	Técnico em Enfermagem	343
+Lajinha	Auxiliar de Enfermagem	26
+Lajinha	Enfermeiro	33
+Lajinha	Técnico em Enfermagem	30
+Lambari	Auxiliar de Enfermagem	12
+Lambari	Enfermeiro	21
+Lambari	Técnico em Enfermagem	84
+Lamim	Auxiliar de Enfermagem	4
+Lamim	Enfermeiro	8
+Lamim	Técnico em Enfermagem	11
+Lamounier	Técnico em Enfermagem	2
+Lapinha	Técnico em Enfermagem	1
+Laranjal	Auxiliar de Enfermagem	7
+Laranjal	Enfermeiro	11
+Laranjal	Técnico em Enfermagem	32
+Lassance	Auxiliar de Enfermagem	5
+Lassance	Enfermeiro	7
+Lassance	Técnico em Enfermagem	20
+Lavras	Auxiliar de Enfermagem	168
+Lavras	Enfermeiro	216
+Lavras	Técnico em Enfermagem	539
+Leandro Ferreira	Auxiliar de Enfermagem	6
+Leandro Ferreira	Enfermeiro	6
+Leandro Ferreira	Técnico em Enfermagem	2
+Leme do Prado	Auxiliar de Enfermagem	3
+Leme do Prado	Enfermeiro	6
+Leme do Prado	Técnico em Enfermagem	16
+Leopoldina	Auxiliar de Enfermagem	73
+Leopoldina	Enfermeiro	105
+Leopoldina	Técnico em Enfermagem	245
+Liberdade	Enfermeiro	7
+Liberdade	Técnico em Enfermagem	16
+Lima Duarte	Auxiliar de Enfermagem	17
+Lima Duarte	Enfermeiro	20
+Lima Duarte	Técnico em Enfermagem	122
+Limeira de Mantena	Enfermeiro	1
+Limeira de Mantena	Técnico em Enfermagem	1
+Limeira do Oeste	Auxiliar de Enfermagem	14
+Limeira do Oeste	Enfermeiro	14
+Limeira do Oeste	Técnico em Enfermagem	26
+Lontra	Auxiliar de Enfermagem	5
+Lontra	Enfermeiro	14
+Lontra	Técnico em Enfermagem	26
+Lufa	Técnico em Enfermagem	1
+Luisburgo	Auxiliar de Enfermagem	2
+Luisburgo	Enfermeiro	5
+Luisburgo	Técnico em Enfermagem	15
+Luislândia	Auxiliar de Enfermagem	4
+Luislândia	Enfermeiro	3
+Luislândia	Técnico em Enfermagem	17
+Luizlândia do Oeste	Auxiliar de Enfermagem	1
+Luizlândia do Oeste	Enfermeiro	3
+Luizlândia do Oeste	Técnico em Enfermagem	4
+Luminárias	Auxiliar de Enfermagem	10
+Luminárias	Enfermeiro	6
+Luminárias	Técnico em Enfermagem	28
+Luz	Auxiliar de Enfermagem	13
+Luz	Enfermeiro	30
+Luz	Técnico em Enfermagem	79
+Macaia	Auxiliar de Enfermagem	1
+Macaia	Técnico em Enfermagem	2
+Machacalis	Auxiliar de Enfermagem	15
+Machacalis	Enfermeiro	16
+Machacalis	Técnico em Enfermagem	45
+Machado	Auxiliar de Enfermagem	30
+Machado	Enfermeiro	73
+Machado	Técnico em Enfermagem	67
+Macuco de Minas	Auxiliar de Enfermagem	1
+Macuco de Minas	Técnico em Enfermagem	5
+Madre de Deus de Minas	Auxiliar de Enfermagem	3
+Madre de Deus de Minas	Enfermeiro	6
+Madre de Deus de Minas	Técnico em Enfermagem	16
+Major Porto	Auxiliar de Enfermagem	1
+Major Porto	Técnico em Enfermagem	1
+Malacacheta	Auxiliar de Enfermagem	29
+Malacacheta	Enfermeiro	37
+Malacacheta	Técnico em Enfermagem	52
+Mamonas	Auxiliar de Enfermagem	6
+Mamonas	Enfermeiro	4
+Mamonas	Técnico em Enfermagem	15
+Manga	Auxiliar de Enfermagem	15
+Manga	Enfermeiro	31
+Manga	Técnico em Enfermagem	79
+Manhuaçu	Auxiliar de Enfermagem	173
+Manhuaçu	Enfermeiro	166
+Manhuaçu	Técnico em Enfermagem	323
+Manhumirim	Auxiliar de Enfermagem	41
+Manhumirim	Enfermeiro	42
+Manhumirim	Técnico em Enfermagem	67
+Mantena	Auxiliar de Enfermagem	15
+Mantena	Enfermeiro	37
+Mantena	Técnico em Enfermagem	82
+Mantiqueira do Palmital	Enfermeiro	1
+Mar de Espanha	Auxiliar de Enfermagem	6
+Mar de Espanha	Enfermeiro	23
+Mar de Espanha	Técnico em Enfermagem	48
+Marambainha	Auxiliar de Enfermagem	1
+Marambainha	Enfermeiro	2
+Maravilhas	Auxiliar de Enfermagem	3
+Maravilhas	Enfermeiro	12
+Maravilhas	Técnico em Enfermagem	33
+Maria da Fé	Auxiliar de Enfermagem	15
+Maria da Fé	Enfermeiro	18
+Maria da Fé	Técnico em Enfermagem	80
+Mariana	Auxiliar de Enfermagem	21
+Mariana	Enfermeiro	76
+Mariana	Técnico em Enfermagem	330
+Marilac	Auxiliar de Enfermagem	1
+Marilac	Enfermeiro	5
+Marilac	Técnico em Enfermagem	13
+Marilândia	Técnico em Enfermagem	2
+Mário Campos	Auxiliar de Enfermagem	17
+Mário Campos	Enfermeiro	7
+Mário Campos	Técnico em Enfermagem	99
+Maripá de Minas	Auxiliar de Enfermagem	1
+Maripá de Minas	Enfermeiro	4
+Maripá de Minas	Técnico em Enfermagem	18
+Marliéria	Auxiliar de Enfermagem	1
+Marliéria	Enfermeiro	2
+Marliéria	Técnico em Enfermagem	19
+Marmelópolis	Auxiliar de Enfermagem	6
+Marmelópolis	Enfermeiro	2
+Marmelópolis	Técnico em Enfermagem	9
+Martinésia	Auxiliar de Enfermagem	1
+Martinésia	Técnico em Enfermagem	1
+Martinho Campos	Auxiliar de Enfermagem	9
+Martinho Campos	Enfermeiro	21
+Martinho Campos	Técnico em Enfermagem	32
+Martins Soares	Auxiliar de Enfermagem	3
+Martins Soares	Enfermeiro	8
+Martins Soares	Técnico em Enfermagem	20
+Mata Verde	Auxiliar de Enfermagem	8
+Mata Verde	Enfermeiro	10
+Mata Verde	Técnico em Enfermagem	8
+Materlândia	Auxiliar de Enfermagem	3
+Materlândia	Enfermeiro	5
+Materlândia	Técnico em Enfermagem	18
+Mateus Leme	Auxiliar de Enfermagem	39
+Mateus Leme	Enfermeiro	38
+Mateus Leme	Técnico em Enfermagem	137
+Mathias Lobato	Auxiliar de Enfermagem	2
+Mathias Lobato	Enfermeiro	3
+Mathias Lobato	Técnico em Enfermagem	15
+Matias Barbosa	Auxiliar de Enfermagem	14
+Matias Barbosa	Enfermeiro	26
+Matias Barbosa	Técnico em Enfermagem	114
+Matias Cardoso	Auxiliar de Enfermagem	4
+Matias Cardoso	Enfermeiro	10
+Matias Cardoso	Técnico em Enfermagem	32
+Matipó	Auxiliar de Enfermagem	25
+Matipó	Enfermeiro	48
+Matipó	Técnico em Enfermagem	44
+Mato Verde	Auxiliar de Enfermagem	4
+Mato Verde	Enfermeiro	25
+Mato Verde	Técnico em Enfermagem	43
+Matozinhos	Auxiliar de Enfermagem	57
+Matozinhos	Enfermeiro	35
+Matozinhos	Técnico em Enfermagem	133
+Matutina	Auxiliar de Enfermagem	5
+Matutina	Enfermeiro	6
+Matutina	Técnico em Enfermagem	23
+Medeiros	Auxiliar de Enfermagem	1
+Medeiros	Enfermeiro	8
+Medeiros	Técnico em Enfermagem	12
+Medina	Auxiliar de Enfermagem	20
+Medina	Enfermeiro	36
+Medina	Técnico em Enfermagem	51
+Melo Viana	Técnico em Enfermagem	1
+Mendanha	Técnico em Enfermagem	1
+Mendes Pimentel	Auxiliar de Enfermagem	4
+Mendes Pimentel	Enfermeiro	9
+Mendes Pimentel	Técnico em Enfermagem	22
+Mendonça	Técnico em Enfermagem	1
+Mercês	Enfermeiro	11
+Mercês	Técnico em Enfermagem	68
+Mercês de Água Limpa	Auxiliar de Enfermagem	2
+Mercês de Água Limpa	Técnico em Enfermagem	1
+Mesquita	Auxiliar de Enfermagem	4
+Mesquita	Enfermeiro	9
+Mesquita	Técnico em Enfermagem	21
+Miguel Burnier	Técnico em Enfermagem	1
+Milagre	Enfermeiro	3
+Milagre	Técnico em Enfermagem	3
+Milho Verde	Enfermeiro	1
+Minas Novas	Auxiliar de Enfermagem	12
+Minas Novas	Enfermeiro	40
+Minas Novas	Técnico em Enfermagem	79
+Minduri	Enfermeiro	8
+Minduri	Técnico em Enfermagem	15
+Mirabela	Auxiliar de Enfermagem	4
+Mirabela	Enfermeiro	29
+Mirabela	Técnico em Enfermagem	56
+Miradouro	Auxiliar de Enfermagem	15
+Miradouro	Enfermeiro	20
+Miradouro	Técnico em Enfermagem	48
+Miragaia	Técnico em Enfermagem	1
+Miraí	Auxiliar de Enfermagem	18
+Miraí	Enfermeiro	17
+Miraí	Técnico em Enfermagem	53
+Mirantão	Enfermeiro	1
+Mirantão	Técnico em Enfermagem	1
+Miravânia	Enfermeiro	1
+Miravânia	Técnico em Enfermagem	21
+Mocambeiro	Auxiliar de Enfermagem	4
+Mocambeiro	Enfermeiro	2
+Mocambeiro	Técnico em Enfermagem	7
+Moeda	Auxiliar de Enfermagem	3
+Moeda	Enfermeiro	6
+Moeda	Técnico em Enfermagem	17
+Moema	Auxiliar de Enfermagem	21
+Moema	Enfermeiro	17
+Moema	Técnico em Enfermagem	50
+Monjolos	Auxiliar de Enfermagem	6
+Monjolos	Enfermeiro	3
+Monjolos	Técnico em Enfermagem	25
+Monsenhor Isidro	Técnico em Enfermagem	4
+Monsenhor João Alexandre	Técnico em Enfermagem	2
+Monsenhor Paulo	Auxiliar de Enfermagem	13
+Monsenhor Paulo	Enfermeiro	12
+Monsenhor Paulo	Técnico em Enfermagem	23
+Montalvânia	Auxiliar de Enfermagem	31
+Montalvânia	Enfermeiro	17
+Montalvânia	Técnico em Enfermagem	43
+Monte Alegre de Minas	Enfermeiro	32
+Monte Alegre de Minas	Técnico em Enfermagem	27
+Monte Azul	Auxiliar de Enfermagem	19
+Monte Azul	Enfermeiro	47
+Monte Azul	Técnico em Enfermagem	45
+Monte Belo	Auxiliar de Enfermagem	15
+Monte Belo	Enfermeiro	24
+Monte Belo	Técnico em Enfermagem	50
+Monte Carmelo	Auxiliar de Enfermagem	32
+Monte Carmelo	Enfermeiro	62
+Monte Carmelo	Técnico em Enfermagem	120
+Monte Celeste	Técnico em Enfermagem	2
+Monte Formoso	Auxiliar de Enfermagem	6
+Monte Formoso	Enfermeiro	1
+Monte Formoso	Técnico em Enfermagem	19
+Monte Rei	Enfermeiro	1
+Monte Rei	Técnico em Enfermagem	1
+Monte Santo de Minas	Auxiliar de Enfermagem	60
+Monte Santo de Minas	Enfermeiro	48
+Monte Santo de Minas	Técnico em Enfermagem	38
+Monte Sião	Auxiliar de Enfermagem	17
+Monte Sião	Enfermeiro	13
+Monte Sião	Técnico em Enfermagem	20
+Monte Verde	Auxiliar de Enfermagem	2
+Monte Verde	Enfermeiro	4
+Monte Verde	Técnico em Enfermagem	8
+Montes Claros	Auxiliar de Enfermagem	618
+Montes Claros	Enfermeiro	1.449
+Montes Claros	Técnico em Enfermagem	2.202
+Montezuma	Auxiliar de Enfermagem	4
+Montezuma	Enfermeiro	4
+Montezuma	Técnico em Enfermagem	23
+Morada Nova de Minas	Auxiliar de Enfermagem	9
+Morada Nova de Minas	Enfermeiro	12
+Morada Nova de Minas	Técnico em Enfermagem	25
+Morro	Enfermeiro	5
+Morro da Garça	Auxiliar de Enfermagem	5
+Morro da Garça	Enfermeiro	3
+Morro da Garça	Técnico em Enfermagem	8
+Morro do Ferro	Auxiliar de Enfermagem	1
+Morro do Ferro	Enfermeiro	2
+Morro do Ferro	Técnico em Enfermagem	4
+Morro do Pilar	Auxiliar de Enfermagem	4
+Morro do Pilar	Enfermeiro	3
+Morro do Pilar	Técnico em Enfermagem	10
+Morro Vermelho	Técnico em Enfermagem	2
+Mucuri	Enfermeiro	2
+Mucuri	Técnico em Enfermagem	5
+Munhoz	Auxiliar de Enfermagem	4
+Munhoz	Enfermeiro	7
+Munhoz	Técnico em Enfermagem	17
+Muriaé	Auxiliar de Enfermagem	206
+Muriaé	Enfermeiro	240
+Muriaé	Técnico em Enfermagem	724
+Mutum	Auxiliar de Enfermagem	56
+Mutum	Enfermeiro	32
+Mutum	Técnico em Enfermagem	57
+Muzambinho	Auxiliar de Enfermagem	14
+Muzambinho	Enfermeiro	33
+Muzambinho	Técnico em Enfermagem	135
+Nacip Raydan	Auxiliar de Enfermagem	1
+Nacip Raydan	Enfermeiro	3
+Nacip Raydan	Técnico em Enfermagem	4
+Nanuque	Auxiliar de Enfermagem	70
+Nanuque	Enfermeiro	60
+Nanuque	Técnico em Enfermagem	68
+Naque	Auxiliar de Enfermagem	2
+Naque	Enfermeiro	9
+Naque	Técnico em Enfermagem	24
+Natalândia	Auxiliar de Enfermagem	4
+Natalândia	Enfermeiro	3
+Natalândia	Técnico em Enfermagem	17
+Natércia	Auxiliar de Enfermagem	9
+Natércia	Enfermeiro	8
+Natércia	Técnico em Enfermagem	24
+Nazareno	Auxiliar de Enfermagem	10
+Nazareno	Enfermeiro	15
+Nazareno	Técnico em Enfermagem	32
+Nelson de Sena	Técnico em Enfermagem	1
+Neolândia	Técnico em Enfermagem	1
+Nepomuceno	Auxiliar de Enfermagem	28
+Nepomuceno	Enfermeiro	21
+Nepomuceno	Técnico em Enfermagem	68
+Ninheira	Auxiliar de Enfermagem	5
+Ninheira	Enfermeiro	6
+Ninheira	Técnico em Enfermagem	20
+Nova Belém	Enfermeiro	4
+Nova Belém	Técnico em Enfermagem	12
+Nova Era	Auxiliar de Enfermagem	4
+Nova Era	Enfermeiro	16
+Nova Era	Técnico em Enfermagem	121
+Nova Esperança	Auxiliar de Enfermagem	2
+Nova Esperança	Técnico em Enfermagem	12
+Nova Lima	Auxiliar de Enfermagem	144
+Nova Lima	Enfermeiro	317
+Nova Lima	Técnico em Enfermagem	819
+Nova Módica	Auxiliar de Enfermagem	7
+Nova Módica	Enfermeiro	6
+Nova Módica	Técnico em Enfermagem	11
+Nova Ponte	Auxiliar de Enfermagem	5
+Nova Ponte	Enfermeiro	16
+Nova Ponte	Técnico em Enfermagem	44
+Nova Porteirinha	Auxiliar de Enfermagem	5
+Nova Porteirinha	Enfermeiro	2
+Nova Porteirinha	Técnico em Enfermagem	25
+Nova Resende	Auxiliar de Enfermagem	13
+Nova Resende	Enfermeiro	42
+Nova Resende	Técnico em Enfermagem	50
+Nova Serrana	Auxiliar de Enfermagem	53
+Nova Serrana	Enfermeiro	74
+Nova Serrana	Técnico em Enfermagem	59
+Nova União	Auxiliar de Enfermagem	11
+Nova União	Enfermeiro	6
+Nova União	Técnico em Enfermagem	24
+Novo Cruzeiro	Auxiliar de Enfermagem	19
+Novo Cruzeiro	Enfermeiro	33
+Novo Cruzeiro	Técnico em Enfermagem	60
+Novo Horizonte	Auxiliar de Enfermagem	7
+Novo Horizonte	Técnico em Enfermagem	3
+Novo Oriente de Minas	Auxiliar de Enfermagem	4
+Novo Oriente de Minas	Enfermeiro	4
+Novo Oriente de Minas	Técnico em Enfermagem	15
+Novorizonte	Auxiliar de Enfermagem	2
+Novorizonte	Enfermeiro	3
+Novorizonte	Técnico em Enfermagem	10
+Olaria	Enfermeiro	3
+Olaria	Técnico em Enfermagem	8
+Olhos D'Água	Auxiliar de Enfermagem	7
+Olhos D'Água	Enfermeiro	2
+Olhos D'Água	Técnico em Enfermagem	7
+Olímpio Noronha	Auxiliar de Enfermagem	3
+Olímpio Noronha	Enfermeiro	3
+Olímpio Noronha	Técnico em Enfermagem	12
+Oliveira	Auxiliar de Enfermagem	24
+Oliveira	Enfermeiro	62
+Oliveira	Técnico em Enfermagem	175
+Oliveira Fortes	Auxiliar de Enfermagem	2
+Oliveira Fortes	Enfermeiro	2
+Oliveira Fortes	Técnico em Enfermagem	6
+Onça de Pitangui	Auxiliar de Enfermagem	1
+Onça de Pitangui	Enfermeiro	7
+Onça de Pitangui	Técnico em Enfermagem	8
+Oratórios	Auxiliar de Enfermagem	3
+Oratórios	Enfermeiro	5
+Oratórios	Técnico em Enfermagem	42
+Orizânia	Auxiliar de Enfermagem	4
+Orizânia	Enfermeiro	3
+Orizânia	Técnico em Enfermagem	30
+Ouro Branco	Auxiliar de Enfermagem	48
+Ouro Branco	Enfermeiro	79
+Ouro Branco	Técnico em Enfermagem	216
+Ouro Fino	Auxiliar de Enfermagem	58
+Ouro Fino	Enfermeiro	46
+Ouro Fino	Técnico em Enfermagem	32
+Ouro Preto	Auxiliar de Enfermagem	21
+Ouro Preto	Enfermeiro	70
+Ouro Preto	Técnico em Enfermagem	290
+Ouro Verde de Minas	Auxiliar de Enfermagem	3
+Ouro Verde de Minas	Enfermeiro	6
+Ouro Verde de Minas	Técnico em Enfermagem	16
+Paciência	Auxiliar de Enfermagem	1
+Padre Carvalho	Auxiliar de Enfermagem	4
+Padre Carvalho	Enfermeiro	3
+Padre Carvalho	Técnico em Enfermagem	22
+Padre Fialho	Enfermeiro	2
+Padre Paraíso	Auxiliar de Enfermagem	23
+Padre Paraíso	Enfermeiro	27
+Padre Paraíso	Técnico em Enfermagem	33
+Padre Pinto	Técnico em Enfermagem	1
+Padre Viegas	Enfermeiro	2
+Pai Pedro	Auxiliar de Enfermagem	3
+Pai Pedro	Enfermeiro	4
+Pai Pedro	Técnico em Enfermagem	15
+Paineiras	Auxiliar de Enfermagem	7
+Paineiras	Enfermeiro	9
+Paineiras	Técnico em Enfermagem	18
+Pains	Auxiliar de Enfermagem	19
+Pains	Enfermeiro	16
+Pains	Técnico em Enfermagem	25
+Paiolinho	Técnico em Enfermagem	1
+Paiva	Auxiliar de Enfermagem	1
+Paiva	Enfermeiro	5
+Paiva	Técnico em Enfermagem	9
+Palma	Auxiliar de Enfermagem	12
+Palma	Enfermeiro	11
+Palma	Técnico em Enfermagem	26
+Palmeiral	Auxiliar de Enfermagem	1
+Palmeiral	Técnico em Enfermagem	3
+Palmital de Minas	Técnico em Enfermagem	1
+Palmital dos Carvalhos	Enfermeiro	1
+Palmital dos Carvalhos	Técnico em Enfermagem	2
+Palmópolis	Auxiliar de Enfermagem	1
+Palmópolis	Enfermeiro	10
+Palmópolis	Técnico em Enfermagem	23
+Papagaios	Auxiliar de Enfermagem	7
+Papagaios	Enfermeiro	14
+Papagaios	Técnico em Enfermagem	48
+Pará de Minas	Auxiliar de Enfermagem	96
+Pará de Minas	Enfermeiro	166
+Pará de Minas	Técnico em Enfermagem	227
+Paracatu	Auxiliar de Enfermagem	36
+Paracatu	Enfermeiro	178
+Paracatu	Técnico em Enfermagem	474
+Paraguaçu	Auxiliar de Enfermagem	24
+Paraguaçu	Enfermeiro	32
+Paraguaçu	Técnico em Enfermagem	64
+Paraguai	Técnico em Enfermagem	1
+Paraisópolis	Auxiliar de Enfermagem	8
+Paraisópolis	Enfermeiro	15
+Paraisópolis	Técnico em Enfermagem	75
+Paraopeba	Auxiliar de Enfermagem	29
+Paraopeba	Enfermeiro	23
+Paraopeba	Técnico em Enfermagem	62
+Paredão de Minas	Técnico em Enfermagem	1
+Passa Dez	Auxiliar de Enfermagem	1
+Passa Quatro	Auxiliar de Enfermagem	13
+Passa Quatro	Enfermeiro	19
+Passa Quatro	Técnico em Enfermagem	70
+Passa Tempo	Auxiliar de Enfermagem	2
+Passa Tempo	Enfermeiro	14
+Passa Tempo	Técnico em Enfermagem	24
+Passa Vinte	Auxiliar de Enfermagem	4
+Passa Vinte	Enfermeiro	5
+Passa Vinte	Técnico em Enfermagem	8
+Passabém	Auxiliar de Enfermagem	5
+Passabém	Enfermeiro	7
+Passabém	Técnico em Enfermagem	10
+Passagem de Mariana	Auxiliar de Enfermagem	2
+Passagem de Mariana	Enfermeiro	1
+Passagem de Mariana	Técnico em Enfermagem	5
+Passos	Auxiliar de Enfermagem	141
+Passos	Enfermeiro	515
+Passos	Técnico em Enfermagem	723
+Patis	Auxiliar de Enfermagem	5
+Patis	Enfermeiro	5
+Patis	Técnico em Enfermagem	19
+Patos de Minas	Auxiliar de Enfermagem	220
+Patos de Minas	Enfermeiro	450
+Patos de Minas	Técnico em Enfermagem	1.109
+Patrocínio	Auxiliar de Enfermagem	30
+Patrocínio	Enfermeiro	203
+Patrocínio	Técnico em Enfermagem	563
+Patrocínio do Muriaé	Auxiliar de Enfermagem	8
+Patrocínio do Muriaé	Enfermeiro	3
+Patrocínio do Muriaé	Técnico em Enfermagem	24
+Paula Cândido	Enfermeiro	10
+Paula Cândido	Técnico em Enfermagem	51
+Paula Lima	Técnico em Enfermagem	5
+Paulistas	Auxiliar de Enfermagem	3
+Paulistas	Enfermeiro	3
+Paulistas	Técnico em Enfermagem	20
+Pavão	Auxiliar de Enfermagem	4
+Pavão	Enfermeiro	12
+Pavão	Técnico em Enfermagem	14
+Peçanha	Auxiliar de Enfermagem	24
+Peçanha	Enfermeiro	12
+Peçanha	Técnico em Enfermagem	33
+Pedra Azul	Auxiliar de Enfermagem	26
+Pedra Azul	Enfermeiro	39
+Pedra Azul	Técnico em Enfermagem	104
+Pedra Bonita	Enfermeiro	6
+Pedra Bonita	Técnico em Enfermagem	18
+Pedra do Anta	Auxiliar de Enfermagem	3
+Pedra do Anta	Enfermeiro	7
+Pedra do Anta	Técnico em Enfermagem	14
+Pedra do Indaiá	Auxiliar de Enfermagem	4
+Pedra do Indaiá	Enfermeiro	9
+Pedra do Indaiá	Técnico em Enfermagem	16
+Pedra do Sino	Técnico em Enfermagem	3
+Pedra Dourada	Auxiliar de Enfermagem	9
+Pedra Dourada	Enfermeiro	2
+Pedra Dourada	Técnico em Enfermagem	9
+Pedralva	Auxiliar de Enfermagem	15
+Pedralva	Enfermeiro	19
+Pedralva	Técnico em Enfermagem	63
+Pedras de Maria da Cruz	Auxiliar de Enfermagem	4
+Pedras de Maria da Cruz	Enfermeiro	4
+Pedras de Maria da Cruz	Técnico em Enfermagem	19
+Pedrinópolis	Auxiliar de Enfermagem	6
+Pedrinópolis	Enfermeiro	7
+Pedrinópolis	Técnico em Enfermagem	13
+Pedro Leopoldo	Auxiliar de Enfermagem	93
+Pedro Leopoldo	Enfermeiro	87
+Pedro Leopoldo	Técnico em Enfermagem	216
+Pedro Teixeira	Enfermeiro	2
+Pedro Teixeira	Técnico em Enfermagem	14
+Pedro Versiani	Enfermeiro	1
+Pedro Versiani	Técnico em Enfermagem	2
+Penha de França	Enfermeiro	1
+Penha de França	Técnico em Enfermagem	1
+Penha do Capim	Técnico em Enfermagem	5
+Penha do Cassiano	Técnico em Enfermagem	1
+Penha Longa	Auxiliar de Enfermagem	1
+Pequeri	Auxiliar de Enfermagem	1
+Pequeri	Enfermeiro	7
+Pequeri	Técnico em Enfermagem	13
+Pequi	Auxiliar de Enfermagem	11
+Pequi	Enfermeiro	3
+Pequi	Técnico em Enfermagem	23
+Perdigão	Auxiliar de Enfermagem	3
+Perdigão	Enfermeiro	12
+Perdigão	Técnico em Enfermagem	10
+Perdilândia	Auxiliar de Enfermagem	1
+Perdizes	Auxiliar de Enfermagem	12
+Perdizes	Enfermeiro	36
+Perdizes	Técnico em Enfermagem	30
+Perdões	Auxiliar de Enfermagem	41
+Perdões	Enfermeiro	28
+Perdões	Técnico em Enfermagem	55
+Pereirinhas	Técnico em Enfermagem	1
+Periquito	Auxiliar de Enfermagem	1
+Periquito	Enfermeiro	9
+Periquito	Técnico em Enfermagem	25
+Perpétuo Socorro	Auxiliar de Enfermagem	1
+Perpétuo Socorro	Enfermeiro	3
+Perpétuo Socorro	Técnico em Enfermagem	13
+Pescador	Auxiliar de Enfermagem	6
+Pescador	Enfermeiro	6
+Pescador	Técnico em Enfermagem	13
+Piacatuba	Técnico em Enfermagem	3
+Piau	Auxiliar de Enfermagem	4
+Piau	Técnico em Enfermagem	13
+Piedade de Caratinga	Enfermeiro	7
+Piedade de Caratinga	Técnico em Enfermagem	17
+Piedade de Ponte Nova	Enfermeiro	1
+Piedade de Ponte Nova	Técnico em Enfermagem	16
+Piedade do Rio Grande	Auxiliar de Enfermagem	1
+Piedade do Rio Grande	Enfermeiro	7
+Piedade do Rio Grande	Técnico em Enfermagem	13
+Piedade dos Gerais	Auxiliar de Enfermagem	1
+Piedade dos Gerais	Enfermeiro	8
+Piedade dos Gerais	Técnico em Enfermagem	19
+Pimenta	Auxiliar de Enfermagem	16
+Pimenta	Enfermeiro	14
+Pimenta	Técnico em Enfermagem	18
+Pingo-D'Água	Auxiliar de Enfermagem	1
+Pingo-D'Água	Enfermeiro	2
+Pingo-D'Água	Técnico em Enfermagem	5
+Pinheiro Grosso	Técnico em Enfermagem	5
+Pinhotiba	Técnico em Enfermagem	2
+Pintópolis	Auxiliar de Enfermagem	7
+Pintópolis	Enfermeiro	3
+Pintópolis	Técnico em Enfermagem	17
+Piracaiba	Enfermeiro	1
+Piracaiba	Técnico em Enfermagem	2
+Piracema	Enfermeiro	12
+Piracema	Técnico em Enfermagem	21
+Pirajuba	Auxiliar de Enfermagem	1
+Pirajuba	Enfermeiro	5
+Pirajuba	Técnico em Enfermagem	17
+Piranga	Auxiliar de Enfermagem	9
+Piranga	Enfermeiro	23
+Piranga	Técnico em Enfermagem	60
+Piranguçu	Auxiliar de Enfermagem	4
+Piranguçu	Enfermeiro	7
+Piranguçu	Técnico em Enfermagem	24
+Piranguinho	Auxiliar de Enfermagem	9
+Piranguinho	Enfermeiro	22
+Piranguinho	Técnico em Enfermagem	41
+Pirapetinga	Auxiliar de Enfermagem	30
+Pirapetinga	Enfermeiro	22
+Pirapetinga	Técnico em Enfermagem	35
+Pirapora	Auxiliar de Enfermagem	61
+Pirapora	Enfermeiro	92
+Pirapora	Técnico em Enfermagem	241
+Piraúba	Auxiliar de Enfermagem	8
+Piraúba	Enfermeiro	10
+Piraúba	Técnico em Enfermagem	51
+Pitangui	Auxiliar de Enfermagem	26
+Pitangui	Enfermeiro	58
+Pitangui	Técnico em Enfermagem	67
+Piumhi	Auxiliar de Enfermagem	35
+Piumhi	Enfermeiro	90
+Piumhi	Técnico em Enfermagem	159
+Planalto de Minas	Auxiliar de Enfermagem	1
+Planalto de Minas	Técnico em Enfermagem	1
+Planura	Auxiliar de Enfermagem	15
+Planura	Enfermeiro	19
+Planura	Técnico em Enfermagem	45
+Plautino Soares	Auxiliar de Enfermagem	1
+Poço Fundo	Auxiliar de Enfermagem	20
+Poço Fundo	Enfermeiro	32
+Poço Fundo	Técnico em Enfermagem	41
+Poços de Caldas	Auxiliar de Enfermagem	302
+Poços de Caldas	Enfermeiro	449
+Poços de Caldas	Técnico em Enfermagem	1.051
+Pocrane	Auxiliar de Enfermagem	13
+Pocrane	Enfermeiro	10
+Pocrane	Técnico em Enfermagem	21
+Pompéu	Auxiliar de Enfermagem	19
+Pompéu	Enfermeiro	35
+Pompéu	Técnico em Enfermagem	85
+Ponte Alta	Técnico em Enfermagem	3
+Ponte Alta de Minas	Técnico em Enfermagem	2
+Ponte do Cosme	Auxiliar de Enfermagem	1
+Ponte do Cosme	Técnico em Enfermagem	1
+Ponte dos Ciganos	Técnico em Enfermagem	1
+Ponte Firme	Técnico em Enfermagem	1
+Ponte Nova	Auxiliar de Enfermagem	42
+Ponte Nova	Enfermeiro	136
+Ponte Nova	Técnico em Enfermagem	417
+Ponto Chique	Auxiliar de Enfermagem	5
+Ponto Chique	Enfermeiro	2
+Ponto Chique	Técnico em Enfermagem	17
+Ponto do Marambaia	Enfermeiro	1
+Ponto do Marambaia	Técnico em Enfermagem	1
+Ponto dos Volantes	Auxiliar de Enfermagem	2
+Ponto dos Volantes	Enfermeiro	16
+Ponto dos Volantes	Técnico em Enfermagem	21
+Porteirinha	Auxiliar de Enfermagem	43
+Porteirinha	Enfermeiro	79
+Porteirinha	Técnico em Enfermagem	101
+Porto das Flores	Técnico em Enfermagem	1
+Porto Firme	Auxiliar de Enfermagem	1
+Porto Firme	Enfermeiro	14
+Porto Firme	Técnico em Enfermagem	36
+Poté	Auxiliar de Enfermagem	29
+Poté	Enfermeiro	18
+Poté	Técnico em Enfermagem	34
+Pouso Alegre	Auxiliar de Enfermagem	172
+Pouso Alegre	Enfermeiro	405
+Pouso Alegre	Técnico em Enfermagem	875
+Pouso Alegre	Auxiliar de Enfermagem	172
+Pouso Alegre	Enfermeiro	405
+Pouso Alegre	Técnico em Enfermagem	875
+Pouso Alto	Auxiliar de Enfermagem	6
+Pouso Alto	Enfermeiro	5
+Pouso Alto	Técnico em Enfermagem	39
+Prados	Auxiliar de Enfermagem	16
+Prados	Enfermeiro	12
+Prados	Técnico em Enfermagem	33
+Prata	Auxiliar de Enfermagem	11
+Prata	Enfermeiro	44
+Prata	Técnico em Enfermagem	102
+Pratápolis	Auxiliar de Enfermagem	12
+Pratápolis	Enfermeiro	22
+Pratápolis	Técnico em Enfermagem	38
+Pratinha	Auxiliar de Enfermagem	1
+Pratinha	Enfermeiro	5
+Pratinha	Técnico em Enfermagem	12
+Presidente Bernardes	Auxiliar de Enfermagem	7
+Presidente Bernardes	Enfermeiro	7
+Presidente Bernardes	Técnico em Enfermagem	32
+Presidente Juscelino	Auxiliar de Enfermagem	2
+Presidente Juscelino	Enfermeiro	7
+Presidente Juscelino	Técnico em Enfermagem	9
+Presidente Kubitschek	Auxiliar de Enfermagem	1
+Presidente Kubitschek	Técnico em Enfermagem	13
+Presidente Olegário	Auxiliar de Enfermagem	18
+Presidente Olegário	Enfermeiro	31
+Presidente Olegário	Técnico em Enfermagem	114
+Presidente Pena	Técnico em Enfermagem	1
+Providência	Auxiliar de Enfermagem	1
+Providência	Enfermeiro	1
+Providência	Técnico em Enfermagem	1
+Prudente de Morais	Auxiliar de Enfermagem	22
+Prudente de Morais	Enfermeiro	15
+Prudente de Morais	Técnico em Enfermagem	61
+Quartel Geral	Auxiliar de Enfermagem	1
+Quartel Geral	Enfermeiro	2
+Quartel Geral	Técnico em Enfermagem	27
+Quatituba	Enfermeiro	1
+Queluzito	Auxiliar de Enfermagem	2
+Queluzito	Enfermeiro	2
+Queluzito	Técnico em Enfermagem	4
+Quintinos	Enfermeiro	1
+Raposos	Auxiliar de Enfermagem	66
+Raposos	Enfermeiro	10
+Raposos	Técnico em Enfermagem	252
+Raul Soares	Auxiliar de Enfermagem	35
+Raul Soares	Enfermeiro	31
+Raul Soares	Técnico em Enfermagem	33
+Ravena	Auxiliar de Enfermagem	2
+Ravena	Enfermeiro	9
+Ravena	Técnico em Enfermagem	16
+Realeza	Auxiliar de Enfermagem	4
+Realeza	Enfermeiro	1
+Realeza	Técnico em Enfermagem	5
+Recreio	Auxiliar de Enfermagem	7
+Recreio	Enfermeiro	16
+Recreio	Técnico em Enfermagem	57
+Reduto	Auxiliar de Enfermagem	4
+Reduto	Enfermeiro	6
+Reduto	Técnico em Enfermagem	25
+Resende Costa	Auxiliar de Enfermagem	9
+Resende Costa	Enfermeiro	16
+Resende Costa	Técnico em Enfermagem	46
+Resplendor	Auxiliar de Enfermagem	26
+Resplendor	Enfermeiro	31
+Resplendor	Técnico em Enfermagem	75
+Ressaquinha	Auxiliar de Enfermagem	1
+Ressaquinha	Enfermeiro	5
+Ressaquinha	Técnico em Enfermagem	40
+Riachinho	Auxiliar de Enfermagem	6
+Riachinho	Enfermeiro	8
+Riachinho	Técnico em Enfermagem	30
+Riacho dos Machados	Auxiliar de Enfermagem	3
+Riacho dos Machados	Enfermeiro	13
+Riacho dos Machados	Técnico em Enfermagem	16
+Ribeirão das Neves	Auxiliar de Enfermagem	351
+Ribeirão das Neves	Enfermeiro	310
+Ribeirão das Neves	Técnico em Enfermagem	2.185
+Ribeirão de São Domingos	Enfermeiro	2
+Ribeirão de São Domingos	Técnico em Enfermagem	2
+Ribeirão Vermelho	Auxiliar de Enfermagem	5
+Ribeirão Vermelho	Enfermeiro	9
+Ribeirão Vermelho	Técnico em Enfermagem	40
+Ribeiro Junqueira	Auxiliar de Enfermagem	1
+Ribeiro Junqueira	Enfermeiro	2
+Ribeiro Junqueira	Técnico em Enfermagem	2
+Rio Acima	Auxiliar de Enfermagem	16
+Rio Acima	Enfermeiro	22
+Rio Acima	Técnico em Enfermagem	97
+Rio Casca	Auxiliar de Enfermagem	4
+Rio Casca	Enfermeiro	28
+Rio Casca	Técnico em Enfermagem	46
+Rio das Mortes	Auxiliar de Enfermagem	2
+Rio das Mortes	Técnico em Enfermagem	10
+Rio do Prado	Auxiliar de Enfermagem	5
+Rio do Prado	Enfermeiro	7
+Rio do Prado	Técnico em Enfermagem	26
+Rio Doce	Enfermeiro	3
+Rio Doce	Técnico em Enfermagem	18
+Rio Espera	Auxiliar de Enfermagem	2
+Rio Espera	Enfermeiro	17
+Rio Espera	Técnico em Enfermagem	27
+Rio Manso	Auxiliar de Enfermagem	6
+Rio Manso	Enfermeiro	12
+Rio Manso	Técnico em Enfermagem	18
+Rio Novo	Auxiliar de Enfermagem	11
+Rio Novo	Enfermeiro	8
+Rio Novo	Técnico em Enfermagem	34
+Rio Paranaíba	Auxiliar de Enfermagem	5
+Rio Paranaíba	Enfermeiro	22
+Rio Paranaíba	Técnico em Enfermagem	50
+Rio Pardo de Minas	Auxiliar de Enfermagem	24
+Rio Pardo de Minas	Enfermeiro	31
+Rio Pardo de Minas	Técnico em Enfermagem	48
+Rio Piracicaba	Auxiliar de Enfermagem	3
+Rio Piracicaba	Enfermeiro	9
+Rio Piracicaba	Técnico em Enfermagem	62
+Rio Pomba	Auxiliar de Enfermagem	21
+Rio Pomba	Enfermeiro	28
+Rio Pomba	Técnico em Enfermagem	47
+Rio Pretinho	Técnico em Enfermagem	1
+Rio Preto	Auxiliar de Enfermagem	6
+Rio Preto	Enfermeiro	11
+Rio Preto	Técnico em Enfermagem	17
+Rio Vermelho	Auxiliar de Enfermagem	7
+Rio Vermelho	Enfermeiro	13
+Rio Vermelho	Técnico em Enfermagem	43
+Ritápolis	Auxiliar de Enfermagem	8
+Ritápolis	Enfermeiro	8
+Ritápolis	Técnico em Enfermagem	29
+Roça Grande	Técnico em Enfermagem	2
+Roças Novas	Técnico em Enfermagem	1
+Rochedo de Minas	Auxiliar de Enfermagem	2
+Rochedo de Minas	Enfermeiro	2
+Rochedo de Minas	Técnico em Enfermagem	11
+Rodeador	Auxiliar de Enfermagem	1
+Rodeador	Enfermeiro	1
+Rodeiro	Auxiliar de Enfermagem	4
+Rodeiro	Enfermeiro	3
+Rodeiro	Técnico em Enfermagem	37
+Romaria	Auxiliar de Enfermagem	3
+Romaria	Enfermeiro	4
+Romaria	Técnico em Enfermagem	15
+Rosário da Limeira	Auxiliar de Enfermagem	7
+Rosário da Limeira	Enfermeiro	7
+Rosário da Limeira	Técnico em Enfermagem	28
+Rosário de Minas	Técnico em Enfermagem	2
+Roseiral	Técnico em Enfermagem	2
+Rubelita	Auxiliar de Enfermagem	14
+Rubelita	Enfermeiro	6
+Rubelita	Técnico em Enfermagem	15
+Rubim	Auxiliar de Enfermagem	15
+Rubim	Enfermeiro	12
+Rubim	Técnico em Enfermagem	15
+Sabará	Auxiliar de Enfermagem	243
+Sabará	Enfermeiro	181
+Sabará	Técnico em Enfermagem	959
+Sabinópolis	Auxiliar de Enfermagem	15
+Sabinópolis	Enfermeiro	39
+Sabinópolis	Técnico em Enfermagem	46
+Sacramento	Auxiliar de Enfermagem	20
+Sacramento	Enfermeiro	37
+Sacramento	Técnico em Enfermagem	87
+Salinas	Auxiliar de Enfermagem	62
+Salinas	Enfermeiro	72
+Salinas	Técnico em Enfermagem	121
+Salitre de Minas	Enfermeiro	1
+Salitre de Minas	Técnico em Enfermagem	6
+Salto da Divisa	Auxiliar de Enfermagem	13
+Salto da Divisa	Enfermeiro	6
+Salto da Divisa	Técnico em Enfermagem	20
+Santa Bárbara	Auxiliar de Enfermagem	32
+Santa Bárbara	Enfermeiro	47
+Santa Bárbara	Técnico em Enfermagem	126
+Santa Bárbara do Leste	Auxiliar de Enfermagem	1
+Santa Bárbara do Leste	Enfermeiro	9
+Santa Bárbara do Leste	Técnico em Enfermagem	17
+Santa Bárbara do Monte Verde	Enfermeiro	4
+Santa Bárbara do Monte Verde	Técnico em Enfermagem	22
+Santa Bárbara do Tugúrio	Auxiliar de Enfermagem	1
+Santa Bárbara do Tugúrio	Enfermeiro	3
+Santa Bárbara do Tugúrio	Técnico em Enfermagem	18
+Santa Cruz de Minas	Auxiliar de Enfermagem	4
+Santa Cruz de Minas	Enfermeiro	10
+Santa Cruz de Minas	Técnico em Enfermagem	25
+Santa Cruz de Salinas	Auxiliar de Enfermagem	2
+Santa Cruz de Salinas	Enfermeiro	1
+Santa Cruz de Salinas	Técnico em Enfermagem	12
+Santa Cruz do Escalvado	Enfermeiro	7
+Santa Cruz do Escalvado	Técnico em Enfermagem	17
+Santa Efigênia	Técnico em Enfermagem	2
+Santa Efigênia de Minas	Enfermeiro	5
+Santa Efigênia de Minas	Técnico em Enfermagem	9
+Santa Fé de Minas	Auxiliar de Enfermagem	5
+Santa Fé de Minas	Enfermeiro	6
+Santa Fé de Minas	Técnico em Enfermagem	14
+Santa Filomena	Técnico em Enfermagem	1
+Santa Helena de Minas	Enfermeiro	8
+Santa Helena de Minas	Técnico em Enfermagem	21
+Santa Juliana	Auxiliar de Enfermagem	6
+Santa Juliana	Enfermeiro	15
+Santa Juliana	Técnico em Enfermagem	41
+Santa Luzia	Auxiliar de Enfermagem	374
+Santa Luzia	Enfermeiro	333
+Santa Luzia	Técnico em Enfermagem	1.792
+Santa Margarida	Auxiliar de Enfermagem	20
+Santa Margarida	Enfermeiro	24
+Santa Margarida	Técnico em Enfermagem	38
+Santa Maria de Itabira	Auxiliar de Enfermagem	1
+Santa Maria de Itabira	Enfermeiro	16
+Santa Maria de Itabira	Técnico em Enfermagem	21
+Santa Maria do Salto	Auxiliar de Enfermagem	5
+Santa Maria do Salto	Enfermeiro	6
+Santa Maria do Salto	Técnico em Enfermagem	20
+Santa Maria do Suaçuí	Auxiliar de Enfermagem	8
+Santa Maria do Suaçuí	Enfermeiro	16
+Santa Maria do Suaçuí	Técnico em Enfermagem	32
+Santa Rita de Caldas	Auxiliar de Enfermagem	17
+Santa Rita de Caldas	Enfermeiro	21
+Santa Rita de Caldas	Técnico em Enfermagem	25
+Santa Rita de Jacutinga	Auxiliar de Enfermagem	1
+Santa Rita de Jacutinga	Enfermeiro	4
+Santa Rita de Jacutinga	Técnico em Enfermagem	10
+Santa Rita de Minas	Auxiliar de Enfermagem	3
+Santa Rita de Minas	Enfermeiro	8
+Santa Rita de Minas	Técnico em Enfermagem	20
+Santa Rita de Ouro Preto	Técnico em Enfermagem	3
+Santa Rita do Ibitipoca	Técnico em Enfermagem	12
+Santa Rita do Itueto	Auxiliar de Enfermagem	2
+Santa Rita do Itueto	Enfermeiro	4
+Santa Rita do Itueto	Técnico em Enfermagem	12
+Santa Rita do Sapucaí	Auxiliar de Enfermagem	16
+Santa Rita do Sapucaí	Enfermeiro	42
+Santa Rita do Sapucaí	Técnico em Enfermagem	84
+Santa Rosa da Serra	Auxiliar de Enfermagem	7
+Santa Rosa da Serra	Enfermeiro	4
+Santa Rosa da Serra	Técnico em Enfermagem	19
+Santa Terezinha de Minas	Técnico em Enfermagem	3
+Santa Vitória	Auxiliar de Enfermagem	16
+Santa Vitória	Enfermeiro	30
+Santa Vitória	Técnico em Enfermagem	60
+Santana da Vargem	Auxiliar de Enfermagem	2
+Santana da Vargem	Enfermeiro	8
+Santana da Vargem	Técnico em Enfermagem	30
+Santana de Cataguases	Auxiliar de Enfermagem	1
+Santana de Cataguases	Enfermeiro	5
+Santana de Cataguases	Técnico em Enfermagem	12
+Santana de Patos	Técnico em Enfermagem	2
+Santana de Pirapama	Auxiliar de Enfermagem	7
+Santana de Pirapama	Enfermeiro	10
+Santana de Pirapama	Técnico em Enfermagem	16
+Santana do Araçuaí	Auxiliar de Enfermagem	2
+Santana do Araçuaí	Técnico em Enfermagem	1
+Santana do Campestre	Enfermeiro	1
+Santana do Campestre	Técnico em Enfermagem	3
+Santana do Capivari	Enfermeiro	2
+Santana do Capivari	Técnico em Enfermagem	2
+Santana do Deserto	Auxiliar de Enfermagem	6
+Santana do Deserto	Enfermeiro	1
+Santana do Deserto	Técnico em Enfermagem	9
+Santana do Garambéu	Auxiliar de Enfermagem	6
+Santana do Garambéu	Enfermeiro	7
+Santana do Garambéu	Técnico em Enfermagem	10
+Santana do Jacaré	Auxiliar de Enfermagem	11
+Santana do Jacaré	Enfermeiro	14
+Santana do Jacaré	Técnico em Enfermagem	37
+Santana do Manhuaçu	Auxiliar de Enfermagem	13
+Santana do Manhuaçu	Enfermeiro	12
+Santana do Manhuaçu	Técnico em Enfermagem	30
+Santana do Paraíso	Auxiliar de Enfermagem	25
+Santana do Paraíso	Enfermeiro	71
+Santana do Paraíso	Técnico em Enfermagem	285
+Santana do Riacho	Auxiliar de Enfermagem	1
+Santana do Riacho	Enfermeiro	2
+Santana do Riacho	Técnico em Enfermagem	9
+Santana do Tabuleiro	Auxiliar de Enfermagem	1
+Santana do Tabuleiro	Técnico em Enfermagem	1
+Santana dos Montes	Enfermeiro	2
+Santana dos Montes	Técnico em Enfermagem	13
+Santo Antônio do Amparo	Auxiliar de Enfermagem	1
+Santo Antônio do Amparo	Enfermeiro	22
+Santo Antônio do Amparo	Técnico em Enfermagem	53
+Santo Antônio do Aventureiro	Auxiliar de Enfermagem	4
+Santo Antônio do Aventureiro	Enfermeiro	3
+Santo Antônio do Aventureiro	Técnico em Enfermagem	2
+Santo Antônio do Glória	Técnico em Enfermagem	7
+Santo Antônio do Grama	Auxiliar de Enfermagem	1
+Santo Antônio do Grama	Enfermeiro	6
+Santo Antônio do Grama	Técnico em Enfermagem	19
+Santo Antônio do Itambé	Auxiliar de Enfermagem	2
+Santo Antônio do Itambé	Enfermeiro	2
+Santo Antônio do Itambé	Técnico em Enfermagem	7
+Santo Antônio do Jacinto	Auxiliar de Enfermagem	8
+Santo Antônio do Jacinto	Enfermeiro	7
+Santo Antônio do Jacinto	Técnico em Enfermagem	17
+Santo Antônio do Leite	Enfermeiro	3
+Santo Antônio do Leite	Técnico em Enfermagem	5
+Santo Antônio do Manhuaçu	Enfermeiro	1
+Santo Antônio do Monte	Auxiliar de Enfermagem	15
+Santo Antônio do Monte	Enfermeiro	36
+Santo Antônio do Monte	Técnico em Enfermagem	63
+Santo Antônio do Pontal	Técnico em Enfermagem	1
+Santo Antônio do Retiro	Auxiliar de Enfermagem	1
+Santo Antônio do Retiro	Enfermeiro	9
+Santo Antônio do Retiro	Técnico em Enfermagem	14
+Santo Antônio do Rio Abaixo	Auxiliar de Enfermagem	1
+Santo Antônio do Rio Abaixo	Enfermeiro	5
+Santo Antônio do Rio Abaixo	Técnico em Enfermagem	13
+Santo Antônio dos Campos	Auxiliar de Enfermagem	4
+Santo Antônio dos Campos	Enfermeiro	4
+Santo Antônio dos Campos	Técnico em Enfermagem	16
+Santo Hipólito	Auxiliar de Enfermagem	5
+Santo Hipólito	Enfermeiro	5
+Santo Hipólito	Técnico em Enfermagem	12
+Santos Dumont	Auxiliar de Enfermagem	8
+Santos Dumont	Enfermeiro	71
+Santos Dumont	Técnico em Enfermagem	434
+São Bento Abade	Enfermeiro	3
+São Bento Abade	Técnico em Enfermagem	15
+São Bento de Caldas	Enfermeiro	1
+São Brás do Suaçuí	Auxiliar de Enfermagem	1
+São Brás do Suaçuí	Enfermeiro	6
+São Brás do Suaçuí	Técnico em Enfermagem	24
+São Braz	Técnico em Enfermagem	2
+São Cândido	Enfermeiro	2
+São Cândido	Técnico em Enfermagem	2
+São Domingos das Dores	Enfermeiro	5
+São Domingos das Dores	Técnico em Enfermagem	11
+São Domingos do Prata	Auxiliar de Enfermagem	3
+São Domingos do Prata	Enfermeiro	13
+São Domingos do Prata	Técnico em Enfermagem	62
+São Félix de Minas	Enfermeiro	5
+São Félix de Minas	Técnico em Enfermagem	18
+São Francisco	Auxiliar de Enfermagem	78
+São Francisco	Enfermeiro	79
+São Francisco	Técnico em Enfermagem	126
+São Francisco de Paula	Auxiliar de Enfermagem	1
+São Francisco de Paula	Enfermeiro	7
+São Francisco de Paula	Técnico em Enfermagem	21
+São Francisco de Sales	Auxiliar de Enfermagem	2
+São Francisco de Sales	Enfermeiro	8
+São Francisco de Sales	Técnico em Enfermagem	13
+São Francisco do Glória	Enfermeiro	8
+São Francisco do Glória	Técnico em Enfermagem	14
+São Geraldo	Auxiliar de Enfermagem	3
+São Geraldo	Enfermeiro	9
+São Geraldo	Técnico em Enfermagem	22
+São Geraldo	Auxiliar de Enfermagem	3
+São Geraldo	Enfermeiro	9
+São Geraldo	Técnico em Enfermagem	22
+São Geraldo da Piedade	Enfermeiro	5
+São Geraldo da Piedade	Técnico em Enfermagem	7
+São Geraldo de Tumiritinga	Enfermeiro	1
+São Geraldo de Tumiritinga	Técnico em Enfermagem	2
+São Geraldo do Baguari	Técnico em Enfermagem	1
+São Geraldo do Baixio	Enfermeiro	1
+São Geraldo do Baixio	Técnico em Enfermagem	5
+São Gonçalo do Abaeté	Auxiliar de Enfermagem	1
+São Gonçalo do Abaeté	Enfermeiro	8
+São Gonçalo do Abaeté	Técnico em Enfermagem	11
+São Gonçalo do Pará	Auxiliar de Enfermagem	17
+São Gonçalo do Pará	Enfermeiro	8
+São Gonçalo do Pará	Técnico em Enfermagem	31
+São Gonçalo do Rio Abaixo	Auxiliar de Enfermagem	3
+São Gonçalo do Rio Abaixo	Enfermeiro	14
+São Gonçalo do Rio Abaixo	Técnico em Enfermagem	57
+São Gonçalo do Rio das Pedras	Enfermeiro	1
+São Gonçalo do Rio das Pedras	Técnico em Enfermagem	1
+São Gonçalo do Rio Preto	Auxiliar de Enfermagem	4
+São Gonçalo do Rio Preto	Técnico em Enfermagem	8
+São Gonçalo do Sapucaí	Auxiliar de Enfermagem	8
+São Gonçalo do Sapucaí	Enfermeiro	15
+São Gonçalo do Sapucaí	Técnico em Enfermagem	52
+São Gotardo	Auxiliar de Enfermagem	14
+São Gotardo	Enfermeiro	45
+São Gotardo	Técnico em Enfermagem	91
+São João Batista do Glória	Auxiliar de Enfermagem	3
+São João Batista do Glória	Enfermeiro	17
+São João Batista do Glória	Técnico em Enfermagem	38
+São João da Chapada	Auxiliar de Enfermagem	2
+São João da Chapada	Técnico em Enfermagem	2
+São João da Lagoa	Auxiliar de Enfermagem	1
+São João da Lagoa	Enfermeiro	5
+São João da Lagoa	Técnico em Enfermagem	16
+São João da Mata	Auxiliar de Enfermagem	1
+São João da Mata	Enfermeiro	7
+São João da Mata	Técnico em Enfermagem	11
+São João da Ponte	Auxiliar de Enfermagem	11
+São João da Ponte	Enfermeiro	35
+São João da Ponte	Técnico em Enfermagem	44
+São João da Serra Negra	Auxiliar de Enfermagem	1
+São João da Serra Negra	Enfermeiro	1
+São João da Serra Negra	Técnico em Enfermagem	3
+São João da Vereda	Enfermeiro	1
+São João da Vereda	Técnico em Enfermagem	1
+São João das Missões	Auxiliar de Enfermagem	7
+São João das Missões	Enfermeiro	5
+São João das Missões	Técnico em Enfermagem	60
+São João Del Rei	Auxiliar de Enfermagem	191
+São João Del Rei	Enfermeiro	214
+São João Del Rei	Técnico em Enfermagem	505
+São João do Jacutinga	Enfermeiro	2
+São João do Manhuaçu	Auxiliar de Enfermagem	10
+São João do Manhuaçu	Enfermeiro	11
+São João do Manhuaçu	Técnico em Enfermagem	30
+São João do Manteninha	Auxiliar de Enfermagem	2
+São João do Manteninha	Enfermeiro	3
+São João do Manteninha	Técnico em Enfermagem	9
+São João do Oriente	Enfermeiro	13
+São João do Oriente	Técnico em Enfermagem	19
+São João do Pacuí	Enfermeiro	1
+São João do Pacuí	Técnico em Enfermagem	8
+São João do Paraíso	Auxiliar de Enfermagem	21
+São João do Paraíso	Enfermeiro	29
+São João do Paraíso	Técnico em Enfermagem	53
+São João Evangelista	Auxiliar de Enfermagem	10
+São João Evangelista	Enfermeiro	26
+São João Evangelista	Técnico em Enfermagem	87
+São João Nepomuceno	Auxiliar de Enfermagem	30
+São João Nepomuceno	Enfermeiro	29
+São João Nepomuceno	Técnico em Enfermagem	67
+São Joaquim de Bicas	Auxiliar de Enfermagem	15
+São Joaquim de Bicas	Enfermeiro	23
+São Joaquim de Bicas	Técnico em Enfermagem	120
+São José da Barra	Auxiliar de Enfermagem	7
+São José da Barra	Enfermeiro	7
+São José da Barra	Técnico em Enfermagem	11
+São José da Lapa	Auxiliar de Enfermagem	31
+São José da Lapa	Enfermeiro	28
+São José da Lapa	Técnico em Enfermagem	172
+São José da Safira	Auxiliar de Enfermagem	1
+São José da Safira	Enfermeiro	6
+São José da Safira	Técnico em Enfermagem	11
+São José da Varginha	Auxiliar de Enfermagem	2
+São José da Varginha	Enfermeiro	13
+São José da Varginha	Técnico em Enfermagem	10
+São José do Acácio	Técnico em Enfermagem	2
+São José do Alegre	Auxiliar de Enfermagem	4
+São José do Alegre	Enfermeiro	7
+São José do Alegre	Técnico em Enfermagem	26
+São José do Divino	Auxiliar de Enfermagem	3
+São José do Divino	Enfermeiro	9
+São José do Divino	Técnico em Enfermagem	14
+São José do Goiabal	Auxiliar de Enfermagem	15
+São José do Goiabal	Enfermeiro	8
+São José do Goiabal	Técnico em Enfermagem	30
+São José do Itueto	Técnico em Enfermagem	2
+São José do Jacuri	Auxiliar de Enfermagem	6
+São José do Jacuri	Enfermeiro	5
+São José do Jacuri	Técnico em Enfermagem	17
+São José do Mantimento	Auxiliar de Enfermagem	2
+São José do Mantimento	Enfermeiro	6
+São José do Mantimento	Técnico em Enfermagem	7
+São José do Pântano	Enfermeiro	1
+São José dos Salgados	Auxiliar de Enfermagem	1
+São José dos Salgados	Técnico em Enfermagem	2
+São Lourenço	Auxiliar de Enfermagem	36
+São Lourenço	Enfermeiro	116
+São Lourenço	Técnico em Enfermagem	249
+São Manoel do Guaiaçu	Técnico em Enfermagem	4
+São Mateus de Minas	Técnico em Enfermagem	1
+São Miguel do Anta	Auxiliar de Enfermagem	5
+São Miguel do Anta	Enfermeiro	12
+São Miguel do Anta	Técnico em Enfermagem	37
+São Miguel do Cajuru	Técnico em Enfermagem	1
+São Pedro da União	Auxiliar de Enfermagem	4
+São Pedro da União	Enfermeiro	12
+São Pedro da União	Técnico em Enfermagem	23
+São Pedro de Caldas	Auxiliar de Enfermagem	1
+São Pedro do Avaí	Auxiliar de Enfermagem	4
+São Pedro do Avaí	Enfermeiro	2
+São Pedro do Avaí	Técnico em Enfermagem	3
+São Pedro do Glória	Técnico em Enfermagem	1
+São Pedro do Jequitinhonha	Técnico em Enfermagem	2
+São Pedro do Suaçuí	Auxiliar de Enfermagem	2
+São Pedro do Suaçuí	Enfermeiro	8
+São Pedro do Suaçuí	Técnico em Enfermagem	17
+São Pedro dos Ferros	Auxiliar de Enfermagem	11
+São Pedro dos Ferros	Enfermeiro	10
+São Pedro dos Ferros	Técnico em Enfermagem	39
+São Romão	Auxiliar de Enfermagem	16
+São Romão	Enfermeiro	15
+São Romão	Técnico em Enfermagem	24
+São Roque de Minas	Auxiliar de Enfermagem	11
+São Roque de Minas	Enfermeiro	11
+São Roque de Minas	Técnico em Enfermagem	23
+São Sebastião da Bela Vista	Auxiliar de Enfermagem	3
+São Sebastião da Bela Vista	Enfermeiro	5
+São Sebastião da Bela Vista	Técnico em Enfermagem	13
+São Sebastião da Vargem Alegre	Auxiliar de Enfermagem	2
+São Sebastião da Vargem Alegre	Enfermeiro	3
+São Sebastião da Vargem Alegre	Técnico em Enfermagem	12
+São Sebastião da Vitória	Auxiliar de Enfermagem	1
+São Sebastião da Vitória	Técnico em Enfermagem	7
+São Sebastião de Braúnas	Técnico em Enfermagem	1
+São Sebastião do Anta	Enfermeiro	3
+São Sebastião do Anta	Técnico em Enfermagem	12
+São Sebastião do Bugre	Técnico em Enfermagem	2
+São Sebastião do Maranhão	Auxiliar de Enfermagem	5
+São Sebastião do Maranhão	Enfermeiro	5
+São Sebastião do Maranhão	Técnico em Enfermagem	23
+São Sebastião do Oeste	Auxiliar de Enfermagem	1
+São Sebastião do Oeste	Enfermeiro	5
+São Sebastião do Oeste	Técnico em Enfermagem	11
+São Sebastião do Paraíso	Auxiliar de Enfermagem	71
+São Sebastião do Paraíso	Enfermeiro	154
+São Sebastião do Paraíso	Técnico em Enfermagem	208
+São Sebastião do Pontal	Técnico em Enfermagem	5
+São Sebastião do Rio Preto	Auxiliar de Enfermagem	2
+São Sebastião do Rio Preto	Enfermeiro	4
+São Sebastião do Rio Preto	Técnico em Enfermagem	7
+São Sebastião do Rio Verde	Auxiliar de Enfermagem	1
+São Sebastião do Rio Verde	Enfermeiro	3
+São Sebastião do Rio Verde	Técnico em Enfermagem	12
+São Sebastião do Sacramento	Auxiliar de Enfermagem	1
+São Sebastião do Sacramento	Enfermeiro	3
+São Sebastião do Sacramento	Técnico em Enfermagem	4
+São Thomé das Letras	Auxiliar de Enfermagem	6
+São Thomé das Letras	Enfermeiro	7
+São Thomé das Letras	Técnico em Enfermagem	23
+São Tiago	Auxiliar de Enfermagem	11
+São Tiago	Enfermeiro	18
+São Tiago	Técnico em Enfermagem	35
+São Tomás de Aquino	Auxiliar de Enfermagem	9
+São Tomás de Aquino	Enfermeiro	7
+São Tomás de Aquino	Técnico em Enfermagem	20
+São Vicente	Técnico em Enfermagem	4
+São Vicente de Minas	Auxiliar de Enfermagem	16
+São Vicente de Minas	Enfermeiro	10
+São Vicente de Minas	Técnico em Enfermagem	17
+São Vítor	Técnico em Enfermagem	1
+Sapucaia	Enfermeiro	1
+Sapucaia	Técnico em Enfermagem	4
+Sapucaia de Guanhães	Técnico em Enfermagem	2
+Sapucaia do Norte	Enfermeiro	1
+Sapucaí-Mirim	Enfermeiro	3
+Sapucaí-Mirim	Técnico em Enfermagem	12
+Sarandira	Técnico em Enfermagem	1
+Sardoá	Auxiliar de Enfermagem	1
+Sardoá	Enfermeiro	9
+Sardoá	Técnico em Enfermagem	14
+Sarzedo	Auxiliar de Enfermagem	48
+Sarzedo	Enfermeiro	57
+Sarzedo	Técnico em Enfermagem	197
+Sem Peixe	Auxiliar de Enfermagem	2
+Sem Peixe	Enfermeiro	4
+Sem Peixe	Técnico em Enfermagem	10
+Senador Amaral	Auxiliar de Enfermagem	6
+Senador Amaral	Enfermeiro	8
+Senador Amaral	Técnico em Enfermagem	15
+Senador Cortes	Auxiliar de Enfermagem	3
+Senador Cortes	Enfermeiro	7
+Senador Cortes	Técnico em Enfermagem	4
+Senador Firmino	Auxiliar de Enfermagem	12
+Senador Firmino	Enfermeiro	12
+Senador Firmino	Técnico em Enfermagem	34
+Senador José Bento	Auxiliar de Enfermagem	4
+Senador José Bento	Enfermeiro	1
+Senador José Bento	Técnico em Enfermagem	6
+Senador Modestino Gonçalves	Auxiliar de Enfermagem	5
+Senador Modestino Gonçalves	Enfermeiro	3
+Senador Modestino Gonçalves	Técnico em Enfermagem	9
+Senador Mourão	Auxiliar de Enfermagem	1
+Senador Mourão	Técnico em Enfermagem	1
+Senhora da Glória	Técnico em Enfermagem	2
+Senhora das Dores	Auxiliar de Enfermagem	2
+Senhora das Dores	Enfermeiro	1
+Senhora das Dores	Técnico em Enfermagem	8
+Senhora de Oliveira	Enfermeiro	9
+Senhora de Oliveira	Técnico em Enfermagem	23
+Senhora do Carmo	Técnico em Enfermagem	3
+Senhora do Porto	Auxiliar de Enfermagem	2
+Senhora do Porto	Técnico em Enfermagem	6
+Senhora dos Remédios	Auxiliar de Enfermagem	3
+Senhora dos Remédios	Enfermeiro	13
+Senhora dos Remédios	Técnico em Enfermagem	36
+Sereno	Auxiliar de Enfermagem	1
+Sereno	Enfermeiro	1
+Sereno	Técnico em Enfermagem	5
+Sericita	Auxiliar de Enfermagem	2
+Sericita	Enfermeiro	12
+Sericita	Técnico em Enfermagem	19
+Seritinga	Auxiliar de Enfermagem	2
+Seritinga	Enfermeiro	3
+Seritinga	Técnico em Enfermagem	22
+Serra Azul	Técnico em Enfermagem	3
+Serra Azul de Minas	Auxiliar de Enfermagem	8
+Serra Azul de Minas	Enfermeiro	7
+Serra Azul de Minas	Técnico em Enfermagem	10
+Serra Bonita	Técnico em Enfermagem	1
+Serra da Canastra	Auxiliar de Enfermagem	1
+Serra da Saudade	Auxiliar de Enfermagem	1
+Serra da Saudade	Enfermeiro	1
+Serra da Saudade	Técnico em Enfermagem	7
+Serra do Cipó	Técnico em Enfermagem	5
+Serra do Salitre	Auxiliar de Enfermagem	15
+Serra do Salitre	Enfermeiro	14
+Serra do Salitre	Técnico em Enfermagem	41
+Serra dos Aimorés	Auxiliar de Enfermagem	11
+Serra dos Aimorés	Enfermeiro	4
+Serra dos Aimorés	Técnico em Enfermagem	29
+Serrania	Auxiliar de Enfermagem	2
+Serrania	Enfermeiro	10
+Serrania	Técnico em Enfermagem	58
+Serranópolis de Minas	Auxiliar de Enfermagem	2
+Serranópolis de Minas	Enfermeiro	1
+Serranópolis de Minas	Técnico em Enfermagem	3
+Serranos	Auxiliar de Enfermagem	4
+Serranos	Enfermeiro	2
+Serranos	Técnico em Enfermagem	17
+Serro	Auxiliar de Enfermagem	22
+Serro	Enfermeiro	27
+Serro	Técnico em Enfermagem	67
+Sete Lagoas	Auxiliar de Enfermagem	196
+Sete Lagoas	Enfermeiro	566
+Sete Lagoas	Técnico em Enfermagem	1.136
+Setubinha	Auxiliar de Enfermagem	5
+Setubinha	Enfermeiro	7
+Setubinha	Técnico em Enfermagem	10
+Silvano	Auxiliar de Enfermagem	1
+Silveira Carvalho	Enfermeiro	1
+Silveira Carvalho	Técnico em Enfermagem	12
+Silveirânia	Auxiliar de Enfermagem	7
+Silveirânia	Enfermeiro	2
+Silveirânia	Técnico em Enfermagem	8
+Silvianópolis	Auxiliar de Enfermagem	7
+Silvianópolis	Enfermeiro	18
+Silvianópolis	Técnico em Enfermagem	12
+Simão Pereira	Auxiliar de Enfermagem	1
+Simão Pereira	Enfermeiro	4
+Simão Pereira	Técnico em Enfermagem	4
+Simonésia	Auxiliar de Enfermagem	17
+Simonésia	Enfermeiro	30
+Simonésia	Técnico em Enfermagem	73
+Sobral Pinto	Técnico em Enfermagem	1
+Sobrália	Auxiliar de Enfermagem	1
+Sobrália	Enfermeiro	4
+Sobrália	Técnico em Enfermagem	11
+Soledade de Minas	Auxiliar de Enfermagem	4
+Soledade de Minas	Enfermeiro	4
+Soledade de Minas	Técnico em Enfermagem	40
+Sucanga	Técnico em Enfermagem	1
+Tabaúna	Técnico em Enfermagem	1
+Tabuleiro	Auxiliar de Enfermagem	5
+Tabuleiro	Enfermeiro	5
+Tabuleiro	Técnico em Enfermagem	19
+Taiobeiras	Auxiliar de Enfermagem	74
+Taiobeiras	Enfermeiro	45
+Taiobeiras	Técnico em Enfermagem	165
+Taparuba	Auxiliar de Enfermagem	8
+Taparuba	Enfermeiro	3
+Taparuba	Técnico em Enfermagem	10
+Tapira	Auxiliar de Enfermagem	4
+Tapira	Enfermeiro	9
+Tapira	Técnico em Enfermagem	11
+Tapiraí	Auxiliar de Enfermagem	2
+Tapiraí	Enfermeiro	4
+Tapiraí	Técnico em Enfermagem	3
+Tapuirama	Técnico em Enfermagem	6
+Taquaraçu de Minas	Auxiliar de Enfermagem	2
+Taquaraçu de Minas	Enfermeiro	5
+Taquaraçu de Minas	Técnico em Enfermagem	15
+Tarumirim	Auxiliar de Enfermagem	1
+Tarumirim	Enfermeiro	20
+Tarumirim	Técnico em Enfermagem	64
+Tebas	Auxiliar de Enfermagem	2
+Tebas	Enfermeiro	1
+Tebas	Técnico em Enfermagem	1
+Teixeiras	Auxiliar de Enfermagem	3
+Teixeiras	Enfermeiro	21
+Teixeiras	Técnico em Enfermagem	73
+Teófilo Otoni	Auxiliar de Enfermagem	110
+Teófilo Otoni	Enfermeiro	394
+Teófilo Otoni	Técnico em Enfermagem	776
+Timóteo	Auxiliar de Enfermagem	69
+Timóteo	Enfermeiro	192
+Timóteo	Técnico em Enfermagem	474
+Tiradentes	Auxiliar de Enfermagem	3
+Tiradentes	Enfermeiro	12
+Tiradentes	Técnico em Enfermagem	30
+Tiros	Auxiliar de Enfermagem	2
+Tiros	Enfermeiro	9
+Tiros	Técnico em Enfermagem	22
+Tocandira	Técnico em Enfermagem	1
+Tocantins	Auxiliar de Enfermagem	12
+Tocantins	Enfermeiro	17
+Tocantins	Técnico em Enfermagem	57
+Tocos do Moji	Auxiliar de Enfermagem	5
+Tocos do Moji	Enfermeiro	6
+Tocos do Moji	Técnico em Enfermagem	7
+Toledo	Auxiliar de Enfermagem	1
+Toledo	Enfermeiro	3
+Toledo	Técnico em Enfermagem	9
+Tombos	Auxiliar de Enfermagem	13
+Tombos	Enfermeiro	23
+Tombos	Técnico em Enfermagem	52
+Topázio	Enfermeiro	2
+Topázio	Técnico em Enfermagem	3
+Torreões	Enfermeiro	1
+Torreões	Técnico em Enfermagem	3
+Três Corações	Auxiliar de Enfermagem	45
+Três Corações	Enfermeiro	147
+Três Corações	Técnico em Enfermagem	523
+Três Marias	Auxiliar de Enfermagem	25
+Três Marias	Enfermeiro	53
+Três Marias	Técnico em Enfermagem	122
+Três Pontas	Auxiliar de Enfermagem	52
+Três Pontas	Enfermeiro	90
+Três Pontas	Técnico em Enfermagem	313
+Tuiutinga	Técnico em Enfermagem	1
+Tumiritinga	Auxiliar de Enfermagem	3
+Tumiritinga	Enfermeiro	3
+Tumiritinga	Técnico em Enfermagem	18
+Tupaciguara	Auxiliar de Enfermagem	6
+Tupaciguara	Enfermeiro	31
+Tupaciguara	Técnico em Enfermagem	70
+Tuparecê	Auxiliar de Enfermagem	1
+Tuparecê	Técnico em Enfermagem	1
+Turmalina	Auxiliar de Enfermagem	10
+Turmalina	Enfermeiro	40
+Turmalina	Técnico em Enfermagem	79
+Turvolândia	Enfermeiro	6
+Turvolândia	Técnico em Enfermagem	14
+Ubá	Auxiliar de Enfermagem	79
+Ubá	Enfermeiro	162
+Ubá	Técnico em Enfermagem	500
+Ubaí	Auxiliar de Enfermagem	9
+Ubaí	Enfermeiro	13
+Ubaí	Técnico em Enfermagem	46
+Ubaporanga	Auxiliar de Enfermagem	5
+Ubaporanga	Enfermeiro	9
+Ubaporanga	Técnico em Enfermagem	47
+Ubari	Técnico em Enfermagem	1
+Uberaba	Auxiliar de Enfermagem	273
+Uberaba	Enfermeiro	1.238
+Uberaba	Técnico em Enfermagem	2.437
+Uberlândia	Auxiliar de Enfermagem	536
+Uberlândia	Enfermeiro	1.984
+Uberlândia	Técnico em Enfermagem	3.923
+Umburatiba	Auxiliar de Enfermagem	7
+Umburatiba	Enfermeiro	4
+Umburatiba	Técnico em Enfermagem	11
+Unaí	Auxiliar de Enfermagem	22
+Unaí	Enfermeiro	150
+Unaí	Técnico em Enfermagem	458
+União de Minas	Auxiliar de Enfermagem	6
+União de Minas	Enfermeiro	6
+União de Minas	Técnico em Enfermagem	12
+Uruana de Minas	Auxiliar de Enfermagem	1
+Uruana de Minas	Enfermeiro	3
+Uruana de Minas	Técnico em Enfermagem	22
+Urucânia	Auxiliar de Enfermagem	1
+Urucânia	Enfermeiro	11
+Urucânia	Técnico em Enfermagem	40
+Urucuia	Auxiliar de Enfermagem	32
+Urucuia	Enfermeiro	11
+Urucuia	Técnico em Enfermagem	40
+Vai-Volta	Técnico em Enfermagem	1
+Valadares	Auxiliar de Enfermagem	1
+Valadares	Técnico em Enfermagem	2
+Valão	Auxiliar de Enfermagem	1
+Vargem Alegre	Auxiliar de Enfermagem	4
+Vargem Alegre	Enfermeiro	13
+Vargem Alegre	Técnico em Enfermagem	29
+Vargem Bonita	Auxiliar de Enfermagem	5
+Vargem Bonita	Enfermeiro	2
+Vargem Bonita	Técnico em Enfermagem	20
+Vargem Grande do Rio Pardo	Auxiliar de Enfermagem	1
+Vargem Grande do Rio Pardo	Enfermeiro	7
+Vargem Grande do Rio Pardo	Técnico em Enfermagem	12
+Varginha	Auxiliar de Enfermagem	146
+Varginha	Enfermeiro	257
+Varginha	Técnico em Enfermagem	597
+Varjão de Minas	Auxiliar de Enfermagem	4
+Varjão de Minas	Enfermeiro	6
+Varjão de Minas	Técnico em Enfermagem	30
+Várzea da Palma	Auxiliar de Enfermagem	28
+Várzea da Palma	Enfermeiro	51
+Várzea da Palma	Técnico em Enfermagem	118
+Varzelândia	Auxiliar de Enfermagem	17
+Varzelândia	Enfermeiro	29
+Varzelândia	Técnico em Enfermagem	25
+Vau-Açu	Auxiliar de Enfermagem	1
+Vau-Açu	Enfermeiro	1
+Vau-Açu	Técnico em Enfermagem	5
+Vazante	Auxiliar de Enfermagem	18
+Vazante	Enfermeiro	34
+Vazante	Técnico em Enfermagem	79
+Verdelândia	Auxiliar de Enfermagem	6
+Verdelândia	Enfermeiro	1
+Verdelândia	Técnico em Enfermagem	26
+Veredas	Técnico em Enfermagem	1
+Veredinha	Auxiliar de Enfermagem	1
+Veredinha	Enfermeiro	6
+Veredinha	Técnico em Enfermagem	17
+Veríssimo	Enfermeiro	4
+Veríssimo	Técnico em Enfermagem	12
+Vermelho	Auxiliar de Enfermagem	1
+Vermelho	Técnico em Enfermagem	2
+Vermelho Novo	Auxiliar de Enfermagem	5
+Vermelho Novo	Enfermeiro	5
+Vermelho Novo	Técnico em Enfermagem	13
+Vermelho Velho	Enfermeiro	2
+Vespasiano	Auxiliar de Enfermagem	203
+Vespasiano	Enfermeiro	163
+Vespasiano	Técnico em Enfermagem	786
+Viçosa	Auxiliar de Enfermagem	32
+Viçosa	Enfermeiro	152
+Viçosa	Técnico em Enfermagem	405
+Vieiras	Auxiliar de Enfermagem	6
+Vieiras	Enfermeiro	4
+Vieiras	Técnico em Enfermagem	16
+Vila Nova dos Poções	Técnico em Enfermagem	1
+Vila Nova Floresta	Técnico em Enfermagem	1
+Vila Pereira	Técnico em Enfermagem	3
+Virgem da Lapa	Auxiliar de Enfermagem	10
+Virgem da Lapa	Enfermeiro	13
+Virgem da Lapa	Técnico em Enfermagem	46
+Virgínia	Auxiliar de Enfermagem	9
+Virgínia	Enfermeiro	9
+Virgínia	Técnico em Enfermagem	27
+Virginópolis	Auxiliar de Enfermagem	2
+Virginópolis	Enfermeiro	18
+Virginópolis	Técnico em Enfermagem	48
+Virgolândia	Auxiliar de Enfermagem	5
+Virgolândia	Enfermeiro	4
+Virgolândia	Técnico em Enfermagem	11
+Visconde do Rio Branco	Auxiliar de Enfermagem	8
+Visconde do Rio Branco	Enfermeiro	44
+Visconde do Rio Branco	Técnico em Enfermagem	149
+Vista Alegre	Auxiliar de Enfermagem	2
+Vista Alegre	Enfermeiro	6
+Vista Alegre	Técnico em Enfermagem	14
+Vitorinos	Enfermeiro	3
+Vitorinos	Técnico em Enfermagem	3
+Volta Grande	Auxiliar de Enfermagem	10
+Volta Grande	Enfermeiro	15
+Volta Grande	Técnico em Enfermagem	5
+Wenceslau Braz	Auxiliar de Enfermagem	5
+Wenceslau Braz	Enfermeiro	2
+Wenceslau Braz	Técnico em Enfermagem	5
+Zito Soares	Técnico em Enfermagem	1

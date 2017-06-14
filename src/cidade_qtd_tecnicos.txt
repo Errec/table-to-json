@@ -1,0 +1,1101 @@
+Abadia dos Dourados	19	Técnico em Enfermagem
+Abaeté	73	Técnico em Enfermagem
+Abre Campo	38	Técnico em Enfermagem
+Abreus	3	Técnico em Enfermagem
+Acaiaca	20	Técnico em Enfermagem
+Açucena	22	Técnico em Enfermagem
+Adão Colares	2	Técnico em Enfermagem
+Água Boa	27	Técnico em Enfermagem
+Água Comprida	10	Técnico em Enfermagem
+Aguanil	30	Técnico em Enfermagem
+Águas Férreas	3	Técnico em Enfermagem
+Águas Formosas	73	Técnico em Enfermagem
+Águas Vermelhas	48	Técnico em Enfermagem
+Aimorés	98	Técnico em Enfermagem
+Aiuruoca	39	Técnico em Enfermagem
+Alagoa	17	Técnico em Enfermagem
+Albertina	10	Técnico em Enfermagem
+Alberto Isaacson	3	Técnico em Enfermagem
+Aldeia	1	Técnico em Enfermagem
+Alegria	2	Técnico em Enfermagem
+Além Paraíba	38	Técnico em Enfermagem
+Alexandrita	3	Técnico em Enfermagem
+Alfenas	580	Técnico em Enfermagem
+Alfredo Vasconcelos	28	Técnico em Enfermagem
+Almeida	5	Técnico em Enfermagem
+Almenara	134	Técnico em Enfermagem
+Alpercata	37	Técnico em Enfermagem
+Alpinópolis	54	Técnico em Enfermagem
+Alterosa	72	Técnico em Enfermagem
+Alto Caparaó	9	Técnico em Enfermagem
+Alto Jequitibá	39	Técnico em Enfermagem
+Alto Maranhão	1	Técnico em Enfermagem
+Alto Rio Doce	53	Técnico em Enfermagem
+Alvarenga	16	Técnico em Enfermagem
+Alvinópolis	59	Técnico em Enfermagem
+Alvorada	2	Técnico em Enfermagem
+Alvorada de Minas	17	Técnico em Enfermagem
+Amanhece	2	Técnico em Enfermagem
+Amarantina	10	Técnico em Enfermagem
+Amparo da Serra	7	Técnico em Enfermagem
+Andradas	101	Técnico em Enfermagem
+Andrelândia	37	Técnico em Enfermagem
+Angaturama	1	Técnico em Enfermagem
+Angelândia	12	Técnico em Enfermagem
+Angueretá	1	Técnico em Enfermagem
+Angustura	1	Técnico em Enfermagem
+Antônio Carlos	91	Técnico em Enfermagem
+Antônio Dias	39	Técnico em Enfermagem
+Antônio Pereira	5	Técnico em Enfermagem
+Antônio Prado de Minas	7	Técnico em Enfermagem
+Antunes	2	Técnico em Enfermagem
+Aparecida de Minas	1	Técnico em Enfermagem
+Araçaí	12	Técnico em Enfermagem
+Aracati de Minas	1	Técnico em Enfermagem
+Aracitaba	8	Técnico em Enfermagem
+Araçuaí	123	Técnico em Enfermagem
+Araguari	530	Técnico em Enfermagem
+Arantina	19	Técnico em Enfermagem
+Araponga	29	Técnico em Enfermagem
+Araporã	19	Técnico em Enfermagem
+Arapuá	13	Técnico em Enfermagem
+Araújos	13	Técnico em Enfermagem
+Araxá	332	Técnico em Enfermagem
+Arceburgo	23	Técnico em Enfermagem
+Arcos	156	Técnico em Enfermagem
+Areado	67	Técnico em Enfermagem
+Argirita	11	Técnico em Enfermagem
+Aricanduva	10	Técnico em Enfermagem
+Arinos	73	Técnico em Enfermagem
+Astolfo Dutra	38	Técnico em Enfermagem
+Ataléia	12	Técnico em Enfermagem
+Augusto de Lima	15	Técnico em Enfermagem
+Avaí do Jacinto	3	Técnico em Enfermagem
+Azurita	10	Técnico em Enfermagem
+Baependi	160	Técnico em Enfermagem
+Baguari	4	Técnico em Enfermagem
+Baldim	19	Técnico em Enfermagem
+Bambuí	128	Técnico em Enfermagem
+Bandeira	7	Técnico em Enfermagem
+Bandeira do Sul	37	Técnico em Enfermagem
+Barão de Cocais	131	Técnico em Enfermagem
+Barão de Monte Alto	37	Técnico em Enfermagem
+Barbacena	1.286	Técnico em Enfermagem
+Barra da Figueira	1	Técnico em Enfermagem
+Barra do Cuieté	1	Técnico em Enfermagem
+Barra Feliz	1	Técnico em Enfermagem
+Barra Longa	13	Técnico em Enfermagem
+Barreiro da Raiz	1	Técnico em Enfermagem
+Barroso	96	Técnico em Enfermagem
+Bela Vista de Minas	95	Técnico em Enfermagem
+Belisário	11	Técnico em Enfermagem
+Belmiro Braga	24	Técnico em Enfermagem
+Belo Horizonte	15.589	Técnico em Enfermagem
+Belo Oriente	134	Técnico em Enfermagem
+Belo Oriente	134	Técnico em Enfermagem
+Belo Vale	18	Técnico em Enfermagem
+Bentópolis de Minas	1	Técnico em Enfermagem
+Berilo	33	Técnico em Enfermagem
+Berizal	23	Técnico em Enfermagem
+Bertópolis	30	Técnico em Enfermagem
+Betim	3.171	Técnico em Enfermagem
+Bias Fortes	14	Técnico em Enfermagem
+Bicas	75	Técnico em Enfermagem
+Biquinhas	16	Técnico em Enfermagem
+Boa Esperança	142	Técnico em Enfermagem
+Boa Esperança	142	Técnico em Enfermagem
+Boa União de Itabirinha	1	Técnico em Enfermagem
+Boa Vista de Minas	2	Técnico em Enfermagem
+Bocaina de Minas	6	Técnico em Enfermagem
+Bocaiúva	182	Técnico em Enfermagem
+Bom Despacho	222	Técnico em Enfermagem
+Bom Jardim de Minas	69	Técnico em Enfermagem
+Bom Jesus da Cachoeira	3	Técnico em Enfermagem
+Bom Jesus da Penha	8	Técnico em Enfermagem
+Bom Jesus do Amparo	9	Técnico em Enfermagem
+Bom Jesus do Divino	2	Técnico em Enfermagem
+Bom Jesus do Galho	56	Técnico em Enfermagem
+Bom Jesus do Madeira	2	Técnico em Enfermagem
+Bom Repouso	24	Técnico em Enfermagem
+Bom Sucesso	67	Técnico em Enfermagem
+Bonfim	10	Técnico em Enfermagem
+Bonfinópolis de Minas	13	Técnico em Enfermagem
+Bonito de Minas	22	Técnico em Enfermagem
+Borda da Mata	57	Técnico em Enfermagem
+Botelhos	86	Técnico em Enfermagem
+Botumirim	1	Técnico em Enfermagem
+Brás Pires	25	Técnico em Enfermagem
+Brasilândia de Minas	36	Técnico em Enfermagem
+Brasília de Minas	260	Técnico em Enfermagem
+Brasópolis	59	Técnico em Enfermagem
+Braúnas	11	Técnico em Enfermagem
+Brejaubinha	7	Técnico em Enfermagem
+Brejo Bonito	3	Técnico em Enfermagem
+Brumadinho	283	Técnico em Enfermagem
+Bueno Brandão	24	Técnico em Enfermagem
+Buenópolis	43	Técnico em Enfermagem
+Bugre	16	Técnico em Enfermagem
+Buritis	101	Técnico em Enfermagem
+Buritizeiro	96	Técnico em Enfermagem
+Caatinga	1	Técnico em Enfermagem
+Cabeceira Grande	18	Técnico em Enfermagem
+Cabo Verde	80	Técnico em Enfermagem
+Caçaratiba	2	Técnico em Enfermagem
+Cachoeira Alegre	16	Técnico em Enfermagem
+Cachoeira da Prata	39	Técnico em Enfermagem
+Cachoeira de Minas	42	Técnico em Enfermagem
+Cachoeira de Pajeú	16	Técnico em Enfermagem
+Cachoeira de Santa Cruz	2	Técnico em Enfermagem
+Cachoeira do Brumado	2	Técnico em Enfermagem
+Cachoeira do Campo	26	Técnico em Enfermagem
+Cachoeira Dourada	16	Técnico em Enfermagem
+Caetanópolis	31	Técnico em Enfermagem
+Caeté	582	Técnico em Enfermagem
+Caeté	582	Técnico em Enfermagem
+Caiana	11	Técnico em Enfermagem
+Cajuri	15	Técnico em Enfermagem
+Caldas	52	Técnico em Enfermagem
+Camacho	7	Técnico em Enfermagem
+Camanducaia	43	Técnico em Enfermagem
+Camargos	1	Técnico em Enfermagem
+Cambuí	75	Técnico em Enfermagem
+Cambuquira	72	Técnico em Enfermagem
+Campanário	15	Técnico em Enfermagem
+Campanha	44	Técnico em Enfermagem
+Campestre	49	Técnico em Enfermagem
+Campina Verde	81	Técnico em Enfermagem
+Campo Alegre de Minas	4	Técnico em Enfermagem
+Campo Azul	16	Técnico em Enfermagem
+Campo Belo	174	Técnico em Enfermagem
+Campo do Meio	42	Técnico em Enfermagem
+Campo Florido	32	Técnico em Enfermagem
+Campos Altos	49	Técnico em Enfermagem
+Campos Gerais	62	Técnico em Enfermagem
+Cana Verde	29	Técnico em Enfermagem
+Canaã	27	Técnico em Enfermagem
+Canabrava	2	Técnico em Enfermagem
+Canápolis	31	Técnico em Enfermagem
+Candeias	28	Técnico em Enfermagem
+Cantagalo	15	Técnico em Enfermagem
+Caparaó	15	Técnico em Enfermagem
+Capela Nova	18	Técnico em Enfermagem
+Capelinha	95	Técnico em Enfermagem
+Capetinga	47	Técnico em Enfermagem
+Capim Branco	26	Técnico em Enfermagem
+Capinópolis	42	Técnico em Enfermagem
+Capitão Andrade	14	Técnico em Enfermagem
+Capitão Enéas	24	Técnico em Enfermagem
+Capitólio	33	Técnico em Enfermagem
+Caputira	9	Técnico em Enfermagem
+Caraí	32	Técnico em Enfermagem
+Caranaíba	11	Técnico em Enfermagem
+Carandaí	120	Técnico em Enfermagem
+Carangola	294	Técnico em Enfermagem
+Caratinga	375	Técnico em Enfermagem
+Carbonita	33	Técnico em Enfermagem
+Careaçu	14	Técnico em Enfermagem
+Carlos Chagas	29	Técnico em Enfermagem
+Carmésia	22	Técnico em Enfermagem
+Carmo da Cachoeira	30	Técnico em Enfermagem
+Carmo da Mata	36	Técnico em Enfermagem
+Carmo de Minas	66	Técnico em Enfermagem
+Carmo do Cajuru	87	Técnico em Enfermagem
+Carmo do Paranaíba	115	Técnico em Enfermagem
+Carmo do Rio Claro	89	Técnico em Enfermagem
+Carmópolis de Minas	48	Técnico em Enfermagem
+Carneirinho	43	Técnico em Enfermagem
+Carrancas	16	Técnico em Enfermagem
+Carvalhópolis	20	Técnico em Enfermagem
+Carvalhos	19	Técnico em Enfermagem
+Casa Grande	3	Técnico em Enfermagem
+Cascalho Rico	5	Técnico em Enfermagem
+Cássia	97	Técnico em Enfermagem
+Cataguases	337	Técnico em Enfermagem
+Catas Altas	37	Técnico em Enfermagem
+Catas Altas da Noruega	17	Técnico em Enfermagem
+Catuji	21	Técnico em Enfermagem
+Catuni	2	Técnico em Enfermagem
+Catuti	11	Técnico em Enfermagem
+Caxambu	113	Técnico em Enfermagem
+Cedro do Abaeté	8	Técnico em Enfermagem
+Central de Minas	29	Técnico em Enfermagem
+Central de Santa Helena	1	Técnico em Enfermagem
+Centralina	25	Técnico em Enfermagem
+Chácara	22	Técnico em Enfermagem
+Chalé	23	Técnico em Enfermagem
+Chapada do Norte	17	Técnico em Enfermagem
+Chapada Gaúcha	40	Técnico em Enfermagem
+Chaveslândia	1	Técnico em Enfermagem
+Chiador	8	Técnico em Enfermagem
+Chonim	8	Técnico em Enfermagem
+Chumbo	1	Técnico em Enfermagem
+Cipotânea	27	Técnico em Enfermagem
+Cisneiros	2	Técnico em Enfermagem
+Claraval	7	Técnico em Enfermagem
+Claro de Minas	1	Técnico em Enfermagem
+Claro dos Poções	24	Técnico em Enfermagem
+Cláudio	59	Técnico em Enfermagem
+Cláudio Manuel	1	Técnico em Enfermagem
+Coimbra	41	Técnico em Enfermagem
+Coluna	27	Técnico em Enfermagem
+Comendador Gomes	10	Técnico em Enfermagem
+Comercinho	9	Técnico em Enfermagem
+Conceição da Aparecida	31	Técnico em Enfermagem
+Conceição da Barra de Minas	7	Técnico em Enfermagem
+Conceição da Ibitipoca	1	Técnico em Enfermagem
+Conceição das Alagoas	60	Técnico em Enfermagem
+Conceição das Pedras	20	Técnico em Enfermagem
+Conceição de Ipanema	15	Técnico em Enfermagem
+Conceição de Itaguá	2	Técnico em Enfermagem
+Conceição de Tronqueiras	4	Técnico em Enfermagem
+Conceição do Formoso	1	Técnico em Enfermagem
+Conceição do Mato Dentro	46	Técnico em Enfermagem
+Conceição do Pará	12	Técnico em Enfermagem
+Conceição do Rio Verde	15	Técnico em Enfermagem
+Conceição dos Ouros	48	Técnico em Enfermagem
+Concórdia de Mucuri	2	Técnico em Enfermagem
+Cônego Marinho	18	Técnico em Enfermagem
+Confins	21	Técnico em Enfermagem
+Congonhal	72	Técnico em Enfermagem
+Congonhas	282	Técnico em Enfermagem
+Congonhas do Norte	18	Técnico em Enfermagem
+Conquista	38	Técnico em Enfermagem
+Conselheiro Lafaiete	586	Técnico em Enfermagem
+Conselheiro Pena	47	Técnico em Enfermagem
+Consolação	3	Técnico em Enfermagem
+Contagem	4.396	Técnico em Enfermagem
+Contrato	1	Técnico em Enfermagem
+Coqueiral	37	Técnico em Enfermagem
+Coração de Jesus	84	Técnico em Enfermagem
+Cordisburgo	23	Técnico em Enfermagem
+Cordislândia	10	Técnico em Enfermagem
+Corinto	63	Técnico em Enfermagem
+Coroaci	34	Técnico em Enfermagem
+Coromandel	75	Técnico em Enfermagem
+Coronel Fabriciano	534	Técnico em Enfermagem
+Coronel Murta	18	Técnico em Enfermagem
+Coronel Pacheco	31	Técnico em Enfermagem
+Coronel Xavier Chaves	17	Técnico em Enfermagem
+Córrego Danta	11	Técnico em Enfermagem
+Córrego do Bom Jesus	11	Técnico em Enfermagem
+Córrego do Ouro	1	Técnico em Enfermagem
+Córrego Fundo	23	Técnico em Enfermagem
+Córrego Novo	10	Técnico em Enfermagem
+Correia de Almeida	16	Técnico em Enfermagem
+Costas	1	Técnico em Enfermagem
+Couto de Magalhães de Minas	18	Técnico em Enfermagem
+Crisólita	9	Técnico em Enfermagem
+Cristais	11	Técnico em Enfermagem
+Cristália	17	Técnico em Enfermagem
+Cristiano Otoni	22	Técnico em Enfermagem
+Cristina	34	Técnico em Enfermagem
+Crucilândia	9	Técnico em Enfermagem
+Cruzeiro da Fortaleza	10	Técnico em Enfermagem
+Cruzeiro dos Peixotos	4	Técnico em Enfermagem
+Cruzília	78	Técnico em Enfermagem
+Cuparaque	16	Técnico em Enfermagem
+Curral de Dentro	26	Técnico em Enfermagem
+Curvelo	389	Técnico em Enfermagem
+Datas	24	Técnico em Enfermagem
+Delfim Moreira	27	Técnico em Enfermagem
+Delfinópolis	30	Técnico em Enfermagem
+Delta	39	Técnico em Enfermagem
+Descoberto	10	Técnico em Enfermagem
+Desembargador Otoni	1	Técnico em Enfermagem
+Desterro de Entre Rios	12	Técnico em Enfermagem
+Desterro do Melo	23	Técnico em Enfermagem
+Diamante de Ubá	1	Técnico em Enfermagem
+Diamantina	333	Técnico em Enfermagem
+Dias Tavares	2	Técnico em Enfermagem
+Diogo de Vasconcelos	10	Técnico em Enfermagem
+Dionísio	25	Técnico em Enfermagem
+Divinésia	12	Técnico em Enfermagem
+Divino	105	Técnico em Enfermagem
+Divino das Laranjeiras	18	Técnico em Enfermagem
+Divino Espírito Santo	1	Técnico em Enfermagem
+Divinolândia de Minas	11	Técnico em Enfermagem
+Divinópolis	1.074	Técnico em Enfermagem
+Divisa Alegre	11	Técnico em Enfermagem
+Divisa Nova	35	Técnico em Enfermagem
+Divisópolis	40	Técnico em Enfermagem
+Dom Bosco	19	Técnico em Enfermagem
+Dom Cavati	16	Técnico em Enfermagem
+Dom Joaquim	7	Técnico em Enfermagem
+Dom Lara	1	Técnico em Enfermagem
+Dom Silvério	24	Técnico em Enfermagem
+Dom Viçoso	16	Técnico em Enfermagem
+Dona Euzébia	11	Técnico em Enfermagem
+Dores de Campos	25	Técnico em Enfermagem
+Dores de Guanhães	20	Técnico em Enfermagem
+Dores do Indaiá	44	Técnico em Enfermagem
+Dores do Paraibuna	1	Técnico em Enfermagem
+Dores do Turvo	14	Técnico em Enfermagem
+Doresópolis	15	Técnico em Enfermagem
+Douradoquara	10	Técnico em Enfermagem
+Durandé	32	Técnico em Enfermagem
+Elói Mendes	87	Técnico em Enfermagem
+Engenheiro Caldas	19	Técnico em Enfermagem
+Engenheiro Navarro	25	Técnico em Enfermagem
+Entre Folhas	24	Técnico em Enfermagem
+Entre Rios de Minas	62	Técnico em Enfermagem
+Epaminondas Otoni	2	Técnico em Enfermagem
+Ervália	76	Técnico em Enfermagem
+Esmeraldas	360	Técnico em Enfermagem
+Esmeraldas de Ferros	1	Técnico em Enfermagem
+Espera Feliz	65	Técnico em Enfermagem
+Espinosa	65	Técnico em Enfermagem
+Espírito Santo do Dourado	8	Técnico em Enfermagem
+Estevão de Araújo	1	Técnico em Enfermagem
+Estiva	19	Técnico em Enfermagem
+Estrela Dalva	7	Técnico em Enfermagem
+Estrela do Indaiá	22	Técnico em Enfermagem
+Estrela do Sul	26	Técnico em Enfermagem
+Eugenópolis	35	Técnico em Enfermagem
+Euxenita	1	Técnico em Enfermagem
+Ewbank da Câmara	31	Técnico em Enfermagem
+Extrema	86	Técnico em Enfermagem
+Fama	20	Técnico em Enfermagem
+Faria Lemos	51	Técnico em Enfermagem
+Felício dos Santos	10	Técnico em Enfermagem
+Felisburgo	21	Técnico em Enfermagem
+Felixlândia	38	Técnico em Enfermagem
+Fernandes Tourinho	15	Técnico em Enfermagem
+Fernão Dias	4	Técnico em Enfermagem
+Ferros	29	Técnico em Enfermagem
+Fervedouro	27	Técnico em Enfermagem
+Flor de Minas	1	Técnico em Enfermagem
+Floresta	3	Técnico em Enfermagem
+Florestal	29	Técnico em Enfermagem
+Fonseca	6	Técnico em Enfermagem
+Formiga	335	Técnico em Enfermagem
+Formoso	30	Técnico em Enfermagem
+Fortaleza de Minas	27	Técnico em Enfermagem
+Fortuna de Minas	19	Técnico em Enfermagem
+Francisco Badaró	13	Técnico em Enfermagem
+Francisco Dumont	16	Técnico em Enfermagem
+Francisco Sá	77	Técnico em Enfermagem
+Franciscópolis	18	Técnico em Enfermagem
+Frei Gaspar	23	Técnico em Enfermagem
+Frei Inocêncio	56	Técnico em Enfermagem
+Frei Lagonegro	8	Técnico em Enfermagem
+Frei Serafim	1	Técnico em Enfermagem
+Fronteira	53	Técnico em Enfermagem
+Fronteira dos Vales	11	Técnico em Enfermagem
+Fruta de Leite	7	Técnico em Enfermagem
+Frutal	171	Técnico em Enfermagem
+Funilândia	17	Técnico em Enfermagem
+Galiléia	24	Técnico em Enfermagem
+Gameleiras	16	Técnico em Enfermagem
+Garapuava	1	Técnico em Enfermagem
+Glaucilândia	12	Técnico em Enfermagem
+Glaura	1	Técnico em Enfermagem
+Glória de Cataguases	1	Técnico em Enfermagem
+Glucínio	1	Técnico em Enfermagem
+Goiabeira	10	Técnico em Enfermagem
+Goianá	22	Técnico em Enfermagem
+Goianases	3	Técnico em Enfermagem
+Gonçalves	13	Técnico em Enfermagem
+Gonzaga	18	Técnico em Enfermagem
+Gouveia	44	Técnico em Enfermagem
+Governador Valadares	1.629	Técnico em Enfermagem
+Granada	1	Técnico em Enfermagem
+Grão Mogol	46	Técnico em Enfermagem
+Grupiara	8	Técnico em Enfermagem
+Guaicui	4	Técnico em Enfermagem
+Guanhães	84	Técnico em Enfermagem
+Guapé	36	Técnico em Enfermagem
+Guaraciaba	50	Técnico em Enfermagem
+Guaraciama	20	Técnico em Enfermagem
+Guaranésia	86	Técnico em Enfermagem
+Guarani	22	Técnico em Enfermagem
+Guarará	22	Técnico em Enfermagem
+Guarda dos Ferreiros	4	Técnico em Enfermagem
+Guarda-Mor	25	Técnico em Enfermagem
+Guardinha	3	Técnico em Enfermagem
+Guaxupé	242	Técnico em Enfermagem
+Guidoval	42	Técnico em Enfermagem
+Guimarânia	57	Técnico em Enfermagem
+Guiricema	20	Técnico em Enfermagem
+Gurinhatã	13	Técnico em Enfermagem
+Heliodora	29	Técnico em Enfermagem
+Hematita	1	Técnico em Enfermagem
+Hermilo Alves	3	Técnico em Enfermagem
+Honorópolis	1	Técnico em Enfermagem
+Humaitá	3	Técnico em Enfermagem
+Iapu	42	Técnico em Enfermagem
+Ibertioga	28	Técnico em Enfermagem
+Ibiá	38	Técnico em Enfermagem
+Ibiaí	20	Técnico em Enfermagem
+Ibiracatu	20	Técnico em Enfermagem
+Ibiraci	11	Técnico em Enfermagem
+Ibirité	952	Técnico em Enfermagem
+Ibitira	4	Técnico em Enfermagem
+Ibitiúra de Minas	10	Técnico em Enfermagem
+Ibituruna	16	Técnico em Enfermagem
+Icaraí de Minas	30	Técnico em Enfermagem
+Igarapé	179	Técnico em Enfermagem
+Igaratinga	11	Técnico em Enfermagem
+Iguatama	50	Técnico em Enfermagem
+Ijaci	51	Técnico em Enfermagem
+Ilha do Rio Doce	1	Técnico em Enfermagem
+Ilicínea	53	Técnico em Enfermagem
+Imbé de Minas	15	Técnico em Enfermagem
+Inconfidentes	10	Técnico em Enfermagem
+Indaiabira	21	Técnico em Enfermagem
+Indianópolis	18	Técnico em Enfermagem
+Ingaí	23	Técnico em Enfermagem
+Inhaí	1	Técnico em Enfermagem
+Inhapim	73	Técnico em Enfermagem
+Inhaúma	35	Técnico em Enfermagem
+Inimutaba	43	Técnico em Enfermagem
+Ipaba	76	Técnico em Enfermagem
+Ipanema	50	Técnico em Enfermagem
+Ipatinga	1.864	Técnico em Enfermagem
+Ipiaçu	13	Técnico em Enfermagem
+Ipoema	4	Técnico em Enfermagem
+Ipuiúna	29	Técnico em Enfermagem
+Iraí de Minas	22	Técnico em Enfermagem
+Itabira	677	Técnico em Enfermagem
+Itabirinha	29	Técnico em Enfermagem
+Itabirito	245	Técnico em Enfermagem
+Itacambira	10	Técnico em Enfermagem
+Itacarambi	60	Técnico em Enfermagem
+Itaguara	64	Técnico em Enfermagem
+Itaipé	17	Técnico em Enfermagem
+Itajubá	579	Técnico em Enfermagem
+Itamarandiba	135	Técnico em Enfermagem
+Itamarati	2	Técnico em Enfermagem
+Itamarati de Minas	11	Técnico em Enfermagem
+Itambacuri	67	Técnico em Enfermagem
+Itambé do Mato Dentro	5	Técnico em Enfermagem
+Itamogi	46	Técnico em Enfermagem
+Itamonte	57	Técnico em Enfermagem
+Itamuri	3	Técnico em Enfermagem
+Itanhandu	86	Técnico em Enfermagem
+Itanhomi	42	Técnico em Enfermagem
+Itaobim	65	Técnico em Enfermagem
+Itapagipe	31	Técnico em Enfermagem
+Itapanhoacanga	1	Técnico em Enfermagem
+Itapecerica	55	Técnico em Enfermagem
+Itapeva	33	Técnico em Enfermagem
+Itapiru	1	Técnico em Enfermagem
+Itatiaiuçu	45	Técnico em Enfermagem
+Itaú de Minas	128	Técnico em Enfermagem
+Itaúna	218	Técnico em Enfermagem
+Itaverava	16	Técnico em Enfermagem
+Itinga	35	Técnico em Enfermagem
+Itueta	15	Técnico em Enfermagem
+Ituiutaba	326	Técnico em Enfermagem
+Itumirim	24	Técnico em Enfermagem
+Iturama	156	Técnico em Enfermagem
+Itutinga	23	Técnico em Enfermagem
+Jaboticatubas	34	Técnico em Enfermagem
+Jacinto	27	Técnico em Enfermagem
+Jacuí	24	Técnico em Enfermagem
+Jacutinga	25	Técnico em Enfermagem
+Jaguaraçu	14	Técnico em Enfermagem
+Jaíba	82	Técnico em Enfermagem
+Jampruca	4	Técnico em Enfermagem
+Janaúba	314	Técnico em Enfermagem
+Januária	184	Técnico em Enfermagem
+Japaraíba	10	Técnico em Enfermagem
+Japonvar	30	Técnico em Enfermagem
+Jeceaba	20	Técnico em Enfermagem
+Jenipapo de Minas	19	Técnico em Enfermagem
+Jequeri	42	Técnico em Enfermagem
+Jequitaí	15	Técnico em Enfermagem
+Jequitibá	18	Técnico em Enfermagem
+Jequitinhonha	90	Técnico em Enfermagem
+Jesuânia	14	Técnico em Enfermagem
+Joaíma	45	Técnico em Enfermagem
+Joanésia	13	Técnico em Enfermagem
+João Monlevade	484	Técnico em Enfermagem
+João Pinheiro	163	Técnico em Enfermagem
+Joaquim Felício	18	Técnico em Enfermagem
+Jordânia	36	Técnico em Enfermagem
+José Gonçalves de Minas	11	Técnico em Enfermagem
+José Raydan	14	Técnico em Enfermagem
+Joselândia	1	Técnico em Enfermagem
+Josenópolis	14	Técnico em Enfermagem
+Juatuba	152	Técnico em Enfermagem
+Jubaí	2	Técnico em Enfermagem
+Juiz de Fora	4.650	Técnico em Enfermagem
+Juramento	21	Técnico em Enfermagem
+Juruaia	19	Técnico em Enfermagem
+Juvenília	21	Técnico em Enfermagem
+Ladainha	32	Técnico em Enfermagem
+Lagamar	46	Técnico em Enfermagem
+Lagoa da Prata	110	Técnico em Enfermagem
+Lagoa dos Patos	10	Técnico em Enfermagem
+Lagoa Dourada	24	Técnico em Enfermagem
+Lagoa Formosa	95	Técnico em Enfermagem
+Lagoa Grande	28	Técnico em Enfermagem
+Lagoa Santa	343	Técnico em Enfermagem
+Lajinha	30	Técnico em Enfermagem
+Lambari	84	Técnico em Enfermagem
+Lamim	11	Técnico em Enfermagem
+Lamounier	2	Técnico em Enfermagem
+Lapinha	1	Técnico em Enfermagem
+Laranjal	32	Técnico em Enfermagem
+Lassance	20	Técnico em Enfermagem
+Lavras	539	Técnico em Enfermagem
+Leandro Ferreira	2	Técnico em Enfermagem
+Leme do Prado	16	Técnico em Enfermagem
+Leopoldina	245	Técnico em Enfermagem
+Liberdade	16	Técnico em Enfermagem
+Lima Duarte	122	Técnico em Enfermagem
+Limeira de Mantena	1	Técnico em Enfermagem
+Limeira do Oeste	26	Técnico em Enfermagem
+Lontra	26	Técnico em Enfermagem
+Lufa	1	Técnico em Enfermagem
+Luisburgo	15	Técnico em Enfermagem
+Luislândia	17	Técnico em Enfermagem
+Luizlândia do Oeste	4	Técnico em Enfermagem
+Luminárias	28	Técnico em Enfermagem
+Luz	79	Técnico em Enfermagem
+Macaia	2	Técnico em Enfermagem
+Machacalis	45	Técnico em Enfermagem
+Machado	67	Técnico em Enfermagem
+Macuco de Minas	5	Técnico em Enfermagem
+Madre de Deus de Minas	16	Técnico em Enfermagem
+Major Porto	1	Técnico em Enfermagem
+Malacacheta	52	Técnico em Enfermagem
+Mamonas	15	Técnico em Enfermagem
+Manga	79	Técnico em Enfermagem
+Manhuaçu	323	Técnico em Enfermagem
+Manhumirim	67	Técnico em Enfermagem
+Mantena	82	Técnico em Enfermagem
+Mar de Espanha	48	Técnico em Enfermagem
+Maravilhas	33	Técnico em Enfermagem
+Maria da Fé	80	Técnico em Enfermagem
+Mariana	330	Técnico em Enfermagem
+Marilac	13	Técnico em Enfermagem
+Marilândia	2	Técnico em Enfermagem
+Mário Campos	99	Técnico em Enfermagem
+Maripá de Minas	18	Técnico em Enfermagem
+Marliéria	19	Técnico em Enfermagem
+Marmelópolis	9	Técnico em Enfermagem
+Martinésia	1	Técnico em Enfermagem
+Martinho Campos	32	Técnico em Enfermagem
+Martins Soares	20	Técnico em Enfermagem
+Mata Verde	8	Técnico em Enfermagem
+Materlândia	18	Técnico em Enfermagem
+Mateus Leme	137	Técnico em Enfermagem
+Mathias Lobato	15	Técnico em Enfermagem
+Matias Barbosa	114	Técnico em Enfermagem
+Matias Cardoso	32	Técnico em Enfermagem
+Matipó	44	Técnico em Enfermagem
+Mato Verde	43	Técnico em Enfermagem
+Matozinhos	133	Técnico em Enfermagem
+Matutina	23	Técnico em Enfermagem
+Medeiros	12	Técnico em Enfermagem
+Medina	51	Técnico em Enfermagem
+Melo Viana	1	Técnico em Enfermagem
+Mendanha	1	Técnico em Enfermagem
+Mendes Pimentel	22	Técnico em Enfermagem
+Mendonça	1	Técnico em Enfermagem
+Mercês	68	Técnico em Enfermagem
+Mercês de Água Limpa	1	Técnico em Enfermagem
+Mesquita	21	Técnico em Enfermagem
+Miguel Burnier	1	Técnico em Enfermagem
+Milagre	3	Técnico em Enfermagem
+Minas Novas	79	Técnico em Enfermagem
+Minduri	15	Técnico em Enfermagem
+Mirabela	56	Técnico em Enfermagem
+Miradouro	48	Técnico em Enfermagem
+Miragaia	1	Técnico em Enfermagem
+Miraí	53	Técnico em Enfermagem
+Mirantão	1	Técnico em Enfermagem
+Miravânia	21	Técnico em Enfermagem
+Mocambeiro	7	Técnico em Enfermagem
+Moeda	17	Técnico em Enfermagem
+Moema	50	Técnico em Enfermagem
+Monjolos	25	Técnico em Enfermagem
+Monsenhor Isidro	4	Técnico em Enfermagem
+Monsenhor João Alexandre	2	Técnico em Enfermagem
+Monsenhor Paulo	23	Técnico em Enfermagem
+Montalvânia	43	Técnico em Enfermagem
+Monte Alegre de Minas	27	Técnico em Enfermagem
+Monte Azul	45	Técnico em Enfermagem
+Monte Belo	50	Técnico em Enfermagem
+Monte Carmelo	120	Técnico em Enfermagem
+Monte Celeste	2	Técnico em Enfermagem
+Monte Formoso	19	Técnico em Enfermagem
+Monte Rei	1	Técnico em Enfermagem
+Monte Santo de Minas	38	Técnico em Enfermagem
+Monte Sião	20	Técnico em Enfermagem
+Monte Verde	8	Técnico em Enfermagem
+Montes Claros	2.202	Técnico em Enfermagem
+Montezuma	23	Técnico em Enfermagem
+Morada Nova de Minas	25	Técnico em Enfermagem
+Morro da Garça	8	Técnico em Enfermagem
+Morro do Ferro	4	Técnico em Enfermagem
+Morro do Pilar	10	Técnico em Enfermagem
+Morro Vermelho	2	Técnico em Enfermagem
+Mucuri	5	Técnico em Enfermagem
+Munhoz	17	Técnico em Enfermagem
+Muriaé	724	Técnico em Enfermagem
+Mutum	57	Técnico em Enfermagem
+Muzambinho	135	Técnico em Enfermagem
+Nacip Raydan	4	Técnico em Enfermagem
+Nanuque	68	Técnico em Enfermagem
+Naque	24	Técnico em Enfermagem
+Natalândia	17	Técnico em Enfermagem
+Natércia	24	Técnico em Enfermagem
+Nazareno	32	Técnico em Enfermagem
+Nelson de Sena	1	Técnico em Enfermagem
+Neolândia	1	Técnico em Enfermagem
+Nepomuceno	68	Técnico em Enfermagem
+Ninheira	20	Técnico em Enfermagem
+Nova Belém	12	Técnico em Enfermagem
+Nova Era	121	Técnico em Enfermagem
+Nova Esperança	12	Técnico em Enfermagem
+Nova Lima	819	Técnico em Enfermagem
+Nova Módica	11	Técnico em Enfermagem
+Nova Ponte	44	Técnico em Enfermagem
+Nova Porteirinha	25	Técnico em Enfermagem
+Nova Resende	50	Técnico em Enfermagem
+Nova Serrana	59	Técnico em Enfermagem
+Nova União	24	Técnico em Enfermagem
+Novo Cruzeiro	60	Técnico em Enfermagem
+Novo Horizonte	3	Técnico em Enfermagem
+Novo Oriente de Minas	15	Técnico em Enfermagem
+Novorizonte	10	Técnico em Enfermagem
+Olaria	8	Técnico em Enfermagem
+Olhos D'Água	7	Técnico em Enfermagem
+Olímpio Noronha	12	Técnico em Enfermagem
+Oliveira	175	Técnico em Enfermagem
+Oliveira Fortes	6	Técnico em Enfermagem
+Onça de Pitangui	8	Técnico em Enfermagem
+Oratórios	42	Técnico em Enfermagem
+Orizânia	30	Técnico em Enfermagem
+Ouro Branco	216	Técnico em Enfermagem
+Ouro Fino	32	Técnico em Enfermagem
+Ouro Preto	290	Técnico em Enfermagem
+Ouro Verde de Minas	16	Técnico em Enfermagem
+Padre Carvalho	22	Técnico em Enfermagem
+Padre Paraíso	33	Técnico em Enfermagem
+Padre Pinto	1	Técnico em Enfermagem
+Pai Pedro	15	Técnico em Enfermagem
+Paineiras	18	Técnico em Enfermagem
+Pains	25	Técnico em Enfermagem
+Paiolinho	1	Técnico em Enfermagem
+Paiva	9	Técnico em Enfermagem
+Palma	26	Técnico em Enfermagem
+Palmeiral	3	Técnico em Enfermagem
+Palmital de Minas	1	Técnico em Enfermagem
+Palmital dos Carvalhos	2	Técnico em Enfermagem
+Palmópolis	23	Técnico em Enfermagem
+Papagaios	48	Técnico em Enfermagem
+Pará de Minas	227	Técnico em Enfermagem
+Paracatu	474	Técnico em Enfermagem
+Paraguaçu	64	Técnico em Enfermagem
+Paraguai	1	Técnico em Enfermagem
+Paraisópolis	75	Técnico em Enfermagem
+Paraopeba	62	Técnico em Enfermagem
+Paredão de Minas	1	Técnico em Enfermagem
+Passa Quatro	70	Técnico em Enfermagem
+Passa Tempo	24	Técnico em Enfermagem
+Passa Vinte	8	Técnico em Enfermagem
+Passabém	10	Técnico em Enfermagem
+Passagem de Mariana	5	Técnico em Enfermagem
+Passos	723	Técnico em Enfermagem
+Patis	19	Técnico em Enfermagem
+Patos de Minas	1.109	Técnico em Enfermagem
+Patrocínio	563	Técnico em Enfermagem
+Patrocínio do Muriaé	24	Técnico em Enfermagem
+Paula Cândido	51	Técnico em Enfermagem
+Paula Lima	5	Técnico em Enfermagem
+Paulistas	20	Técnico em Enfermagem
+Pavão	14	Técnico em Enfermagem
+Peçanha	33	Técnico em Enfermagem
+Pedra Azul	104	Técnico em Enfermagem
+Pedra Bonita	18	Técnico em Enfermagem
+Pedra do Anta	14	Técnico em Enfermagem
+Pedra do Indaiá	16	Técnico em Enfermagem
+Pedra do Sino	3	Técnico em Enfermagem
+Pedra Dourada	9	Técnico em Enfermagem
+Pedralva	63	Técnico em Enfermagem
+Pedras de Maria da Cruz	19	Técnico em Enfermagem
+Pedrinópolis	13	Técnico em Enfermagem
+Pedro Leopoldo	216	Técnico em Enfermagem
+Pedro Teixeira	14	Técnico em Enfermagem
+Pedro Versiani	2	Técnico em Enfermagem
+Penha de França	1	Técnico em Enfermagem
+Penha do Capim	5	Técnico em Enfermagem
+Penha do Cassiano	1	Técnico em Enfermagem
+Pequeri	13	Técnico em Enfermagem
+Pequi	23	Técnico em Enfermagem
+Perdigão	10	Técnico em Enfermagem
+Perdizes	30	Técnico em Enfermagem
+Perdões	55	Técnico em Enfermagem
+Pereirinhas	1	Técnico em Enfermagem
+Periquito	25	Técnico em Enfermagem
+Perpétuo Socorro	13	Técnico em Enfermagem
+Pescador	13	Técnico em Enfermagem
+Piacatuba	3	Técnico em Enfermagem
+Piau	13	Técnico em Enfermagem
+Piedade de Caratinga	17	Técnico em Enfermagem
+Piedade de Ponte Nova	16	Técnico em Enfermagem
+Piedade do Rio Grande	13	Técnico em Enfermagem
+Piedade dos Gerais	19	Técnico em Enfermagem
+Pimenta	18	Técnico em Enfermagem
+Pingo-D'Água	5	Técnico em Enfermagem
+Pinheiro Grosso	5	Técnico em Enfermagem
+Pinhotiba	2	Técnico em Enfermagem
+Pintópolis	17	Técnico em Enfermagem
+Piracaiba	2	Técnico em Enfermagem
+Piracema	21	Técnico em Enfermagem
+Pirajuba	17	Técnico em Enfermagem
+Piranga	60	Técnico em Enfermagem
+Piranguçu	24	Técnico em Enfermagem
+Piranguinho	41	Técnico em Enfermagem
+Pirapetinga	35	Técnico em Enfermagem
+Pirapora	241	Técnico em Enfermagem
+Piraúba	51	Técnico em Enfermagem
+Pitangui	67	Técnico em Enfermagem
+Piumhi	159	Técnico em Enfermagem
+Planalto de Minas	1	Técnico em Enfermagem
+Planura	45	Técnico em Enfermagem
+Poço Fundo	41	Técnico em Enfermagem
+Poços de Caldas	1.051	Técnico em Enfermagem
+Pocrane	21	Técnico em Enfermagem
+Pompéu	85	Técnico em Enfermagem
+Ponte Alta	3	Técnico em Enfermagem
+Ponte Alta de Minas	2	Técnico em Enfermagem
+Ponte do Cosme	1	Técnico em Enfermagem
+Ponte dos Ciganos	1	Técnico em Enfermagem
+Ponte Firme	1	Técnico em Enfermagem
+Ponte Nova	417	Técnico em Enfermagem
+Ponto Chique	17	Técnico em Enfermagem
+Ponto do Marambaia	1	Técnico em Enfermagem
+Ponto dos Volantes	21	Técnico em Enfermagem
+Porteirinha	101	Técnico em Enfermagem
+Porto das Flores	1	Técnico em Enfermagem
+Porto Firme	36	Técnico em Enfermagem
+Poté	34	Técnico em Enfermagem
+Pouso Alegre	875	Técnico em Enfermagem
+Pouso Alegre	875	Técnico em Enfermagem
+Pouso Alto	39	Técnico em Enfermagem
+Prados	33	Técnico em Enfermagem
+Prata	102	Técnico em Enfermagem
+Pratápolis	38	Técnico em Enfermagem
+Pratinha	12	Técnico em Enfermagem
+Presidente Bernardes	32	Técnico em Enfermagem
+Presidente Juscelino	9	Técnico em Enfermagem
+Presidente Kubitschek	13	Técnico em Enfermagem
+Presidente Olegário	114	Técnico em Enfermagem
+Presidente Pena	1	Técnico em Enfermagem
+Providência	1	Técnico em Enfermagem
+Prudente de Morais	61	Técnico em Enfermagem
+Quartel Geral	27	Técnico em Enfermagem
+Queluzito	4	Técnico em Enfermagem
+Raposos	252	Técnico em Enfermagem
+Raul Soares	33	Técnico em Enfermagem
+Ravena	16	Técnico em Enfermagem
+Realeza	5	Técnico em Enfermagem
+Recreio	57	Técnico em Enfermagem
+Reduto	25	Técnico em Enfermagem
+Resende Costa	46	Técnico em Enfermagem
+Resplendor	75	Técnico em Enfermagem
+Ressaquinha	40	Técnico em Enfermagem
+Riachinho	30	Técnico em Enfermagem
+Riacho dos Machados	16	Técnico em Enfermagem
+Ribeirão das Neves	2.185	Técnico em Enfermagem
+Ribeirão de São Domingos	2	Técnico em Enfermagem
+Ribeirão Vermelho	40	Técnico em Enfermagem
+Ribeiro Junqueira	2	Técnico em Enfermagem
+Rio Acima	97	Técnico em Enfermagem
+Rio Casca	46	Técnico em Enfermagem
+Rio das Mortes	10	Técnico em Enfermagem
+Rio do Prado	26	Técnico em Enfermagem
+Rio Doce	18	Técnico em Enfermagem
+Rio Espera	27	Técnico em Enfermagem
+Rio Manso	18	Técnico em Enfermagem
+Rio Novo	34	Técnico em Enfermagem
+Rio Paranaíba	50	Técnico em Enfermagem
+Rio Pardo de Minas	48	Técnico em Enfermagem
+Rio Piracicaba	62	Técnico em Enfermagem
+Rio Pomba	47	Técnico em Enfermagem
+Rio Pretinho	1	Técnico em Enfermagem
+Rio Preto	17	Técnico em Enfermagem
+Rio Vermelho	43	Técnico em Enfermagem
+Ritápolis	29	Técnico em Enfermagem
+Roça Grande	2	Técnico em Enfermagem
+Roças Novas	1	Técnico em Enfermagem
+Rochedo de Minas	11	Técnico em Enfermagem
+Rodeiro	37	Técnico em Enfermagem
+Romaria	15	Técnico em Enfermagem
+Rosário da Limeira	28	Técnico em Enfermagem
+Rosário de Minas	2	Técnico em Enfermagem
+Roseiral	2	Técnico em Enfermagem
+Rubelita	15	Técnico em Enfermagem
+Rubim	15	Técnico em Enfermagem
+Sabará	959	Técnico em Enfermagem
+Sabinópolis	46	Técnico em Enfermagem
+Sacramento	87	Técnico em Enfermagem
+Salinas	121	Técnico em Enfermagem
+Salitre de Minas	6	Técnico em Enfermagem
+Salto da Divisa	20	Técnico em Enfermagem
+Santa Bárbara	126	Técnico em Enfermagem
+Santa Bárbara do Leste	17	Técnico em Enfermagem
+Santa Bárbara do Monte Verde	22	Técnico em Enfermagem
+Santa Bárbara do Tugúrio	18	Técnico em Enfermagem
+Santa Cruz de Minas	25	Técnico em Enfermagem
+Santa Cruz de Salinas	12	Técnico em Enfermagem
+Santa Cruz do Escalvado	17	Técnico em Enfermagem
+Santa Efigênia	2	Técnico em Enfermagem
+Santa Efigênia de Minas	9	Técnico em Enfermagem
+Santa Fé de Minas	14	Técnico em Enfermagem
+Santa Filomena	1	Técnico em Enfermagem
+Santa Helena de Minas	21	Técnico em Enfermagem
+Santa Juliana	41	Técnico em Enfermagem
+Santa Luzia	1.792	Técnico em Enfermagem
+Santa Margarida	38	Técnico em Enfermagem
+Santa Maria de Itabira	21	Técnico em Enfermagem
+Santa Maria do Salto	20	Técnico em Enfermagem
+Santa Maria do Suaçuí	32	Técnico em Enfermagem
+Santa Rita de Caldas	25	Técnico em Enfermagem
+Santa Rita de Jacutinga	10	Técnico em Enfermagem
+Santa Rita de Minas	20	Técnico em Enfermagem
+Santa Rita de Ouro Preto	3	Técnico em Enfermagem
+Santa Rita do Ibitipoca	12	Técnico em Enfermagem
+Santa Rita do Itueto	12	Técnico em Enfermagem
+Santa Rita do Sapucaí	84	Técnico em Enfermagem
+Santa Rosa da Serra	19	Técnico em Enfermagem
+Santa Terezinha de Minas	3	Técnico em Enfermagem
+Santa Vitória	60	Técnico em Enfermagem
+Santana da Vargem	30	Técnico em Enfermagem
+Santana de Cataguases	12	Técnico em Enfermagem
+Santana de Patos	2	Técnico em Enfermagem
+Santana de Pirapama	16	Técnico em Enfermagem
+Santana do Araçuaí	1	Técnico em Enfermagem
+Santana do Campestre	3	Técnico em Enfermagem
+Santana do Capivari	2	Técnico em Enfermagem
+Santana do Deserto	9	Técnico em Enfermagem
+Santana do Garambéu	10	Técnico em Enfermagem
+Santana do Jacaré	37	Técnico em Enfermagem
+Santana do Manhuaçu	30	Técnico em Enfermagem
+Santana do Paraíso	285	Técnico em Enfermagem
+Santana do Riacho	9	Técnico em Enfermagem
+Santana do Tabuleiro	1	Técnico em Enfermagem
+Santana dos Montes	13	Técnico em Enfermagem
+Santo Antônio do Amparo	53	Técnico em Enfermagem
+Santo Antônio do Aventureiro	2	Técnico em Enfermagem
+Santo Antônio do Glória	7	Técnico em Enfermagem
+Santo Antônio do Grama	19	Técnico em Enfermagem
+Santo Antônio do Itambé	7	Técnico em Enfermagem
+Santo Antônio do Jacinto	17	Técnico em Enfermagem
+Santo Antônio do Leite	5	Técnico em Enfermagem
+Santo Antônio do Monte	63	Técnico em Enfermagem
+Santo Antônio do Pontal	1	Técnico em Enfermagem
+Santo Antônio do Retiro	14	Técnico em Enfermagem
+Santo Antônio do Rio Abaixo	13	Técnico em Enfermagem
+Santo Antônio dos Campos	16	Técnico em Enfermagem
+Santo Hipólito	12	Técnico em Enfermagem
+Santos Dumont	434	Técnico em Enfermagem
+São Bento Abade	15	Técnico em Enfermagem
+São Brás do Suaçuí	24	Técnico em Enfermagem
+São Braz	2	Técnico em Enfermagem
+São Cândido	2	Técnico em Enfermagem
+São Domingos das Dores	11	Técnico em Enfermagem
+São Domingos do Prata	62	Técnico em Enfermagem
+São Félix de Minas	18	Técnico em Enfermagem
+São Francisco	126	Técnico em Enfermagem
+São Francisco de Paula	21	Técnico em Enfermagem
+São Francisco de Sales	13	Técnico em Enfermagem
+São Francisco do Glória	14	Técnico em Enfermagem
+São Geraldo	22	Técnico em Enfermagem
+São Geraldo	22	Técnico em Enfermagem
+São Geraldo da Piedade	7	Técnico em Enfermagem
+São Geraldo de Tumiritinga	2	Técnico em Enfermagem
+São Geraldo do Baguari	1	Técnico em Enfermagem
+São Geraldo do Baixio	5	Técnico em Enfermagem
+São Gonçalo do Abaeté	11	Técnico em Enfermagem
+São Gonçalo do Pará	31	Técnico em Enfermagem
+São Gonçalo do Rio Abaixo	57	Técnico em Enfermagem
+São Gonçalo do Rio das Pedras	1	Técnico em Enfermagem
+São Gonçalo do Rio Preto	8	Técnico em Enfermagem
+São Gonçalo do Sapucaí	52	Técnico em Enfermagem
+São Gotardo	91	Técnico em Enfermagem
+São João Batista do Glória	38	Técnico em Enfermagem
+São João da Chapada	2	Técnico em Enfermagem
+São João da Lagoa	16	Técnico em Enfermagem
+São João da Mata	11	Técnico em Enfermagem
+São João da Ponte	44	Técnico em Enfermagem
+São João da Serra Negra	3	Técnico em Enfermagem
+São João da Vereda	1	Técnico em Enfermagem
+São João das Missões	60	Técnico em Enfermagem
+São João Del Rei	505	Técnico em Enfermagem
+São João do Manhuaçu	30	Técnico em Enfermagem
+São João do Manteninha	9	Técnico em Enfermagem
+São João do Oriente	19	Técnico em Enfermagem
+São João do Pacuí	8	Técnico em Enfermagem
+São João do Paraíso	53	Técnico em Enfermagem
+São João Evangelista	87	Técnico em Enfermagem
+São João Nepomuceno	67	Técnico em Enfermagem
+São Joaquim de Bicas	120	Técnico em Enfermagem
+São José da Barra	11	Técnico em Enfermagem
+São José da Lapa	172	Técnico em Enfermagem
+São José da Safira	11	Técnico em Enfermagem
+São José da Varginha	10	Técnico em Enfermagem
+São José do Acácio	2	Técnico em Enfermagem
+São José do Alegre	26	Técnico em Enfermagem
+São José do Divino	14	Técnico em Enfermagem
+São José do Goiabal	30	Técnico em Enfermagem
+São José do Itueto	2	Técnico em Enfermagem
+São José do Jacuri	17	Técnico em Enfermagem
+São José do Mantimento	7	Técnico em Enfermagem
+São José dos Salgados	2	Técnico em Enfermagem
+São Lourenço	249	Técnico em Enfermagem
+São Manoel do Guaiaçu	4	Técnico em Enfermagem
+São Mateus de Minas	1	Técnico em Enfermagem
+São Miguel do Anta	37	Técnico em Enfermagem
+São Miguel do Cajuru	1	Técnico em Enfermagem
+São Pedro da União	23	Técnico em Enfermagem
+São Pedro do Avaí	3	Técnico em Enfermagem
+São Pedro do Glória	1	Técnico em Enfermagem
+São Pedro do Jequitinhonha	2	Técnico em Enfermagem
+São Pedro do Suaçuí	17	Técnico em Enfermagem
+São Pedro dos Ferros	39	Técnico em Enfermagem
+São Romão	24	Técnico em Enfermagem
+São Roque de Minas	23	Técnico em Enfermagem
+São Sebastião da Bela Vista	13	Técnico em Enfermagem
+São Sebastião da Vargem Alegre	12	Técnico em Enfermagem
+São Sebastião da Vitória	7	Técnico em Enfermagem
+São Sebastião de Braúnas	1	Técnico em Enfermagem
+São Sebastião do Anta	12	Técnico em Enfermagem
+São Sebastião do Bugre	2	Técnico em Enfermagem
+São Sebastião do Maranhão	23	Técnico em Enfermagem
+São Sebastião do Oeste	11	Técnico em Enfermagem
+São Sebastião do Paraíso	208	Técnico em Enfermagem
+São Sebastião do Pontal	5	Técnico em Enfermagem
+São Sebastião do Rio Preto	7	Técnico em Enfermagem
+São Sebastião do Rio Verde	12	Técnico em Enfermagem
+São Sebastião do Sacramento	4	Técnico em Enfermagem
+São Thomé das Letras	23	Técnico em Enfermagem
+São Tiago	35	Técnico em Enfermagem
+São Tomás de Aquino	20	Técnico em Enfermagem
+São Vicente	4	Técnico em Enfermagem
+São Vicente de Minas	17	Técnico em Enfermagem
+São Vítor	1	Técnico em Enfermagem
+Sapucaia	4	Técnico em Enfermagem
+Sapucaia de Guanhães	2	Técnico em Enfermagem
+Sapucaí-Mirim	12	Técnico em Enfermagem
+Sarandira	1	Técnico em Enfermagem
+Sardoá	14	Técnico em Enfermagem
+Sarzedo	197	Técnico em Enfermagem
+Sem Peixe	10	Técnico em Enfermagem
+Senador Amaral	15	Técnico em Enfermagem
+Senador Cortes	4	Técnico em Enfermagem
+Senador Firmino	34	Técnico em Enfermagem
+Senador José Bento	6	Técnico em Enfermagem
+Senador Modestino Gonçalves	9	Técnico em Enfermagem
+Senador Mourão	1	Técnico em Enfermagem
+Senhora da Glória	2	Técnico em Enfermagem
+Senhora das Dores	8	Técnico em Enfermagem
+Senhora de Oliveira	23	Técnico em Enfermagem
+Senhora do Carmo	3	Técnico em Enfermagem
+Senhora do Porto	6	Técnico em Enfermagem
+Senhora dos Remédios	36	Técnico em Enfermagem
+Sereno	5	Técnico em Enfermagem
+Sericita	19	Técnico em Enfermagem
+Seritinga	22	Técnico em Enfermagem
+Serra Azul	3	Técnico em Enfermagem
+Serra Azul de Minas	10	Técnico em Enfermagem
+Serra Bonita	1	Técnico em Enfermagem
+Serra da Saudade	7	Técnico em Enfermagem
+Serra do Cipó	5	Técnico em Enfermagem
+Serra do Salitre	41	Técnico em Enfermagem
+Serra dos Aimorés	29	Técnico em Enfermagem
+Serrania	58	Técnico em Enfermagem
+Serranópolis de Minas	3	Técnico em Enfermagem
+Serranos	17	Técnico em Enfermagem
+Serro	67	Técnico em Enfermagem
+Sete Lagoas	1.136	Técnico em Enfermagem
+Setubinha	10	Técnico em Enfermagem
+Silveira Carvalho	12	Técnico em Enfermagem
+Silveirânia	8	Técnico em Enfermagem
+Silvianópolis	12	Técnico em Enfermagem
+Simão Pereira	4	Técnico em Enfermagem
+Simonésia	73	Técnico em Enfermagem
+Sobral Pinto	1	Técnico em Enfermagem
+Sobrália	11	Técnico em Enfermagem
+Soledade de Minas	40	Técnico em Enfermagem
+Sucanga	1	Técnico em Enfermagem
+Tabaúna	1	Técnico em Enfermagem
+Tabuleiro	19	Técnico em Enfermagem
+Taiobeiras	165	Técnico em Enfermagem
+Taparuba	10	Técnico em Enfermagem
+Tapira	11	Técnico em Enfermagem
+Tapiraí	3	Técnico em Enfermagem
+Tapuirama	6	Técnico em Enfermagem
+Taquaraçu de Minas	15	Técnico em Enfermagem
+Tarumirim	64	Técnico em Enfermagem
+Tebas	1	Técnico em Enfermagem
+Teixeiras	73	Técnico em Enfermagem
+Teófilo Otoni	776	Técnico em Enfermagem
+Timóteo	474	Técnico em Enfermagem
+Tiradentes	30	Técnico em Enfermagem
+Tiros	22	Técnico em Enfermagem
+Tocandira	1	Técnico em Enfermagem
+Tocantins	57	Técnico em Enfermagem
+Tocos do Moji	7	Técnico em Enfermagem
+Toledo	9	Técnico em Enfermagem
+Tombos	52	Técnico em Enfermagem
+Topázio	3	Técnico em Enfermagem
+Torreões	3	Técnico em Enfermagem
+Três Corações	523	Técnico em Enfermagem
+Três Marias	122	Técnico em Enfermagem
+Três Pontas	313	Técnico em Enfermagem
+Tuiutinga	1	Técnico em Enfermagem
+Tumiritinga	18	Técnico em Enfermagem
+Tupaciguara	70	Técnico em Enfermagem
+Tuparecê	1	Técnico em Enfermagem
+Turmalina	79	Técnico em Enfermagem
+Turvolândia	14	Técnico em Enfermagem
+Ubá	500	Técnico em Enfermagem
+Ubaí	46	Técnico em Enfermagem
+Ubaporanga	47	Técnico em Enfermagem
+Ubari	1	Técnico em Enfermagem
+Uberaba	2.437	Técnico em Enfermagem
+Uberlândia	3.923	Técnico em Enfermagem
+Umburatiba	11	Técnico em Enfermagem
+Unaí	458	Técnico em Enfermagem
+União de Minas	12	Técnico em Enfermagem
+Uruana de Minas	22	Técnico em Enfermagem
+Urucânia	40	Técnico em Enfermagem
+Urucuia	40	Técnico em Enfermagem
+Vai-Volta	1	Técnico em Enfermagem
+Valadares	2	Técnico em Enfermagem
+Vargem Alegre	29	Técnico em Enfermagem
+Vargem Bonita	20	Técnico em Enfermagem
+Vargem Grande do Rio Pardo	12	Técnico em Enfermagem
+Varginha	597	Técnico em Enfermagem
+Varjão de Minas	30	Técnico em Enfermagem
+Várzea da Palma	118	Técnico em Enfermagem
+Varzelândia	25	Técnico em Enfermagem
+Vau-Açu	5	Técnico em Enfermagem
+Vazante	79	Técnico em Enfermagem
+Verdelândia	26	Técnico em Enfermagem
+Veredas	1	Técnico em Enfermagem
+Veredinha	17	Técnico em Enfermagem
+Veríssimo	12	Técnico em Enfermagem
+Vermelho	2	Técnico em Enfermagem
+Vermelho Novo	13	Técnico em Enfermagem
+Vespasiano	786	Técnico em Enfermagem
+Viçosa	405	Técnico em Enfermagem
+Vieiras	16	Técnico em Enfermagem
+Vila Nova dos Poções	1	Técnico em Enfermagem
+Vila Nova Floresta	1	Técnico em Enfermagem
+Vila Pereira	3	Técnico em Enfermagem
+Virgem da Lapa	46	Técnico em Enfermagem
+Virgínia	27	Técnico em Enfermagem
+Virginópolis	48	Técnico em Enfermagem
+Virgolândia	11	Técnico em Enfermagem
+Visconde do Rio Branco	149	Técnico em Enfermagem
+Vista Alegre	14	Técnico em Enfermagem
+Vitorinos	3	Técnico em Enfermagem
+Volta Grande	5	Técnico em Enfermagem
+Wenceslau Braz	5	Técnico em Enfermagem
+Zito Soares	1	Técnico em Enfermagem
